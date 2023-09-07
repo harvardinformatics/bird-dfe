@@ -1,0 +1,1322 @@
+Assembly Accession	Assembly Name	Organism Name	Organism Infraspecific Names Breed	Organism Infraspecific Names Strain	Organism Infraspecific Names Cultivar	Organism Infraspecific Names Ecotype	Organism Infraspecific Names Isolate	Organism Infraspecific Names Sex	Annotation Name	Assembly Stats Total Sequence Length	Assembly Level	Assembly Release Date	WGS project accession
+GCA_016699485.1	bGalGal1.mat.broiler.GRCg7b	Gallus gallus	Cross of Broiler mother + white leghorn layer father				bGalGal1	female		1053315467	Chromosome	2021-01-19	JAENSK01
+GCF_016699485.2	bGalGal1.mat.broiler.GRCg7b	Gallus gallus	Cross of Broiler mother + white leghorn layer father				bGalGal1	female	NCBI Annotation Release 106	1053315467	Chromosome	2021-01-19	JAENSK01
+GCA_015476345.1	ZJU1.0	Anas platyrhynchos	Pekin duck				Z2	pooled male and female		1188516685	Chromosome	2020-11-23	JACGAL01
+GCF_015476345.1	ZJU1.0	Anas platyrhynchos	Pekin duck				Z2	pooled male and female	NCBI Annotation Release 104	1188516685	Chromosome	2020-11-23	JACGAL01
+GCA_003957565.4	bTaeGut1.4.pri	Taeniopygia guttata					Black17	male		1056254409	Chromosome	2021-05-04	RRCB02
+GCF_003957565.2	bTaeGut1.4.pri	Taeniopygia guttata					Blue55	female	NCBI Annotation Release 106	1056254409	Chromosome	2021-05-04	RRCB02
+GCA_001577835.2	Coturnix japonica 2.1	Coturnix japonica					7356	male		927640260	Chromosome	2016-03-01	LSZS01
+GCF_001577835.2	Coturnix japonica 2.1	Coturnix japonica					7356	male	NCBI Annotation Release 101	927640260	Chromosome	2016-03-01	LSZS01
+GCA_000146605.4	Turkey_5.1	Meleagris gallopavo	Aviagen turkey brand Nicholas breeding stock				NT-WF06-2002-E0010	female		1115457962	Chromosome	2019-10-21	ADDD02
+GCF_000146605.3	Turkey_5.1	Meleagris gallopavo	Aviagen turkey brand Nicholas breeding stock				NT-WF06-2002-E0010	female	NCBI Annotation Release 103	1115457962	Chromosome	2019-10-21	ADDD02
+GCA_018104995.1	ASM1810499v1	Cairina moschata					CM-2020	male		1118556028	Chromosome	2021-04-23	JADZGK01
+GCA_022539315.2	serCan2020	Serinus canaria					serCan28SL12	female		1050336073	Chromosome	2022-08-25	JAKSEN01
+GCF_022539315.1	serCan2020	Serinus canaria					serCan28SL12	female	GCF_022539315.1-RS_2023_02	1050336073	Chromosome	2022-08-25	JAKSEN01
+GCF_900496995.4	bAquChr1.4	Aquila chrysaetos chrysaetos							NCBI Annotation Release 101	1233704830	Chromosome	2021-03-26	UFQG04
+GCA_001522545.3	Parus_major1.1	Parus major					Abel	male		1020293992	Chromosome	2019-01-15	JRXK01
+GCF_001522545.3	Parus_major1.1	Parus major					Abel	male	NCBI Annotation Release 102	1020293992	Chromosome	2019-01-15	JRXK01
+GCA_018139145.2	ASM1813914v2	Gymnogyps californianus					813	female		1240248578	Chromosome	2022-09-01	JAGKTE02
+GCF_018139145.2	ASM1813914v2	Gymnogyps californianus					813	female	GCF_018139145.2-RS_2023_02	1240248578	Chromosome	2022-09-01	JAGKTE02
+GCA_003829775.2	dark-eyed_junco_22Sep2020_assembly	Junco hyemalis				carolinensis				1031523570	Chromosome	2022-06-02	QZWM02
+GCA_023634155.1	bFalPer1.pri	Falco peregrinus					bFalPer1	female		1311580791	Chromosome	2022-06-02	JAMOAR01
+GCF_023634155.1	bFalPer1.pri	Falco peregrinus					bFalPer1	female	GCF_023634155.1-RS_2023_04	1311580791	Chromosome	2022-06-02	JAMOAR01
+GCA_015227805.3	bHirRus1.pri.v3	Hirundo rustica					bHirRus1	female		1105955550	Chromosome	2021-11-30	JADDRP03
+GCF_015227805.2	bHirRus1.pri.v3	Hirundo rustica					bHirRus1	female	GCF_015227805.2-RS_2023_07	1105955550	Chromosome	2021-11-30	JADDRP03
+GCA_023634085.1	bFalChe1.pri	Falco cherrug					bFalChe1	female		1309366964	Chromosome	2022-06-02	JAMOAL01
+GCF_023634085.1	bFalChe1.pri	Falco cherrug					bFalChe1	female	GCF_023634085.1-RS_2023_04	1309366964	Chromosome	2022-06-02	JAMOAL01
+GCA_027477595.1	bHaeMex1.pri	Haemorhous mexicanus					bHaeMex1	female		1148216196	Chromosome	2022-12-29	JAPYKC01
+GCA_012275295.1	bMelUnd1.mat.Z	Melopsittacus undulatus					bMelUnd1	female		1171617451	Chromosome	2020-04-13	JAAVWG01
+GCF_012275295.1	bMelUnd1.mat.Z	Melopsittacus undulatus					bMelUnd1	female	NCBI Annotation Release 104	1171617451	Chromosome	2020-04-13	JAAVWG01
+GCA_003957555.2	bCalAnn1_v1.p	Calypte anna					BGI_N300	female		1059687259	Chromosome	2019-05-17	RRCD01
+GCF_003957555.1	bCalAnn1_v1.p	Calypte anna					BGI_N300	female	NCBI Annotation Release 101	1059687259	Chromosome	2019-05-16	RRCD01
+GCA_001700915.1	Passer_domesticus-1.0	Passer domesticus					8887266	female		1042703894	Chromosome	2016-08-31	MBAE01
+GCA_014839755.1	bSylBor1.pri	Sylvia borin					bSylBor1	male		1045652180	Chromosome	2020-10-02	JACEWE01
+GCA_017976375.1	bCucCan1.pri	Cuculus canorus					bCucCan1	female		1180136575	Chromosome	2021-04-15	JAGIYT01
+GCF_017976375.1	bCucCan1.pri	Cuculus canorus					bCucCan1	female	GCF_017976375.1-RS_2023_02	1180136575	Chromosome	2021-04-15	JAGIYT01
+GCA_028389875.1	bPtePen1.pri	Rhea pennata					bPtePen1	male		1269000025	Chromosome	2023-02-06	JAQOLV01
+GCA_014839835.1	bDryPub1.pri	Dryobates pubescens					bDryPub1	female		1187939694	Chromosome	2020-10-02	JACNMV01
+GCF_014839835.1	bDryPub1.pri	Dryobates pubescens					bDryPub1	female	GCF_014839835.1-RS_2023_03	1187939694	Chromosome	2020-10-02	JACNMV01
+GCA_929443795.1	bAccGen1.1	Accipiter gentilis								1398011397	Chromosome	2022-02-09	CAKNBG01
+GCF_929443795.1	bAccGen1.1	Accipiter gentilis							GCF_929443795.1-RS_2023_02	1398011397	Chromosome	2022-02-09	CAKNBG01
+GCA_015220075.1	bFalRus1.pri	Falco rusticolus					bFalRus1	female		1195829278	Chromosome	2020-11-03	JADCQO01
+GCF_015220075.1	bFalRus1.pri	Falco rusticolus					bFalRus1	female	NCBI Annotation Release 100	1195829278	Chromosome	2020-11-03	JADCQO01
+GCA_009819885.2	bCatUst1.pri.v2	Catharus ustulatus					bCatUst1	female		1131616530	Chromosome	2020-12-22	WNMQ02
+GCF_009819885.2	bCatUst1.pri.v2	Catharus ustulatus					bCatUst1	female	NCBI Annotation Release 101	1131616530	Chromosome	2020-12-22	WNMQ02
+GCA_002078875.2	NumMel1.0	Numida meleagris	g44 Domestic line				19003	male		1043247365	Chromosome	2017-06-01	MTSP01
+GCF_002078875.1	NumMel1.0	Numida meleagris	g44 Domestic line				19003	male	NCBI Annotation Release 100	1043247365	Chromosome	2017-06-01	MTSP01
+GCA_023343835.1	bLagMut1 primary	Lagopus muta					bLagMut1	female		1026755127	Chromosome	2022-05-12	JAMCCT01
+GCF_023343835.1	bLagMut1 primary	Lagopus muta					bLagMut1	female	NCBI Annotation Release 100	1026755127	Chromosome	2022-05-12	JAMCCT01
+GCA_009819775.1	bPhoRub2.pri	Phoenicopterus ruber ruber					bPhoRub2	female		1246226932	Chromosome	2019-12-31	WNMK01
+GCA_029042245.1	ASM2904224v1	Aythya marila					BB-2018	male		1135194460	Chromosome	2023-03-15	JAOQIG01
+GCA_028858705.1	bGruAme1.mat	Grus americana					bGruAme1	male		1257821324	Chromosome	2023-02-24	JARBUS01
+GCF_028858705.1	bGruAme1.mat	Grus americana					bGruAme1	male	GCF_028858705.1-RS_2023_03	1257821324	Chromosome	2023-02-24	JARBUS01
+GCA_023638135.1	bFalBia1.pri	Falco biarmicus					bFalBia1	female		1285492283	Chromosome	2022-06-02	JAMOAT01
+GCF_023638135.1	bFalBia1.pri	Falco biarmicus					bFalBia1	female	GCF_023638135.1-RS_2023_05	1285492283	Chromosome	2022-06-02	JAMOAT01
+GCA_020740725.1	bCorHaw1.pri.cur	Corvus hawaiiensis					bCorHaw1	female		1151594481	Chromosome	2021-11-04	JAJGSY01
+GCF_020740725.1	bCorHaw1.pri.cur	Corvus hawaiiensis					bCorHaw1	female	NCBI Annotation Release 100	1151594481	Chromosome	2021-11-04	JAJGSY01
+GCA_020745825.3	Agelaius phoeniceus 1.1	Agelaius phoeniceus					BioBank_ID:100140	female		1188530404	Chromosome	2023-03-15	JAIWQD01
+GCF_020745825.1	Agelaius phoeniceus 1.1	Agelaius phoeniceus					BioBank_ID:100140	female	GCF_020745825.1-RS_2023_03	1188530404	Chromosome	2023-03-15	JAIWQD01
+GCA_026419915.1	bHarHar1 primary haplotype	Harpia harpyja					bHarHar1	female		1351447071	Chromosome	2022-11-27	JAPMHW01
+GCF_026419915.1	bHarHar1 primary haplotype	Harpia harpyja					bHarHar1	female	GCF_026419915.1-RS_2023_02	1351447071	Chromosome	2022-11-27	JAPMHW01
+GCA_026979565.1	bVidCha1 merged haplotype	Vidua chalybeata					OUT-0048	female		1080440577	Chromosome	2022-12-21	JAPVQZ01
+GCF_026979565.1	bVidCha1 merged haplotype	Vidua chalybeata					OUT-0048	female	GCF_026979565.1-RS_2023_03	1080440577	Chromosome	2022-12-21	JAPVQZ01
+GCA_027474245.1	bSphHub1.pri	Spheniscus humboldti					bSphHub1	female		1358357718	Chromosome	2022-12-28	JAPZLJ01
+GCA_012460135.3	BPBGC_Mater_1.1	Molothrus ater	brown headed cowbird				BHLD 08-10-18	female		1087219985	Chromosome	2022-10-11	JAAQZI01
+GCF_012460135.2	BPBGC_Mater_1.1	Molothrus ater	brown headed cowbird				BHLD 08-10-18	female	GCF_012460135.2-RS_2023_03	1087219985	Chromosome	2022-10-11	JAAQZI01
+GCA_009650955.1	bCorMon1.pri	Corvus moneduloides					bCorMon1	female		1112734094	Chromosome	2019-11-14	WHPO01
+GCF_009650955.1	bCorMon1.pri	Corvus moneduloides					bCorMon1	female	NCBI Annotation Release 100	1112734094	Chromosome	2019-11-14	WHPO01
+GCA_030490865.1	bPoeAtr1.hap1	Poecile atricapillus					bPoeAtr1	female		1251116877	Chromosome	2023-07-18	JAUKOI01
+GCA_027559615.1	bAcrTri1.pri	Acridotheres tristis					bArcTri1	female		1193400391	Chromosome	2023-01-09	JAPZMO01
+GCA_008360975.2	HeHo_2.0	Lichenostomus cassidix					B80296	female		1102944376	Chromosome	2022-02-11	VLJF02
+GCA_025583725.1	ASM2558372v1	Anser indicus					BHG01	female		1129455536	Chromosome	2022-10-06	JANSVC01
+GCA_903797595.2	bEriRub2.2	Erithacus rubecula								1086738418	Chromosome	2021-05-03	CAIGJR02
+GCA_000247815.2	FicAlb1.5	Ficedula albicollis					OC2	male		1118326800	Chromosome	2013-06-27	AGTO02
+GCF_000247815.1	FicAlb1.5	Ficedula albicollis					OC2	male	NCBI Annotation Release 101	1118326800	Chromosome	2013-06-27	AGTO02
+GCA_015220805.1	bPogPus1.pri	Pogoniulus pusillus					bPogPus1	female		1272338968	Chromosome	2020-11-03	JADCQK01
+GCA_005870125.1	lonStrDom2	Lonchura striata domestica					Mets1	male		1060252993	Chromosome	2019-06-05	SWKX01
+GCF_005870125.1	lonStrDom2	Lonchura striata domestica					Mets1	male	NCBI Annotation Release 101	1060252993	Chromosome	2019-06-05	SWKX01
+GCA_000738735.5	ASM73873v5	Corvus cornix cornix					S_Up_H32	male		1030864775	Chromosome	2021-02-04	JPSR04
+GCF_000738735.5	ASM73873v5	Corvus cornix cornix					S_Up_H32	male	NCBI Annotation Release 104	1030864775	Chromosome	2021-02-04	JPSR04
+GCA_015832195.1	Motacilla_alba_V1.0_pri	Motacilla alba alba					MOTALB_02	male		1072653902	Chromosome	2020-12-08	JACXWE01
+GCF_015832195.1	Motacilla_alba_V1.0_pri	Motacilla alba alba					MOTALB_02	male	NCBI Annotation Release 100	1072653902	Chromosome	2020-12-08	JACXWE01
+GCA_015532645.2	FrCoel.v2	Fringilla coelebs coelebs					17-825			994865760	Chromosome	2021-06-16	JADKPM02
+GCA_026413225.1	OTswu	Otis tarda					OTA-swuaves1	male		1198259872	Chromosome	2022-11-27	JAPMTP01
+GCA_028858755.1	bAraAra1.hap1	Ara ararauna					bAraAra1	male		1224360198	Chromosome	2023-02-24	JAQZCJ01
+GCA_020745775.1	bTheCae1.pri.cur	Theristicus caerulescens					bTheCae1	female		1203353649	Chromosome	2021-11-05	JAJGSR01
+GCA_907165065.1	bCapEur3.1	Caprimulgus europaeus								1177791212	Chromosome	2021-05-17	CAJRAV01
+GCA_026413565.1	ASM2641356v1	Aythya baeri					LZ_2022	male		1144760485	Chromosome	2022-11-27	JAKRSJ01
+GCA_013377495.2	CAtr_DNAZoo_HiC_assembly	Cygnus atratus				Queensland, Australia	AKBS03	male		1124217020	Chromosome	2022-08-03	JABXOC02
+GCF_013377495.2	CAtr_DNAZoo_HiC_assembly	Cygnus atratus				Queensland, Australia	AKBS03	male	GCF_013377495.2-RS_2023_02	1124217020	Chromosome	2022-08-03	JABXOC02
+GCA_020740795.1	bApuApu2.pri.cur	Apus apus					bApuApu2	female		1100361224	Chromosome	2021-11-04	JAJGQY01
+GCF_020740795.1	bApuApu2.pri.cur	Apus apus					bApuApu2	female	GCF_020740795.1-RS_2023_02	1100361224	Chromosome	2021-11-04	JAJGQY01
+GCA_017639555.1	bCicMag1.pri	Ciconia maguari					bCicMag1	female		1239415939	Chromosome	2021-03-30	JAGFVN01
+GCA_013407035.1	ASM1340703v1	Coloeus monedula					S_Up_J01	male		1035863955	Chromosome	2020-07-13	JABDSK01
+GCA_013368605.1	bNycGra1.pri	Nyctibius grandis					bNycGra1	female		1256393467	Chromosome	2020-06-23	JABXNV01
+GCA_009819605.1	bSteHir1.pri	Sterna hirundo					bSteHir1	female		1229953488	Chromosome	2019-12-31	WNMW01
+GCA_020745705.1	bHemCom1.pri.cur	Hemiprocne comata					bHemCom1	female		1164793941	Chromosome	2021-11-05	JAJGQW01
+GCA_009829145.1	bChiLan1.pri	Chiroxiphia lanceolata					bChiLan1	female		1089631598	Chromosome	2020-01-03	WNMC01
+GCF_009829145.1	bChiLan1.pri	Chiroxiphia lanceolata					bChiLan1	female	NCBI Annotation Release 100	1089631598	Chromosome	2020-01-03	WNMC01
+GCA_008658365.1	bAlcTor1 primary	Alca torda					2006_11_07_Graehlm_vinge_78	male		1178473458	Chromosome	2019-10-10	VMED01
+GCA_028022735.1	bGypBar2.pri	Gypaetus barbatus					bGypBar2	female		1365299843	Chromosome	2023-01-31	JAQMCM01
+GCA_009819795.1	bAytFul2.pri	Aythya fuligula					bAytFul2	female		1126988109	Chromosome	2019-12-31	WNMM01
+GCF_009819795.1	bAytFul2.pri	Aythya fuligula					bAytFul2	female	NCBI Annotation Release 100	1126988109	Chromosome	2019-12-31	WNMM01
+GCA_020746105.1	bTroSur1.pri.cur	Trogon surrucura					bTroSur1	female		1165727389	Chromosome	2021-11-05	JAJGST01
+GCA_901933205.1	STF_HiC	Camarhynchus parvulus								1051609828	Chromosome	2019-09-06	CABFNF01
+GCF_901933205.1	STF_HiC	Camarhynchus parvulus							NCBI Annotation Release 100	1051609828	Chromosome	2019-09-06	CABFNF01
+GCA_028500815.1	bRisTri1.patW.cur.20221130	Rissa tridactyla					bRisTri1	female		1353621101	Chromosome	2023-02-09	JAPUFG01
+GCF_028500815.1	bRisTri1.patW.cur.20221130	Rissa tridactyla					bRisTri1	female	GCF_028500815.1-RS_2023_03	1353621101	Chromosome	2023-02-09	JAPUFG01
+GCA_017639485.1	bPluApr1.pri	Pluvialis apricaria					bPluApr1	female		1247746888	Chromosome	2021-03-30	JAGGDV01
+GCF_017639655.2	bFalNau1.pat	Falco naumanni					bFalNau1	female	NCBI eukaryotic genome annotation pipeline	1215702009	Chromosome	2021-03-30	JAGFVS01
+GCA_020800305.1	bPorHoc1.mat.Z.cur	Porphyrio hochstetteri					bPorHoc1	female		1270277365	Chromosome	2021-11-08	JAJHSY01
+GCA_009769605.1	bBucAby1.pri	Bucorvus abyssinicus					bBucAby1	female		1132597561	Chromosome	2019-12-23	WNMG01
+GCA_027579445.1	bAmmNel1.pri	Ammospiza nelsoni					bAmmNel1	female		1185463352	Chromosome	2023-01-09	JAQCNT01
+GCA_023079485.1	ASM2307948v1	Archilochus colubris				Toronto	gmoney_hbird	female		1100570460	Chromosome	2022-04-22	JALBCY01
+GCA_028020825.1	bPodStr1.pri	Podargus strigoides					bPodStr1	female		1271141449	Chromosome	2023-01-31	JAQJZH01
+GCA_949628215.1	bGulAri2.1	Phalacrocorax aristotelis								1279116138	Chromosome	2023-04-08	CATIVG01
+GCA_027574665.1	bRhyJub1.pri	Rhynochetos jubatus					bRhyJub1	female		1331454348	Chromosome	2023-01-09	JAQBHY01
+GCA_028018845.1	bMelGeo1.pri	Melospiza georgiana					bMelGeo1	female		1162015399	Chromosome	2023-01-31	JAQMCQ01
+GCF_028018845.1	bMelGeo1.pri	Melospiza georgiana					bMelGeo1	female	GCF_028018845.1-RS_2023_07	1162015399	Chromosome	2023-01-31	JAQMCQ01
+GCA_004027225.2	bStrHab1.2.pri	Strigops habroptila					Jane	female		1148597545	Chromosome	2020-03-04	RXXE02
+GCF_004027225.2	bStrHab1.2.pri	Strigops habroptila					Jane	female	NCBI Annotation Release 101	1148597545	Chromosome	2020-03-04	RXXE02
+GCA_951416345.1	bSomMol1.h2.1	Somateria mollissima								1079261109	Chromosome	2023-06-27	CATOCC01
+GCA_027791375.2	UM_Iind_1.1	Indicator indicator					239-I01	female		1147325966	Chromosome	2023-01-13	JAQHUL01
+GCF_027791375.1	UM_Iind_1.1	Indicator indicator					239-I01	female	GCF_027791375.1-RS_2023_03	1147325966	Chromosome	2023-01-13	JAQHUL01
+GCA_009769625.2	bCygOlo1.pri.v2	Cygnus olor					bCygOlo1	male		1134169903	Chromosome	2021-03-31	WNMI02
+GCF_009769625.2	bCygOlo1.pri.v2	Cygnus olor					bCygOlo1	male	NCBI Annotation Release 100	1134169903	Chromosome	2021-03-31	WNMI02
+GCA_027887145.1	bAmmCau1.pri	Ammospiza caudacuta					bAmmCau1	female		1241209685	Chromosome	2023-01-18	JAQIHB01
+GCA_021018805.1	Cam_Psub_1.0	Prinia subflava				Zambia	CZ2003	female		1123310866	Chromosome	2021-12-02	JAIOWR01
+GCA_029582105.1	OMel1.0	Oenanthe melanoleuca					GR-GAL-2019-014	male		1036256795	Chromosome	2023-04-06	JARJVX01
+GCF_029582105.1	OMel1.0	Oenanthe melanoleuca					GR-GAL-2019-014	male	GCF_029582105.1-RS_2023_05	1036256795	Chromosome	2023-04-06	JARJVX01
+GCA_024509145.1	ASM2450914v1	Vidua macroura					BioBank_ID:100142	female		1123252761	Chromosome	2022-08-03	JAMGYM01
+GCF_024509145.1	ASM2450914v1	Vidua macroura					BioBank_ID:100142	female	GCF_024509145.1-RS_2023_03	1123252761	Chromosome	2022-08-03	JAMGYM01
+GCA_009819655.1	bSylAtr1.pri	Sylvia atricapilla					bSylAtr1	female		1066786587	Chromosome	2019-12-31	WNMY01
+GCA_901699155.2	bStrTur1.2	Streptopelia turtur								1178816852	Chromosome	2021-05-17	CABFKC02
+GCA_009764595.1	bGeoTri1.pri	Geothlypis trichas					bGeoTri1	female		1078128490	Chromosome	2019-12-19	WSPJ01
+GCA_951394365.1	bTetUro1.1	Tetrao urogallus								1013167347	Chromosome	2023-06-15	CATOBR01
+GCA_015227895.2	Caur_TTU_1.0	Colaptes auratus				New Mexico				1378187165	Chromosome	2021-12-06	JAAWVA01
+GCA_015883425.2	CU_Lasu_v2	Lamprotornis superbus					SS15	female	Annotation submitted by Columbia University	1068005652	Chromosome	2022-03-24	JADDUC02
+GCA_018697195.1	ASM1869719v1	Certhia americana					MSB:Bird:48106			1113356413	Chromosome	2021-06-03	JAGMWU01
+GCA_017639355.1	Aaes_hic	Amazona aestiva					AMXYW	female		1130393257	Chromosome	2021-03-30	JAESHV01
+GCA_013398505.2	LSU_RhHo_2.0	Rhegmatorhina hoffmannsi					OUT-0010	female		1066555733	Chromosome	2021-04-30	VZSN02
+GCA_001746935.2	mywa_2.1	Setophaga coronata coronata					EE26A12	male		1022634526	Chromosome	2020-12-08	MDLI02
+GCA_017639245.1	MMon_1.0	Myiopsitta monachus					fujian	female		1168583304	Chromosome	2021-03-30	JAESHU01
+GCA_028769735.1	RI_Zleu_1.0	Zonotrichia leucophrys	gambelii				GWCS_2022_RI	female		1125514508	Chromosome	2023-02-22	JAPPSN01
+GCA_030408155.1	ASM3040815v1	Lophura swinhoii					LX0611	female		1144026423	Chromosome	2023-07-05	JASCYN01
+GCA_019023105.1	LSU_DiBr_2.0	Diglossa brunneiventris					B-95988	female		1079473785	Chromosome	2021-06-24	JAFCGX01
+GCA_011077185.1	BPBGC_Ojam_1.0	Oxyura jamaicensis	ruddy duck				SHBP4307	female		1147585764	Chromosome	2020-03-10	JAACYN01
+GCF_011077185.1	BPBGC_Ojam_1.0	Oxyura jamaicensis	ruddy duck				SHBP4307	female	NCBI Annotation Release 100	1147585764	Chromosome	2020-03-10	JAACYN01
+GCA_910950805.1	RW_assembly	Acrocephalus scirpaceus scirpaceus								1075083815	Chromosome	2021-08-16	CAJVGK01
+GCA_009741485.1	mCya_1.0	Malurus cyaneus samueli						female		1078874851	Chromosome	2019-12-12	VKON01
+GCA_011075105.1	BPBGC_Hatr_1.0	Heteronetta atricapilla	black-headed duck				SHBP4307	female		1151864095	Chromosome	2020-03-10	JAACYQ01
+GCA_011074415.1	BPBGC_Snae_1.0	Stictonetta naevosa	freckled duck				SHBPF4130	female		1132682184	Chromosome	2020-03-10	JAACYO01
+GCA_011076525.1	BPBGC_Naur_1.0	Nettapus auritus	African pygmy goose				SHBP007	female		1134521068	Chromosome	2020-03-10	JAACYP01
+GCA_002901205.1	cyaCae2	Cyanistes caeruleus					BT333_1	male		1186980630	Scaffold	2018-01-26	PDCF01
+GCF_002901205.1	cyaCae2	Cyanistes caeruleus					BT333_1	male	NCBI Annotation Release 100	1186980630	Scaffold	2018-01-26	PDCF01
+GCA_003259725.1	athCun1	Athene cunicularia					RWA	male		1157069330	Scaffold	2018-06-21	QEEU01
+GCF_003259725.1	athCun1	Athene cunicularia					RWA	male	NCBI Annotation Release 100	1157069330	Scaffold	2018-06-21	QEEU01
+GCA_003286495.1	ASM328649v1	Chlorodrepanis virens					USGS aluminum band 1771-10606	female		1086507881	Scaffold	2018-07-02	LTAT01
+GCA_002166845.1	GooseV1.0	Anser cygnoides	Sichuan white goose				SCWG-2014			1130276682	Scaffold	2017-06-02	LABU01
+GCF_002166845.1	GooseV1.0	Anser cygnoides	Sichuan white goose				SCWG-2014		NCBI Annotation Release 100	1130276682	Scaffold	2017-06-02	LABU01
+GCA_000337935.1	Cliv_1.0	Columba livia	Danish Tumbler					male	Annotation submitted by BGI	1107971856	Scaffold	2013-02-11	AKCR01
+GCF_000337935.1	Cliv_1.0	Columba livia	Danish Tumbler					male	NCBI Annotation Release 102	1107971856	Scaffold	2013-02-11	AKCR01
+GCA_003342905.1	droNov1	Dromaius novaehollandiae					6597	male		1192237364	Scaffold	2018-07-26	PTEY01
+GCF_003342905.1	droNov1	Dromaius novaehollandiae					6597	male	NCBI Annotation Release 100	1192237364	Scaffold	2018-07-26	PTEY01
+GCA_000385455.1	Zonotrichia_albicollis-1.0.1	Zonotrichia albicollis					Tan morph	male		1052600561	Scaffold	2013-04-30	ARWJ01
+GCF_000385455.1	Zonotrichia_albicollis-1.0.1	Zonotrichia albicollis					Tan morph	male	NCBI Annotation Release 102	1052600561	Scaffold	2013-04-30	ARWJ01
+GCA_008692595.2	Cv_LA_2.0	Colinus virginianus					B-91918	female		948524131	Scaffold	2021-04-29	VONY02
+GCA_000698965.1	ASM69896v1	Struthio camelus australis					BGI_N308	female	Annotation submitted by BGI	1225025301	Scaffold	2014-06-06	JJRT01
+GCF_000698965.1	ASM69896v1	Struthio camelus australis					BGI_N308	female	NCBI Annotation Release 100	1225025301	Scaffold	2014-06-06	JJRT01
+GCA_000331425.1	PseHum1.0	Pseudopodoces humilis								1042980823	Scaffold	2013-01-11	ANZD01
+GCF_000331425.1	PseHum1.0	Pseudopodoces humilis							NCBI Annotation Release 101	1042980823	Scaffold	2013-01-11	ANZD01
+GCA_002002985.1	Grus japonensis_ver1.0	Grus japonensis					451A			1265634512	Scaffold	2017-02-10	BDFG01
+GCA_022749695.1	bMelMel1.0.p	Melospiza melodia				gouldii	PMB2087b	female		1356304709	Scaffold	2022-03-29	JALCYL01
+GCA_947331505.1	ASM94733150v1	Alectoris rufa								1142509937	Scaffold	2023-01-09	CAMZON01
+GCA_018691265.1	T.alba_DEE_v4.0	Tyto alba					M040663	male		1249867532	Scaffold	2021-06-03	JAEUGV01
+GCF_018691265.1	T.alba_DEE_v4.0	Tyto alba					M040663	male	NCBI Annotation Release 102	1249867532	Scaffold	2021-06-03	JAEUGV01
+GCA_025960845.1	Bayl_Tbic_1.1	Tachycineta bicolor					S2			1172536026	Scaffold	2022-11-02	JANEHK01
+GCA_003413605.1	Chrysolophus_pictus_GenomeV1.0	Chrysolophus pictus	wild golden pheasant					male		1023990748	Scaffold	2018-08-20	JRFT01
+GCA_000708225.1	ASM70822v1	Nipponia nippon					BGI_Y956	male	Annotation submitted by College of Medicine and Forensics, Xi'an Jiaotong University	1223846297	Scaffold	2014-06-16	JMFH01
+GCF_000708225.1	ASM70822v1	Nipponia nippon					BGI_Y956	male	NCBI Annotation Release 100	1223846297	Scaffold	2014-06-16	JMFH01
+GCA_021963965.1	bArtBel1.0.p	Artemisiospiza belli				canescens	MVZ Bird 192114	female		1401802035	Scaffold	2022-02-04	JAKDEW01
+GCA_024362935.1	bSetPet1.0.p	Setophaga petechia					LACM:Birds122168	female		1222368263	Scaffold	2022-07-22	JANCRA01
+GCA_021513735.1	PavCris_1.0	Pavo cristatus					JXP	female		1046701547	Scaffold	2022-01-19	JAIFWW01
+GCA_005890655.1	Cmin_1.0	Centrocercus minimus					UT7	male		1000026669	Scaffold	2019-06-14	SPOS01
+GCA_014805655.1	ASM1480565v1	Passer montanus					IOZ18808	pooled male and female		1039949367	Scaffold	2020-09-30	JABBVY01
+GCF_014805655.1	ASM1480565v1	Passer montanus					IOZ18808	pooled male and female	NCBI Annotation Release 100	1039949367	Scaffold	2020-09-30	JABBVY01
+GCA_001715985.3	ASM171598v3	Manacus vitellinus					BGI_N305	female		1072328541	Scaffold	2019-07-03	MCBO03
+GCF_001715985.3	ASM171598v3	Manacus vitellinus					BGI_N305	female	NCBI Annotation Release 103	1072328541	Scaffold	2019-07-03	MCBO03
+GCA_001447265.1	Sturnus_vulgaris-1.0	Sturnus vulgaris					715	male		1036755994	Scaffold	2015-11-20	LNCF01
+GCF_001447265.1	Sturnus_vulgaris-1.0	Sturnus vulgaris					715	male	NCBI Annotation Release 100	1036755994	Scaffold	2015-11-20	LNCF01
+GCA_010087175.1	BGI_Apat.V1	Aptenodytes patagonicus					KP FORT 001		Annotation submitted by BGI-Shenzhen	1252291219	Scaffold	2020-01-31	VULM01
+GCA_000737465.1	Haliaeetus_leucocephalus-4.0	Haliaeetus leucocephalus					CR32	male		1178409481	Scaffold	2014-08-04	JPRR01
+GCF_000737465.1	Haliaeetus_leucocephalus-4.0	Haliaeetus leucocephalus					CR32	male	NCBI Annotation Release 100	1178409481	Scaffold	2014-08-04	JPRR01
+GCA_030512405.1	ASM3051240v1	Pygoscelis papua					Gentoo_Falklands	female	Annotation submitted by BGI	1342884473	Scaffold	2023-07-20	JAGYXX01
+GCA_000277835.1	GeoFor_1.0	Geospiza fortis						female		1065292181	Scaffold	2012-07-25	AKZB01
+GCF_000277835.1	GeoFor_1.0	Geospiza fortis						female	NCBI Annotation Release 102	1065292181	Scaffold	2012-07-25	AKZB01
+GCA_000705375.2	ASM70537v2	Tinamus guttatus					BGI_N309	female	Annotation submitted by BGI	1047056493	Scaffold	2014-08-05	JMFW02
+GCF_000705375.1	ASM70537v2	Tinamus guttatus					BGI_N309	female	NCBI Annotation Release 100	1047056493	Scaffold	2014-08-05	JMFW02
+GCA_000699245.1	ASM69924v1	Pterocles gutturalis					BGI_N339	male	Annotation submitted by BGI	1069324295	Scaffold	2014-06-09	JMFR01
+GCF_000699245.1	ASM69924v1	Pterocles gutturalis					BGI_N339	male	NCBI Annotation Release 100	1069324295	Scaffold	2014-06-09	JMFR01
+GCA_000690715.1	ASM69071v1	Colius striatus					BGI_N325	male	Annotation submitted by BGI	1075931597	Scaffold	2014-05-13	JJRP01
+GCF_000690715.1	ASM69071v1	Colius striatus					BGI_N325	male	NCBI Annotation Release 100	1075931597	Scaffold	2014-05-13	JJRP01
+GCA_000691405.1	ASM69140v1	Haliaeetus albicilla					BGI_N329	male	Annotation submitted by BGI	1133549865	Scaffold	2014-05-15	JJRL01
+GCF_000691405.1	ASM69140v1	Haliaeetus albicilla					BGI_N329	male	NCBI Annotation Release 100	1133549865	Scaffold	2014-05-15	JJRL01
+GCA_000709365.1	ASM70936v1	Tauraco erythrolophus					BGI_N340	male	Annotation submitted by BGI	1155540733	Scaffold	2014-06-25	JNOY01
+GCF_000709365.1	ASM70936v1	Tauraco erythrolophus					BGI_N340	male	NCBI Annotation Release 100	1155540733	Scaffold	2014-06-25	JNOY01
+GCA_002372975.2	StrOccCau_2.0	Strix occidentalis caurina					Sequoia	female		1254451290	Scaffold	2021-04-12	NIFN02
+GCA_001281735.1	ASM128173v1	Zosterops lateralis melanops								1036003386	Scaffold	2015-09-14	LAII01
+GCA_027925045.1	Gokinawae_1.0	Hypotaenidia okinawae					2679A			1179509929	Scaffold	2022-12-22	BSDF01
+GCA_024865655.1	ASM2486565v1	Emberiza elegans					AHU2021HF0102	male		1144568265	Scaffold	2022-09-02	JALJVW01
+GCA_022605955.1	bRalLim1.0.p	Rallus limicola					171378401			1395579105	Scaffold	2022-03-17	JAKCOZ01
+GCA_028536675.1	bAphCal1.0.hap1	Aphelocoma californica				California	MVZ Bird 193978	female		1348482404	Scaffold	2023-02-07	JAQMYR01
+GCA_026167965.1	bCyaSte1.0.p	Cyanocitta stelleri				frontalis		female		1162948050	Scaffold	2022-11-14	JANXIP01
+GCA_021534815.1	ASM2153481v1	Acrocephalus arundinaceus				Kvismaren, Sweden	Nicke	female		1200110597	Scaffold	2022-01-20	JAJEOU01
+GCA_026170545.1	bMelFor1.0.p	Melanerpes formicivorus				bairdi		female		1323567838	Scaffold	2022-11-14	JANXIN01
+GCA_003426825.1	eyr_v1	Eopsaltria australis					EYR054	female		1228344903	Scaffold	2018-08-23	QKXG01
+GCA_019238085.1	USGS_WTPT01	Lagopus leucura					7727_CA_CO	male		1016020572	Scaffold	2021-07-15	JAHKMA01
+GCF_019238085.1	USGS_WTPT01	Lagopus leucura					7727_CA_CO	male	NCBI Annotation Release 100	1016020572	Scaffold	2021-07-15	JAHKMA01
+GCA_017639235.1	C.kubaryi_AGA036_p1.0	Corvus kubaryi					FWS band 111438036	male		1057484666	Scaffold	2021-03-30	JAEMUS01
+GCF_017639235.1	C.kubaryi_AGA036_p1.0	Corvus kubaryi					FWS band 111438036	male	NCBI Annotation Release 100	1057484666	Scaffold	2021-03-30	JAEMUS01
+GCA_003947215.1	ASM394721v1	Amazona collaria					JAMY3			1258720284	Scaffold	2018-12-14	RQIO01
+GCA_004143745.1	ASM414374v1	Phasianus colchicus					SZU-A5-319	male		1017507340	Scaffold	2019-02-06	QCWP01
+GCF_004143745.1	ASM414374v1	Phasianus colchicus					SZU-A5-319	male	NCBI Annotation Release 100	1017507340	Scaffold	2019-02-06	QCWP01
+GCA_003342895.1	casCas1	Casuarius casuarius					B32419	female		1209001349	Scaffold	2018-07-26	PTFA01
+GCA_001604755.1	Lepidothrix_coronata-1.0	Lepidothrix coronata					B3197	male		1079577334	Scaffold	2016-03-31	LVWP01
+GCF_001604755.1	Lepidothrix_coronata-1.0	Lepidothrix coronata					B3197	male	NCBI Annotation Release 100	1079577334	Scaffold	2016-03-31	LVWP01
+GCA_003676055.1	GouldianFinch	Chloebia gouldiae					Red01	male	Annotation submitted by CIBIO/InBIO Research Center in Biodiversity and Genetic Resources	1070785140	Scaffold	2018-10-23	QUSF01
+GCA_014549065.1	CCar_1.0	Cardinalis cardinalis						male		1044723337	Scaffold	2020-09-15	JACDOX01
+GCA_001431845.1	ASM143184v1	Calidris pugnax					Ruff			1229094286	Scaffold	2015-11-04	LDEH01
+GCF_001431845.1	ASM143184v1	Calidris pugnax					Ruff		NCBI Annotation Release 100	1229094286	Scaffold	2015-11-04	LDEH01
+GCA_002173455.1	ASM217345v1	Phalacrocorax auritus					PW-MI-E2	female		1246050644	Scaffold	2017-06-06	NFMC01
+GCA_030028575.1	MMel_1.1	Malurus melanocephalus				Western Australia		male		1020668800	Scaffold	2023-05-17	JASDEY01
+GCF_030028575.1	MMel_1.1	Malurus melanocephalus				Western Australia		male	GCF_030028575.1-RS_2023_06	1020668800	Scaffold	2023-05-17	JASDEY01
+GCA_014363025.1	C_macrorhynchos_scaffold_01	Corvus macrorhynchos								1018435877	Scaffold	2020-08-22	BMBD01
+GCA_013399435.1	ASM1339943v1	Arenaria interpres					B10K-DU-005-73	female	Annotation submitted by B10K Consortium	1124618860	Scaffold	2020-07-10	VXAK01
+GCA_020917445.1	IEE_cmpg_Riparia_riparia_6505	Riparia riparia					SYSb006505	male		1093138471	Scaffold	2021-11-22	JAIXNV01
+GCA_025727675.1	ASM2572767v1	Ciconia boyciana					SETZI3XW1M			1240662048	Scaffold	2022-10-17	JAODVK01
+GCA_000708025.2	ASM70802v2	Charadrius vociferus					BGI_N301	female	Annotation submitted by BGI	1219859583	Scaffold	2014-08-05	JMFX02
+GCF_000708025.1	ASM70802v2	Charadrius vociferus					BGI_N301	female	NCBI Annotation Release 100	1219859583	Scaffold	2014-08-05	JMFX02
+GCA_013186435.1	ASM1318643v1	Turdus rufiventris						female	Annotation submitted by LNCC	1046948833	Scaffold	2020-05-28	PYHW01
+GCA_000699145.1	ASM69914v1	Aptenodytes forsteri					BGI_AS27	male	Annotation submitted by BGI	1254347440	Scaffold	2014-06-06	JMFQ01
+GCF_000699145.1	ASM69914v1	Aptenodytes forsteri					BGI_AS27	male	NCBI Annotation Release 101	1254347440	Scaffold	2014-06-06	JMFQ01
+GCA_000747805.2	ChaPel_1.1	Chaetura pelagica					M959	female	Annotation submitted by BGI	1118724105	Scaffold	2014-09-04	AVOS01
+GCF_000747805.2	ChaPel_1.1	Chaetura pelagica					M959	female	NCBI eukaryotic genome annotation pipeline	1118724105	Scaffold	2014-09-04	AVOS01
+GCA_000332375.2	ASM33237v2	Amazona vittata					LU 182127	female		1446649664	Scaffold	2020-08-28	AOCU02
+GCA_000687185.1	ASM68718v1	Egretta garzetta					BGI_Z169	male	Annotation submitted by College of Medicine and Forensics, Xi'an Jiaotong University	1206484573	Scaffold	2014-05-09	JJRC01
+GCF_000687185.1	ASM68718v1	Egretta garzetta					BGI_Z169	male	NCBI Annotation Release 101	1206484573	Scaffold	2014-05-09	JJRC01
+GCA_013400445.1	ASM1340044v1	Leiothrix lutea					B10K-DU-002-43	male	Annotation submitted by B10K Consortium	1058758629	Scaffold	2020-07-10	VXBY01
+GCA_000696875.1	ASM69687v1	Nestor notabilis					BGI_N333	male	Annotation submitted by BGI	1053559886	Scaffold	2014-06-05	JJRH01
+GCF_000696875.1	ASM69687v1	Nestor notabilis					BGI_N333	male	NCBI Annotation Release 100	1053559886	Scaffold	2014-06-05	JJRH01
+GCA_027497715.1	ASM2749771v1	Accipiter nisus					ANSP 27991			1200068594	Scaffold	2022-12-30	JANBZV01
+GCA_000691845.1	ASM69184v1	Merops nubicus					BGI_N331	female	Annotation submitted by BGI	1062961556	Scaffold	2014-05-16	JJRJ01
+GCF_000691845.1	ASM69184v1	Merops nubicus					BGI_N331	female	NCBI Annotation Release 100	1062961556	Scaffold	2014-05-16	JJRJ01
+GCA_000690535.1	ASM69053v1	Cariama cristata					BGI_N322	male	Annotation submitted by BGI	1132245425	Scaffold	2014-05-12	JJRQ01
+GCF_000690535.1	ASM69053v1	Cariama cristata					BGI_N322	male	NCBI Annotation Release 100	1132245425	Scaffold	2014-05-12	JJRQ01
+GCA_000690775.1	ASM69077v1	Eurypyga helias					BGI_N326	female	Annotation submitted by BGI	1088019637	Scaffold	2014-05-13	JJRO01
+GCF_000690775.1	ASM69077v1	Eurypyga helias					BGI_N326	female	NCBI Annotation Release 100	1088019637	Scaffold	2014-05-13	JJRO01
+GCA_000687285.1	ASM68728v1	Phaethon lepturus					BGI_N335	female	Annotation submitted by BGI	1152958507	Scaffold	2014-05-08	JJRF01
+GCF_000687285.1	ASM68728v1	Phaethon lepturus					BGI_N335	female	NCBI Annotation Release 100	1152958507	Scaffold	2014-05-08	JJRF01
+GCA_000695765.1	ASM69576v1	Mesitornis unicolor					BGI_N332	female	Annotation submitted by BGI	1087290853	Scaffold	2014-06-02	JJRI01
+GCF_000695765.1	ASM69576v1	Mesitornis unicolor					BGI_N332	female	NCBI Annotation Release 100	1087290853	Scaffold	2014-06-02	JJRI01
+GCA_000699105.1	ASM69910v1	Pygoscelis adeliae					BGI_AS28	male	Annotation submitted by BGI	1216600033	Scaffold	2014-06-06	JMFP01
+GCF_000699105.1	ASM69910v1	Pygoscelis adeliae					BGI_AS28	male	NCBI Annotation Release 100	1216600033	Scaffold	2014-06-06	JMFP01
+GCA_000700745.2	ASM70074v2	Antrostomus carolinensis					BGI_N321	male	Annotation submitted by BGI	1118829799	Scaffold	2014-06-10	JMFU01
+GCF_000700745.2	ASM70074v2	Antrostomus carolinensis					BGI_N321	male	NCBI eukaryotic genome annotation pipeline	1118829799	Scaffold	2014-06-10	JMFU01
+GCA_000687375.1	ASM68737v1	Pelecanus crispus					BGI_N334	male	Annotation submitted by BGI	1160924693	Scaffold	2014-05-09	JJRG01
+GCF_000687375.1	ASM68737v1	Pelecanus crispus					BGI_N334	male	NCBI Annotation Release 100	1160924693	Scaffold	2014-05-09	JJRG01
+GCA_000695195.1	ASM69519v1	Chlamydotis macqueenii					BGI_N324	male	Annotation submitted by BGI	1086566339	Scaffold	2014-06-02	JMFJ01
+GCF_000695195.1	ASM69519v1	Chlamydotis macqueenii					BGI_N324	male	NCBI Annotation Release 100	1086566339	Scaffold	2014-06-02	JMFJ01
+GCA_000695815.1	ASM69581v1	Acanthisitta chloris					BGI_N310	female	Annotation submitted by BGI	1035876403	Scaffold	2014-05-27	JJRS01
+GCF_000695815.1	ASM69581v1	Acanthisitta chloris					BGI_N310	female	NCBI Annotation Release 100	1035876403	Scaffold	2014-05-27	JJRS01
+GCA_027564015.1	ASM2756401v1	Gallinago gallinago					UWBM 82241			1232026665	Scaffold	2023-01-03	JAOQMJ01
+GCA_026283635.1	ASM2628363v1	Ara macao					ANSP 187617			1219003621	Scaffold	2022-11-22	JANEYE01
+GCA_009430485.1	ANU_Anthochaera_phrygia_1.0	Anthochaera phrygia				Blue Mountains		female		815187911	Scaffold	2019-10-31	VJPA01
+GCA_000709895.1	ASM70989v1	Balearica regulorum gibbericeps					BGI_N312	male	Annotation submitted by BGI	1127605500	Scaffold	2014-06-25	JJRR01
+GCF_000709895.1	ASM70989v1	Balearica regulorum gibbericeps					BGI_N312	male	NCBI Annotation Release 100	1127605500	Scaffold	2014-06-25	JJRR01
+GCA_001039765.1	AptMant0	Apteryx mantelli mantelli								1595278775	Contig	2015-06-23	
+GCF_001039765.1	AptMant0	Apteryx mantelli mantelli							NCBI Annotation Release 100	1523972539	Contig	2015-06-21	
+GCA_000710305.1	ASM71030v1	Buceros rhinoceros silvestris					BGI_N320	male	Annotation submitted by BGI	1065782791	Scaffold	2014-06-25	JMFK01
+GCF_000710305.1	ASM71030v1	Buceros rhinoceros silvestris					BGI_N320	male	NCBI Annotation Release 100	1065782791	Scaffold	2014-06-25	JMFK01
+GCA_022605575.1	bLatJam1.0.p	Laterallus jamaicensis coturniculus					168171201	female		1391388821	Scaffold	2022-03-17	JAKCOX01
+GCA_022577445.1	bPasSan1.0.p	Passerculus sandwichensis alaudinus					FMNH 499929	male		1152275337	Scaffold	2022-03-15	JAKOOL01
+GCA_023055505.1	bCalCai1.0.p	Callipepla californica brunnescens					MVZ:Bird:193975	male		1085331016	Scaffold	2022-05-05	JALIRH01
+GCA_021164005.1	ASM2116400v1	Willisornis vidua nigrigula					JTW1144	male		1109653187	Scaffold	2021-12-10	JAJPCS01
+GCA_001655095.1	GWvir1.0	Phylloscopus trochiloides viridanus					TL2			1003330590	Scaffold	2016-06-02	LXPA01
+GCA_023637945.1	DD_ASM_B1	Phaethornis superciliosus					PSU5	male		1020112811	Scaffold	2022-06-01	JAJQWJ01
+GCA_023055355.1	bAgeTri1.0.p	Agelaius tricolor					1412-34295	female		1157591681	Scaffold	2022-04-19	JALJCS01
+GCA_028551555.1	PUWL_Pcris_2	Melozone crissalis		CALT		California		female		1412182309	Contig	2023-02-08	JAQBSC01
+GCF_028551555.1	PUWL_Pcris_2	Melozone crissalis		CALT		California		female	GCF_028551555.1-RS_2023_03	1412182309	Contig	2023-02-08	JAQBSC01
+GCA_026119805.1	pur_lepc_1.0	Tympanuchus pallidicinctus					F22	male		994352574	Scaffold	2022-11-10	JAPCYR01
+GCF_026119805.1	pur_lepc_1.0	Tympanuchus pallidicinctus					F22	male	GCF_026119805.1-RS_2023_02	994352574	Scaffold	2022-11-10	JAPCYR01
+GCA_004360235.1	ASM436023v1	Grus nigricollis					BSYUE-LAB-201903	female		1230910289	Scaffold	2019-03-22	SMUU01
+GCA_947846985.1	FratArc_v3	Fratercula arctica								1215066582	Scaffold	2023-02-03	CANTUZ01
+GCA_025592945.1	ASM2559294v1	Manacus candei				Guabito, Panama	608988			1121284527	Contig	2022-10-05	JANKJQ01
+GCF_025592945.1	ASM2559294v1	Manacus candei				Guabito, Panama	608988		GCF_025592945.1-RS_2023_02	1121284527	Contig	2022-10-05	JANKJQ01
+GCA_013433245.1	TAMU_Btm_v1.0	Ara glaucogularis				Bolivia		male		1139702960	Scaffold	2020-07-21	JACACR01
+GCA_021292215.1	ASM2129221v1	Lophura nycthemera					School of Life Sciences, Shaanxi Normal University, China, voucher number B10			1014408745	Scaffold	2021-12-27	JADANK01
+GCA_029207755.1	bChaFas1.0.hap1	Chamaea fasciata				frontalis	MVZ Bird 193981	female		1194528561	Scaffold	2023-03-14	JARCOQ01
+GCA_028554395.1	APGP_CSIRO_Pwel_v1	Pezoporus wallicus				Strahan	ANWC-B61680	male		1141458063	Contig	2023-02-08	JAPVOL01
+GCF_028554395.1	APGP_CSIRO_Pwel_v1	Pezoporus wallicus				Strahan	ANWC-B61680	male	GCF_028554395.1-RS_2023_06	1141458063	Contig	2023-02-08	JAPVOL01
+GCA_023333565.1	ASM2333356v1	Puffinus mauretanicus				Black plumage	G18SaCella			1218519395	Scaffold	2022-05-11	JAJKFH01
+GCA_003945595.2	ASM394559v2	Pipra filicauda					LSUMZ 115617	male		1081944082	Scaffold	2020-12-01	PYIH02
+GCF_003945595.2	ASM394559v2	Pipra filicauda					LSUMZ 115617	male	NCBI Annotation Release 101	1081944082	Scaffold	2020-12-01	PYIH02
+GCA_003945725.1	ASM394572v1	Corapipo altera					COAL_440	female		1095745976	Scaffold	2018-12-14	RXGC01
+GCF_003945725.1	ASM394572v1	Corapipo altera					COAL_440	female	NCBI Annotation Release 100	1095745976	Scaffold	2018-12-14	RXGC01
+GCA_013372525.1	Fatr_1.0	Fulica atra					Lodz_15173			1167597722	Scaffold	2020-06-24	JABXFB01
+GCA_003984885.2	ASM398488v2	Neopelma chrysocephalum						female		1142796179	Scaffold	2018-12-28	RDMT01
+GCF_003984885.1	ASM398488v2	Neopelma chrysocephalum						female	NCBI Annotation Release 100	1142796179	Scaffold	2018-12-28	RDMT01
+GCA_017310255.1	ASM1731025v1	Butorides virescens					ROMO101590	male		1194621758	Contig	2021-03-09	JADKXX01
+GCA_006130075.1	GSC_cangoose_1.0	Branta canadensis					SJ_97			1153386549	Scaffold	2019-06-05	SNRU01
+GCA_017315185.1	ASM1731518v1	Bubo scandiacus						female		1251897436	Scaffold	2021-03-09	JADKXW01
+GCA_030449065.1	OLeu_1.0	Oceanodroma leucorhoa						male		1195518234	Scaffold	2023-07-13	JASVER01
+GCA_008694505.1	ASM869450v1	Cyanoderma ruficeps					SRU082	female		1041446934	Scaffold	2019-09-25	VZDJ01
+GCA_019232065.1	USGS_Curo_1.0	Centrocercus urophasianus					14NV4802_14NV808	female		1010657860	Scaffold	2021-07-15	JAHKSY01
+GCF_019232065.1	USGS_Curo_1.0	Centrocercus urophasianus					14NV4802_14NV808	female	NCBI Annotation Release 100	1010657860	Scaffold	2021-07-15	JAHKSY01
+GCA_016647715.1	ASM1664771v1	Pavo muticus					YNLC101	female		1061110005	Scaffold	2021-01-15	JACDJE01
+GCA_019593555.1	cma1	Crossoptilon mantchuricum				Shanxi		female		1013441081	Scaffold	2021-08-13	JACSYN01
+GCA_019232035.1	ASM1923203v1	Cygnus buccinator					WWS_Y101	female		1183613454	Scaffold	2021-07-15	JAHMHU01
+GCA_002218305.1	ASM221830v1	Callipepla squamata		Texas				female	Annotation submitted by Texas A&M University	1045281893	Scaffold	2017-07-13	MCFN01
+GCA_002849675.1	ASM284967v1	Acridotheres javanicus					NGS004			1051582182	Scaffold	2018-01-02	PEJO01
+GCA_010078415.1	BGI_Pant.V1	Pygoscelis antarcticus					CP TH 060		Annotation submitted by BGI-Shenzhen	1260447050	Scaffold	2020-01-31	VUKZ01
+GCA_013398375.1	ASM1339837v1	Aphelocoma coerulescens					OUT-0022	male	Annotation submitted by B10K Consortium	1060855343	Scaffold	2020-07-10	VZSI01
+GCA_008711295.1	ASM871129v1	Charadrius alexandrinus					SYSb1531	female		1231940710	Scaffold	2019-09-27	VUYV01
+GCA_024432695.1	Barbary10X.pri	Falco pelegrinoides					JW_2022b	female		1153798512	Scaffold	2022-07-25	JALPQW01
+GCA_003342815.1	eudEle1	Eudromia elegans					44215	male		955514612	Scaffold	2018-07-26	PTEX01
+GCA_025504685.1	ASM2550468v1	Leucosticte australis				Colorado	BCRF_DMNS_52416			1039588477	Scaffold	2022-10-03	JANIJU01
+GCA_003342985.1	aptHaa1	Apteryx haastii					R29945	male		1221441152	Scaffold	2018-07-26	PTFD01
+GCA_024734555.1	CL100093368_L02	Trochalopteron elliotii					SNJ08157			1113241506	Scaffold	2022-08-23	JANPWX01
+GCA_013398635.1	ASM1339863v1	Copsychus sechellarum					OUT-0061	female	Annotation submitted by B10K Consortium	1052094435	Scaffold	2020-07-10	WBNE01
+GCA_003435085.1	NTU_Smik_1.2	Syrmaticus mikado					TWDZ01	female		1066426119	Scaffold	2018-08-31	QGNR01
+GCA_024430995.1	CommonKestrel10X.pri	Falco tinnunculus					JW_2022h	female		1134479392	Scaffold	2022-07-25	JALPQK01
+GCA_014363365.1	L_rothschildi_scaffold_01	Leucopsar rothschildi								999682512	Scaffold	2020-08-22	BMBG01
+GCA_003342845.1	notPer1	Nothoprocta perdicaria					Ctin4	male		965904370	Scaffold	2018-07-26	PTEW01
+GCF_003342845.1	notPer1	Nothoprocta perdicaria					Ctin4	male	NCBI Annotation Release 100	965904370	Scaffold	2018-07-26	PTEW01
+GCA_003343005.1	rheAme1	Rhea americana					MKP2758	male		1160836514	Scaffold	2018-07-26	PTEV01
+GCA_014363185.1	H_pelagicus_scaffold_01	Haliaeetus pelagicus								1175967700	Scaffold	2020-08-22	BMBF01
+GCA_003031625.1	ASM303162v1	Empidonax traillii				Southwest subspecies	1590-97213			1123485537	Scaffold	2018-04-03	PWAB01
+GCF_003031625.1	ASM303162v1	Empidonax traillii				Southwest subspecies	1590-97213		NCBI Annotation Release 100	1123485537	Scaffold	2018-04-03	PWAB01
+GCA_013397395.1	ASM1339739v1	Sinosuthora webbiana					B10K-DU-002-08	female	Annotation submitted by B10K Consortium	1050295543	Scaffold	2020-07-10	VXBN01
+GCA_024635365.1	ASM2463536v1	Aix galericulata					NCHU-2012	female	Annotation submitted by Academia Sinica	1079824113	Scaffold	2022-08-16	JALLAJ01
+GCA_023375905.1	ASM2337590v1	Nycticorax nycticorax		Nhe1				female		1179028144	Scaffold	2022-05-16	JAKFQP01
+GCA_013398195.1	ASM1339819v1	Caloenas nicobarica					OUT-0007	female	Annotation submitted by B10K Consortium	1025545389	Scaffold	2020-07-10	VZSB01
+GCA_003546035.1	ASM354603v1	Mixornis gularis					PRS3255	female		1036102025	Scaffold	2018-09-11	QVAJ01
+GCA_004320225.1	Bubo blakistoni_ver1.0	Bubo blakistoni								1193862756	Scaffold	2019-02-16	BJCB01
+GCA_004320125.1	Scolopax mira_ver1.0	Scolopax mira								1091292641	Scaffold	2019-02-15	BJBW01
+GCA_028554615.1	bRalCre1.1	Rallus crepitans					B-95207	female		1107478361	Scaffold	2023-02-09	JAQOTC01
+GCA_012487455.1	Nnipalensis_1.0	Nisaetus nipalensis								1200029769	Scaffold	2020-04-08	BJES01
+GCA_013398595.1	ASM1339859v1	Cercotrichas coryphoeus					OUT-0024		Annotation submitted by B10K Consortium	1029849930	Scaffold	2020-07-10	WBND01
+GCA_009812075.1	Ss_LA_1.0	Sialia sialis		Louisiana				female		958522825	Scaffold	2019-12-31	VRYO01
+GCA_013397515.1	ASM1339751v1	Upupa epops					B10K-DU-012-37	male	Annotation submitted by B10K Consortium	972138363	Scaffold	2020-07-10	VZRI01
+GCA_013398335.1	ASM1339833v1	Nothoprocta ornata					B10K-MSB-03	female	Annotation submitted by B10K Consortium	978286010	Scaffold	2020-07-10	VZSH01
+GCA_013399995.1	ASM1339999v1	Oenanthe oenanthe					B10K-DU-001-74	female	Annotation submitted by B10K Consortium	1001836003	Scaffold	2020-07-10	VXBF01
+GCA_025802055.1	ASM2580205v1	Pica pica					IRGN ZRRJ9FKBKA			1064369002	Scaffold	2022-10-23	JAOYNA01
+GCA_025504755.1	ASM2550475v1	Buteo buteo								1210975031	Scaffold	2022-09-30	JANVCR01
+GCA_014363385.1	P_albatrus_scaffold_01	Phoebastria albatrus								1165200156	Scaffold	2020-08-22	BMBH01
+GCA_018403395.1	G_goisagi_scaffold_01	Gorsachius goisagi								1188079666	Scaffold	2021-03-31	BOSO01
+GCA_027560215.1	ASM2756021v1	Halcyon smyrnensis					5EJ5G1TQ7V			1151795822	Scaffold	2023-01-03	JANHFZ01
+GCA_013389905.1	ASM1338990v1	Sula dactylatra					B10K-DU-002-49	female	Annotation submitted by B10K Consortium	1136665023	Scaffold	2020-07-06	WEKW01
+GCA_028565035.1	ASM2856503v1	Garrulus glandarius					IRGN GQC7HWLLHX			1106508028	Scaffold	2023-02-09	JAOXOD01
+GCA_012487855.1	Gmonacha_1.0	Grus monacha								1182186797	Scaffold	2020-04-08	BJET01
+GCA_028565315.1	ASM2856531v1	Scolopax rusticola					UWBM 47280			1109114366	Scaffold	2023-02-09	JAOWAS01
+GCA_027575065.1	ASM2757506v1	Haliastur indus					ANSP 24515			1206806020	Scaffold	2023-01-06	JANZXX01
+GCA_017612475.1	CCG_JAWE_1.0	Zosterops japonicus					GRLB			1104389468	Scaffold	2021-03-29	JABUOJ01
+GCA_013398735.1	ASM1339873v1	Nothocercus julius					B10K-MSB-01	female	Annotation submitted by B10K Consortium	1019400681	Scaffold	2020-07-10	VZSV01
+GCA_002224875.1	ASM222487v1	Anas zonorhyncha	spot-billed					female		1310797575	Scaffold	2017-07-25	NOIK01
+GCA_012488435.1	Gvipio_1.0	Antigone vipio								1181556295	Scaffold	2020-04-08	BJEU01
+GCA_000691975.1	ASM69197v1	Corvus brachyrhynchos					BGI_N302	female	Annotation submitted by BGI	1091312783	Scaffold	2014-06-02	JMFN01
+GCF_000691975.1	ASM69197v1	Corvus brachyrhynchos					BGI_N302	female	NCBI Annotation Release 101	1091312783	Scaffold	2014-06-02	JMFN01
+GCA_000703405.1	ASM70340v1	Apaloderma vittatum					BGI_N311	male	Annotation submitted by BGI	1070836417	Scaffold	2014-06-16	JMFV01
+GCF_000703405.1	ASM70340v1	Apaloderma vittatum					BGI_N311	male	NCBI Annotation Release 100	1070836417	Scaffold	2014-06-16	JMFV01
+GCA_024363155.1	ASM2436315v1	Aquila nipalensis					KU 119895			1248418760	Scaffold	2022-07-21	JANCNU01
+GCA_002631895.1	ASM263189v1	Agapornis roseicollis					lovebird_dirk_2015_01	male		1121789902	Scaffold	2017-10-23	NDXB01
+GCA_000692075.1	ASM69207v1	Opisthocomus hoazin					BGI_N306	female	Annotation submitted by BGI	1203712246	Scaffold	2014-05-19	JMFL01
+GCF_000692075.1	ASM69207v1	Opisthocomus hoazin					BGI_N306	female	NCBI Annotation Release 100	1203712246	Scaffold	2014-05-19	JMFL01
+GCA_024582635.1	ASM2458263v1	Todiramphus saurophagus					IRGN 2T7VB64F69			1202724839	Scaffold	2022-08-06	JANIMW01
+GCA_027560015.1	ASM2756001v1	Chloroceryle amazona					GZCI2S7TMW			1110454235	Scaffold	2023-01-03	JANHFX01
+GCA_030412475.1	ASM3041247v1	Luscinia luscinia					LL19			5536017	Scaffold	2023-07-05	JAOYSP01
+GCA_000690835.1	ASM69083v1	Fulmarus glacialis					BGI_N327	male	Annotation submitted by BGI	1141395646	Scaffold	2014-05-13	JJRN01
+GCF_000690835.1	ASM69083v1	Fulmarus glacialis					BGI_N327	male	NCBI Annotation Release 100	1141395646	Scaffold	2014-05-13	JJRN01
+GCA_014362685.1	C_cygnus_scaffold_01	Cygnus cygnus								1052375201	Scaffold	2020-08-22	BMBB01
+GCA_002289315.1	UriLom_1.1	Uria lomvia				Coats Island		female		1179358714	Scaffold	2017-09-11	NOXD01
+GCA_000691785.1	ASM69178v1	Leptosomus discolor					BGI_N330	male	Annotation submitted by BGI	1136244952	Scaffold	2014-05-23	JJRK01
+GCF_000691785.1	ASM69178v1	Leptosomus discolor					BGI_N330	male	NCBI Annotation Release 100	1136244952	Scaffold	2014-05-23	JJRK01
+GCA_027564115.1	ASM2756411v1	Ceyx argentatus					2ZV5HKAGE4			971617043	Scaffold	2023-01-03	JANITY01
+GCA_000690875.1	ASM69087v1	Gavia stellata					BGI_N328	male	Annotation submitted by BGI	1129677294	Scaffold	2014-05-13	JJRM01
+GCF_000690875.1	ASM69087v1	Gavia stellata					BGI_N328	male	NCBI Annotation Release 100	1129677294	Scaffold	2014-05-13	JJRM01
+GCA_013401275.1	ASM1340127v1	Pandion haliaetus					B10K-DU-012-58	male	Annotation submitted by B10K Consortium	1147624024	Scaffold	2020-07-10	VYZV01
+GCA_002870145.1	P.krameri1.0	Psittacula krameri					jrs2016	female		1417809960	Scaffold	2018-01-09	NFZL01
+GCA_024611195.1	ASM2461119v1	Ceyx melanurus					26BR11BSXK			933633403	Scaffold	2022-08-10	JANHGL01
+GCA_014363165.1	F_cirrhata_scaffold_01	Fratercula cirrhata								1105963355	Scaffold	2020-08-22	BMBE01
+GCA_025447755.1	ASM2544775v1	Corythornis vintsioides					MG7ISKC98Q			997287905	Scaffold	2022-09-27	JAOEGS01
+GCA_010014965.2	ASM1001496v2	Pyrrhura griseipectus					9DNWD0V6IF			1155745295	Scaffold	2022-07-29	JAAAKS02
+GCA_004320165.1	Dendrocopos noguchii_ver1.0	Dendrocopos noguchii								1134561427	Scaffold	2019-02-16	BJBY01
+GCA_027560095.1	ASM2756009v1	Chloroceryle inda					XSDVVHHFKO			1098818303	Scaffold	2023-01-03	JANHFY01
+GCA_000699545.1	ASM69954v1	Podiceps cristatus					BGI_N338	male	Annotation submitted by BGI	1134922578	Scaffold	2014-06-11	JMFS01
+GCA_000708925.1	ASM70892v1	Phalacrocorax carbo					BGI_N336	male	Annotation submitted by BGI	1138967842	Scaffold	2014-06-17	JMFI01
+GCF_000708925.1	ASM70892v1	Phalacrocorax carbo					BGI_N336	male	NCBI Annotation Release 100	1138967842	Scaffold	2014-06-17	JMFI01
+GCA_027560035.1	ASM2756003v1	Ceyx erithaca					1PJA27LXXK			985286327	Scaffold	2023-01-03	JANHFW01
+GCA_028571105.1	ASM2857110v1	Tragopan temminckii					T81TGUPUVR			1081962741	Scaffold	2023-02-09	JAOWBP01
+GCA_009823435.2	ASM982343v2	Nymphicus hollandicus					MissyBob_DYQSUJFBEA	female		1148932135	Scaffold	2022-11-30	WTXV02
+GCA_025309335.1	ASM2530933v1	Aegypius monachus					KU 91378			1229976225	Scaffold	2022-09-20	JANUXQ01
+GCA_000699945.1	ASM69994v1	Cathartes aura					BGI_N323	female	Annotation submitted by BGI	1152571117	Scaffold	2014-06-11	JMFT01
+GCA_024611155.1	ASM2461115v1	Corythornis cristatus					O9RTRNBQEF			1009986054	Scaffold	2022-08-10	JANHGM01
+GCA_025802355.1	ASM2580235v1	Corythornis madagascariensis					IRGN TOHTQJH8QJ			1028005587	Scaffold	2022-10-23	JAOYMX01
+GCA_027564255.1	ASM2756425v1	Corythornis leucogaster					V5Z1USBMU3			1061868387	Scaffold	2023-01-03	JANITV01
+GCA_025447775.1	ASM2544777v1	Ceyx margarethae					W250R15UOX			1013858382	Scaffold	2022-09-27	JAOEGR01
+GCA_008033365.1	NUS_rp_v1	Pseudorectes ferrugineus					Z43706	female		995897499	Scaffold	2019-08-20	QWTY01
+GCA_002909625.1	Bthov1.0	Bambusicola thoracicus					RTK389	female	Annotation submitted by University of Florida	1032295167	Scaffold	2018-01-31	PPHD01
+GCA_004023745.1	ASM402374v1	Recurvirostra avosetta					S068744-2018			1193282475	Scaffold	2019-01-15	SAYO01
+GCA_024222105.1	ASM2422210v1	Accipiter cooperii					ANSP 33350			1190545496	Scaffold	2022-07-12	JANBPI01
+GCA_025728025.1	ASM2572802v1	Pithecophaga jefferyi					IRGN QV2FOJOLJG			1257274458	Scaffold	2022-10-17	JAOTQI01
+GCA_025630025.2	ASM2563002v2	Gallinago media					UWBM 74179			1265690539	Scaffold	2023-05-25	JAOSLN02
+GCA_030412455.1	ASM3041245v1	Luscinia megarhynchos					LM17			3435360	Scaffold	2023-07-05	JAOYSO01
+GCA_027497755.1	ASM2749775v1	Aquila audax								1206897819	Scaffold	2022-12-30	JANVCD01
+GCA_006937325.1	anoDid_nucDNA_orig	Anomalopteryx didiformis					TW95			1190759065	Scaffold	2019-07-12	SZQC01
+GCA_003993805.1	UO_Hhiman_2.0	Himantopus leucocephalus					B60480			1116806074	Scaffold	2019-01-04	RSEF01
+GCA_013401055.1	ASM1340105v1	Uria aalge					OUT-0019	female	Annotation submitted by B10K Consortium	1181532998	Scaffold	2020-07-10	VZUE01
+GCA_016584745.2	ASM1658474v2	Phylloscopus trochilus trochilus					CP59525	male		1249305972	Scaffold	2022-11-18	WQNJ02
+GCA_030060385.1	ASM3006038v1	Muscicapa striata striata				Europe	MNHN ZO 2018-449			1083147749	Contig	2023-05-22	JAREIS01
+GCA_009792885.1	CLO_EAlp_1.0	Eremophila alpestris peregrina					EALPPER07	male		1041021471	Scaffold	2019-12-23	WMCF01
+GCA_025345505.1	ASM2534550v1	Todiramphus chloris collaris				Philippines	FMNH_358326	female		1215164945	Scaffold	2022-09-21	JANVCC01
+GCA_014362705.1	C_janthina_scaffold_01	Columba janthina nitens								1083634036	Scaffold	2020-08-22	BMBC01
+GCA_020466415.1	ASM2046641v1	Ammodramus savannarum pratensis				Eastern subspecies	155320	female		906668489	Scaffold	2021-10-13	JAHXMQ01
+GCA_001870855.1	T_cupido_pinnatus_GPC_3440_v1	Tympanuchus cupido pinnatus					GPC 3440	female		983776544	Scaffold	2016-11-07	MOXI01
+GCA_002844005.1	Godwit_v1	Limosa lapponica baueri					BTGAFAM01	pooled male and female	Annotation submitted by Universidade Federal do Rio de Janeiro	1034771378	Scaffold	2017-12-15	LXVZ01
+GCA_002029285.1	NIATT_ARIZONA	Patagioenas fasciata monilis					BTP2013	female	Annotation submitted by University of California, Santa Cruz	1089149042	Scaffold	2017-03-15	LSYS01
+GCA_000586395.1	tetTet1	Lyrurus tetrix tetrix								657025294	Contig	2014-03-08	JDSL01
+GCA_917880015.2	bAraRub1_ORGONE04	Ara rubrogenys								1161924866	Scaffold	2022-01-30	CAKMNV02
+GCA_027886175.1	LUni_PhColl_1	Phylloscopus collybita					SZ8851	female		1247501225	Contig	2023-01-17	JAJNNQ01
+GCA_011125475.1	OU_Melaur_1	Melanerpes aurifrons						female		1309609574	Contig	2020-03-17	WWNC01
+GCA_022539395.1	myiCay2020	Myiozetetes cayanensis					MyiCay16	female		1075628138	Scaffold	2022-03-10	JAKSEM01
+GCF_022539395.1	myiCay2020	Myiozetetes cayanensis					MyiCay16	female	GCF_022539395.1-RS_2023_02	1075628138	Scaffold	2022-03-10	JAKSEM01
+GCA_021398385.1	ASM2139838v1	Gyps himalayensis					XN01			1190689946	Contig	2022-01-10	JACFZI01
+GCA_002167245.1	SpoHypox2.0	Sporophila hypoxantha					MACN 5231			1067760248	Scaffold	2017-06-05	NDFG01
+GCA_017590055.1	ASM1759005v1	Onychostruthus taczanowskii					IOZ18803	pooled male and female		1033716807	Scaffold	2021-03-26	JAGGNI01
+GCF_017590055.1	ASM1759005v1	Onychostruthus taczanowskii					IOZ18803	pooled male and female	NCBI Annotation Release 100	1033716807	Scaffold	2021-03-26	JAGGNI01
+GCA_017590135.1	ASM1759013v1	Pyrgilauda ruficollis					IOZ18807	pooled male and female		1045967452	Scaffold	2021-03-26	JAGGNJ01
+GCF_017590135.1	ASM1759013v1	Pyrgilauda ruficollis					IOZ18807	pooled male and female	NCBI Annotation Release 100	1045967452	Scaffold	2021-03-26	JAGGNJ01
+GCA_017590115.1	ASM1759011v1	Montifringilla adamsi					IOZ19161	pooled male and female		1047401841	Scaffold	2021-03-26	JAGGNK01
+GCA_902168055.1	ARATINGA-SOLSTITIALIS-ASSEMBLY-PRJEB33153	Aratinga solstitialis								1169445099	Scaffold	2019-11-14	CABHOG01
+GCA_010084205.1	BGI_Echrysol.V1	Eudyptes chrysolophus					MP PEI 1		Annotation submitted by BGI-Shenzhen	1365695164	Scaffold	2020-01-31	VULJ01
+GCA_013398455.1	ASM1339845v1	Loxia curvirostra					OUT-0011	male	Annotation submitted by B10K Consortium	1028271095	Scaffold	2020-07-10	VZSM01
+GCA_003697955.1	ASM369795v1	Calidris pygmaea		Meinypilgyno				female		1178350366	Scaffold	2018-10-30	QJSC01
+GCA_013397075.1	ASM1339707v1	Rhabdornis inornatus					B10K-DU-001-29	female	Annotation submitted by B10K Consortium	1038144357	Scaffold	2020-07-10	VWZS01
+GCA_013396655.1	ASM1339665v1	Campylorhamphus procurvoides					B10K-DU-001-09	female	Annotation submitted by B10K Consortium	1047499103	Scaffold	2020-07-10	WBMV01
+GCA_013398115.1	ASM1339811v1	Falcunculus frontatus					B10K-DU-029-77	male	Annotation submitted by B10K Consortium	1042685034	Scaffold	2020-07-10	VZRV01
+GCA_013399195.1	ASM1339919v1	Dicrurus megarhynchus					B10K-DU-001-48		Annotation submitted by B10K Consortium	1051520678	Scaffold	2020-07-10	VXAD01
+GCA_020086605.1	ASM2008660v1	Lanius collurio					143784	male		1205271558	Scaffold	2021-09-21	JACBWW01
+GCA_013397725.1	ASM1339772v1	Rhagologus leucostigma					B10K-DU-029-40	male	Annotation submitted by B10K Consortium	1045193615	Scaffold	2020-07-10	VZTD01
+GCA_013399875.1	ASM1339987v1	Gymnorhina tibicen					B10K-DU-002-05	female	Annotation submitted by B10K Consortium	1052262442	Scaffold	2020-07-10	VXAZ01
+GCA_003342965.1	aptOwe1	Apteryx owenii					O20599	male		1231276503	Scaffold	2018-07-26	PTFC01
+GCA_013397115.1	ASM1339711v1	Edolisoma coerulescens					B10K-DU-001-25	female	Annotation submitted by B10K Consortium	1042448157	Scaffold	2020-07-10	VWZW01
+GCA_003343035.1	aptRow1	Apteryx rowi					R43461	male		1228902913	Scaffold	2018-07-26	PTFB01
+GCF_003343035.1	aptRow1	Apteryx rowi					R43461	male	NCBI Annotation Release 100	1228902913	Scaffold	2018-07-26	PTFB01
+GCA_013397155.1	ASM1339715v1	Irena cyanogastra					B10K-DU-001-26	female	Annotation submitted by B10K Consortium	1036547706	Scaffold	2020-07-10	VWZV01
+GCA_013396755.1	ASM1339675v1	Sclerurus mexicanus					B10K-DU-001-03	female	Annotation submitted by B10K Consortium	1046918217	Scaffold	2020-07-10	VWZF01
+GCA_013400975.1	ASM1340097v1	Atrichornis clamosus					B10K-DU-029-61	female	Annotation submitted by B10K Consortium	1047502076	Scaffold	2020-07-10	WBMZ01
+GCA_013397755.1	ASM1339775v1	Cnemophilus loriae					B10K-DU-029-38	female	Annotation submitted by B10K Consortium	1043492295	Scaffold	2020-07-10	VZTF01
+GCA_013396875.1	ASM1339687v1	Vireo altiloquus					B10K-DU-001-22	female	Annotation submitted by B10K Consortium	1064977253	Scaffold	2020-07-10	VZRF01
+GCA_013396995.1	ASM1339699v1	Dicaeum eximium					B10K-DU-001-34	female	Annotation submitted by B10K Consortium	1015048105	Scaffold	2020-07-10	VWZP01
+GCA_013400115.1	ASM1340011v1	Rhinopomastus cyanomelas					B10K-DU-002-35	female	Annotation submitted by B10K Consortium	994785294	Scaffold	2020-07-10	VXBP01
+GCA_013398015.1	ASM1339801v1	Oreocharis arfaki					B10K-DU-029-42	male	Annotation submitted by B10K Consortium	1039561598	Scaffold	2020-07-10	VZRR01
+GCA_010077935.1	BGI_Sdem.V1	Spheniscus demersus					AP 173		Annotation submitted by BGI-Shenzhen	1275043525	Scaffold	2020-01-31	VUKX01
+GCA_013396915.1	ASM1339691v1	Stercorarius parasiticus					B10K-DU-001-20	female	Annotation submitted by B10K Consortium	1159854254	Scaffold	2020-07-10	VWZL01
+GCA_013397845.1	ASM1339784v1	Melanocharis versteri					B10K-DU-029-37		Annotation submitted by B10K Consortium	1030540361	Scaffold	2020-07-10	VZTG01
+GCA_013398055.1	ASM1339805v1	Ifrita kowaldi					B10K-DU-029-41	male	Annotation submitted by B10K Consortium	1041499962	Scaffold	2020-07-10	VZRS01
+GCA_010076225.1	BGI_Smag.V1	Spheniscus magellanicus					AH 6		Annotation submitted by BGI-Shenzhen	1260229131	Scaffold	2020-01-31	VUKV01
+GCA_013397955.1	ASM1339795v1	Grantiella picta					B10K-DU-029-50	male	Annotation submitted by B10K Consortium	1014521746	Scaffold	2020-07-10	VZRM01
+GCA_013389825.1	ASM1338982v1	Crypturellus undulatus					B10K-MSB-37135	female	Annotation submitted by B10K Consortium	1021424416	Scaffold	2020-07-06	VWPW01
+GCA_013397895.1	ASM1339789v1	Origma solitaria					B10K-DU-029-52	male	Annotation submitted by B10K Consortium	1033410747	Scaffold	2020-07-10	VZRL01
+GCA_013397235.1	ASM1339723v1	Lanius ludovicianus					B10K-DU-001-65	female	Annotation submitted by B10K Consortium	1040379146	Scaffold	2020-07-10	VYXG01
+GCA_013399225.1	ASM1339922v1	Rhipidura dahli					B10K-DU-001-49	male	Annotation submitted by B10K Consortium	1019433115	Scaffold	2020-07-10	VXAC01
+GCA_013400235.1	ASM1340023v1	Oriolus oriolus					B10K-DU-002-24	female	Annotation submitted by B10K Consortium	1038866468	Scaffold	2020-07-10	VXBT01
+GCA_013398995.1	ASM1339899v1	Alaudala cheleensis					B10K-DU-001-15	female	Annotation submitted by B10K Consortium	1069224903	Scaffold	2020-07-10	VWYE01
+GCA_003713265.1	ParRag_1.0	Paradisaea raggiana					B10K-DU-002-22	female		1037508133	Scaffold	2018-11-06	RAHK01
+GCA_013396525.1	ASM1339652v1	Chaetorhynchus papuensis					B10K-CU-031-19		Annotation submitted by B10K Consortium	1045122515	Scaffold	2020-07-10	VWYX01
+GCA_013396895.1	ASM1339689v1	Loxia leucoptera					B10K-DU-001-19	female	Annotation submitted by B10K Consortium	1027807383	Scaffold	2020-07-10	VWZM01
+GCA_013397825.1	ASM1339782v1	Onychorhynchus coronatus					B10K-DU-028-75	female	Annotation submitted by B10K Consortium	1072513727	Scaffold	2020-07-10	VZRK01
+GCA_013397595.1	ASM1339759v1	Halcyon senegalensis					B10K-DU-024-03	male	Annotation submitted by B10K Consortium	1137736700	Scaffold	2020-07-10	WBNJ01
+GCA_010080355.1	BGI_Emin.V1	Eudyptula minor					Gonzo		Annotation submitted by BGI-Shenzhen	1462615782	Scaffold	2020-01-31	VULC01
+GCA_013401255.1	ASM1340125v1	Urocolius indicus					B10K-DU-030-59	female	Annotation submitted by B10K Consortium	1109599764	Scaffold	2020-07-10	WBNH01
+GCA_013400755.1	ASM1340075v1	Pelecanoides urinatrix					B10K-DU-012-45	female	Annotation submitted by B10K Consortium	1205479880	Scaffold	2020-07-10	VZTQ01
+GCA_013398475.1	ASM1339847v1	Asarcornis scutulata					OUT-0051	female	Annotation submitted by B10K Consortium	1117983497	Scaffold	2020-07-10	VZSO01
+GCA_013397815.1	ASM1339781v1	Aleadryas rufinucha					B10K-DU-029-36	male	Annotation submitted by B10K Consortium	1050107613	Scaffold	2020-07-10	VZTH01
+GCA_013399895.1	ASM1339989v1	Serilophus lunatus					B10K-DU-002-03	male	Annotation submitted by B10K Consortium	1040370003	Scaffold	2020-07-10	VXBA01
+GCA_013397135.1	ASM1339713v1	Pachyramphus minor					B10K-DU-001-72	female	Annotation submitted by B10K Consortium	1054898176	Scaffold	2020-07-10	VYXB01
+GCA_013399835.1	ASM1339983v1	Leptocoma aspasia					B10K-DU-001-35	male	Annotation submitted by B10K Consortium	1035751609	Scaffold	2020-07-10	VXAX01
+GCA_013397375.1	ASM1339737v1	Toxostoma redivivum					B10K-DU-002-15	female	Annotation submitted by B10K Consortium	1032473302	Scaffold	2020-07-10	VXBI01
+GCA_013396355.1	ASM1339635v1	Menura novaehollandiae					B10K-CU-030-46	male	Annotation submitted by B10K Consortium	1060480557	Scaffold	2020-07-10	VWPS01
+GCA_013399675.1	ASM1339967v1	Mesembrinibis cayennensis					B10K-DU-001-44	female	Annotation submitted by B10K Consortium	1196180878	Scaffold	2020-07-10	VXAT01
+GCA_013397175.1	ASM1339717v1	Platysteira castanea					B10K-DU-001-71	female	Annotation submitted by B10K Consortium	1058888301	Scaffold	2020-07-10	VYXC01
+GCA_013396635.1	ASM1339663v1	Penelope pileata					B10K-DU-001-08	male	Annotation submitted by B10K Consortium	1027970763	Scaffold	2020-07-10	WBMW01
+GCA_013396695.1	ASM1339669v1	Sakesphorus luctuosus					B10K-DU-001-06	female	Annotation submitted by B10K Consortium	1080150879	Scaffold	2020-07-10	VWZD01
+GCA_013397435.1	ASM1339743v1	Erythrocercus mccallii					B10K-DU-002-60	male	Annotation submitted by B10K Consortium	1030110820	Scaffold	2020-07-10	VZRG01
+GCA_013397455.1	ASM1339745v1	Crotophaga sulcirostris					B10K-DU-003-44	male	Annotation submitted by B10K Consortium	1077958271	Scaffold	2020-07-10	VYZB01
+GCA_013400915.1	ASM1340091v1	Pardalotus punctatus					B10K-DU-029-51	female	Annotation submitted by B10K Consortium	1032444361	Scaffold	2020-07-10	VZTX01
+GCA_013397795.1	ASM1339779v1	Orthonyx spaldingii					B10K-DU-029-32	male	Annotation submitted by B10K Consortium	1034662073	Scaffold	2020-07-10	VZTJ01
+GCA_010085355.1	BGI_Echrysoc.V1	Eudyptes chrysocome					RH 110-1		Annotation submitted by BGI-Shenzhen	1231062710	Scaffold	2020-01-31	VULL01
+GCA_013400955.1	ASM1340095v1	Drymodes brunneopygia					B10K-DU-030-03		Annotation submitted by B10K Consortium	1058966521	Scaffold	2020-07-10	VZTZ01
+GCA_902810485.1	skylark_genome	Alauda arvensis								1028664229	Scaffold	2020-03-13	CADDXX01
+GCA_025920805.1	Ptraversi_NRM_v1	Petroica traversi				Rangatira	09_131	female		1069471501	Scaffold	2022-10-31	JAHLSL01
+GCA_013400255.1	ASM1340025v1	Sitta europaea					B10K-DU-002-25	female	Annotation submitted by B10K Consortium	1020783426	Scaffold	2020-07-10	VXBS01
+GCA_013397915.1	ASM1339791v1	Daphoenositta chrysoptera					B10K-DU-029-47	male	Annotation submitted by B10K Consortium	1033680849	Scaffold	2020-07-10	VZRO01
+GCA_013397695.1	ASM1339769v1	Centropus unirufus					B10K-DU-017-25	female	Annotation submitted by B10K Consortium	1048837197	Scaffold	2020-07-10	VYZI01
+GCA_013399695.1	ASM1339969v1	Formicarius rufipectus					B10K-DU-001-43	male	Annotation submitted by B10K Consortium	1044275471	Scaffold	2020-07-10	VXAU01
+GCA_013389845.1	ASM1338984v1	Crypturellus soui					B10K-MSB-42743	female	Annotation submitted by B10K Consortium	1043359976	Scaffold	2020-07-06	VWPX01
+GCA_013399305.1	ASM1339930v1	Rostratula benghalensis					B10K-DU-006-20	female	Annotation submitted by B10K Consortium	1103097556	Scaffold	2020-07-10	VXAI01
+GCA_013396485.1	ASM1339648v1	Ptilorrhoa leucosticta					B10K-CU-031-17	female	Annotation submitted by B10K Consortium	1110559233	Scaffold	2020-07-10	VWYY01
+GCA_013397975.1	ASM1339797v1	Machaerirhynchus nigripectus					B10K-DU-029-43	female	Annotation submitted by B10K Consortium	1044536230	Scaffold	2020-07-10	VZRQ01
+GCA_013400355.1	ASM1340035v1	Certhia brachydactyla					B10K-DU-002-20	male	Annotation submitted by B10K Consortium	1028791262	Scaffold	2020-07-10	VXBV01
+GCA_013397775.1	ASM1339777v1	Eulacestoma nigropectus					B10K-DU-029-39	male	Annotation submitted by B10K Consortium	1040437550	Scaffold	2020-07-10	VZTE01
+GCA_013399855.1	ASM1339985v1	Oxyruncus cristatus					B10K-DU-002-07		Annotation submitted by B10K Consortium	1062467484	Scaffold	2020-07-10	VXAY01
+GCA_013396775.1	ASM1339677v1	Cephalopterus ornatus					B10K-DU-001-01	female	Annotation submitted by B10K Consortium	1061560279	Scaffold	2020-07-10	VZRE01
+GCA_013399175.1	ASM1339917v1	Odontophorus gujanensis					B10K-DU-001-53	female	Annotation submitted by B10K Consortium	977719362	Scaffold	2020-07-10	VXAB01
+GCA_013400175.1	ASM1340017v1	Phainopepla nitens					B10K-DU-002-32	female	Annotation submitted by B10K Consortium	1027439719	Scaffold	2020-07-10	VXBQ01
+GCA_013397865.1	ASM1339786v1	Struthidea cinerea					B10K-DU-029-33	male	Annotation submitted by B10K Consortium	1042119318	Scaffold	2020-07-10	VZTI01
+GCA_013397995.1	ASM1339799v1	Malurus elegans					B10K-DU-029-44	female	Annotation submitted by B10K Consortium	1013601814	Scaffold	2020-07-10	VZRP01
+GCA_013399945.1	ASM1339994v1	Ploceus nigricollis					B10K-DU-001-79	female	Annotation submitted by B10K Consortium	1035454922	Scaffold	2020-07-10	VXBC01
+GCA_013399215.1	ASM1339921v1	Spizaetus tyrannus					B10K-DU-007-42	male	Annotation submitted by B10K Consortium	1184661130	Scaffold	2020-07-10	VXAF01
+GCA_013398175.1	ASM1339817v1	Climacteris rufus					B10K-DU-029-53	male	Annotation submitted by B10K Consortium	1058972301	Scaffold	2020-07-10	VZRZ01
+GCA_013399735.1	ASM1339973v1	Tyrannus savana					B10K-DU-001-37	female	Annotation submitted by B10K Consortium	1055499921	Scaffold	2020-07-10	VXAW01
+GCA_013397935.1	ASM1339793v1	Dasyornis broadbenti					B10K-DU-029-49		Annotation submitted by B10K Consortium	1024798037	Scaffold	2020-07-10	VZRN01
+GCA_013396975.1	ASM1339697v1	Bucco capensis					B10K-DU-001-16	female	Annotation submitted by B10K Consortium	988120178	Scaffold	2020-07-10	VWZO01
+GCA_013397015.1	ASM1339701v1	Myiagra hebetior					B10K-DU-001-33	female	Annotation submitted by B10K Consortium	1049898355	Scaffold	2020-07-10	VWZQ01
+GCA_013396555.1	ASM1339655v1	Tachuris rubrigastra					B10K-CU-031-13	female	Annotation submitted by B10K Consortium	1059681690	Scaffold	2020-07-10	VZRD01
+GCA_013398125.1	ASM1339812v1	Aegotheles bennettii					B10K-DU-029-76	female	Annotation submitted by B10K Consortium	1089119258	Scaffold	2020-07-10	VZRW01
+GCA_025434525.1	Mal_alb_V1.0	Malurus alboscapulatus				Enga Province		male		1011911379	Scaffold	2022-09-27	JANSVG01
+GCA_013399975.1	ASM1339997v1	Indicator maculatus					B10K-DU-001-78	female	Annotation submitted by B10K Consortium	1127548528	Scaffold	2020-07-10	VXBD01
+GCA_013396735.1	ASM1339673v1	Grallaria varia					B10K-DU-001-02	female	Annotation submitted by B10K Consortium	1056033657	Scaffold	2020-07-10	VWZG01
+GCA_013397195.1	ASM1339719v1	Hylia prasina					B10K-DU-001-70	female	Annotation submitted by B10K Consortium	1029027164	Scaffold	2020-07-10	VYXD01
+GCA_013400315.1	ASM1340031v1	Bombycilla garrulus					B10K-DU-002-23	female	Annotation submitted by B10K Consortium	1032116443	Scaffold	2020-07-10	VXBU01
+GCA_013400195.1	ASM1340019v1	Aramus guarauna					B10K-DU-002-11	female	Annotation submitted by B10K Consortium	1170510309	Scaffold	2020-07-10	VXBL01
+GCA_013401175.1	ASM1340117v1	Xiphorhynchus elegans					OUT-0059	male	Annotation submitted by B10K Consortium	1059658982	Scaffold	2020-07-10	VZUH01
+GCA_013400575.1	ASM1340057v1	Peucedramus taeniatus					B10K-DU-002-52	female	Annotation submitted by B10K Consortium	1037528998	Scaffold	2020-07-10	WBNO01
+GCA_013399355.1	ASM1339935v1	Herpetotheres cachinnans					B10K-DU-005-78	male	Annotation submitted by B10K Consortium	1175298361	Scaffold	2020-07-10	VXAJ01
+GCA_013399615.1	ASM1339961v1	Amazona guildingii					B10K-DU-001-46	female	Annotation submitted by B10K Consortium	1133570109	Scaffold	2020-07-10	VXAR01
+GCA_013397055.1	ASM1339705v1	Pachycephala philippinensis					B10K-DU-001-28	female	Annotation submitted by B10K Consortium	1041722788	Scaffold	2020-07-10	VWZT01
+GCA_013399035.1	ASM1339903v1	Quiscalus mexicanus					B10K-DU-001-31	female	Annotation submitted by B10K Consortium	1041398572	Scaffold	2020-07-10	VWYF01
+GCA_013397245.1	ASM1339724v1	Thryothorus ludovicianus					B10K-DU-001-68	female	Annotation submitted by B10K Consortium	1031447271	Scaffold	2020-07-10	VZTB01
+GCA_013398745.1	ASM1339874v1	Sapayoa aenigma					B10K-DU-030-41	male	Annotation submitted by B10K Consortium	1015910493	Scaffold	2020-07-10	VZSY01
+GCA_013400415.1	ASM1340041v1	Scytalopus superciliaris					B10K-DU-002-46	female	Annotation submitted by B10K Consortium	1061776118	Scaffold	2020-07-10	VXBX01
+GCA_013401195.1	ASM1340119v1	Pomatorhinus ruficollis					B10K-IZ-033-81	male	Annotation submitted by B10K Consortium	1065047492	Scaffold	2020-07-10	VZSW01
+GCA_013399095.1	ASM1339909v1	Psophia crepitans					B10K-DU-001-60	male	Annotation submitted by B10K Consortium	1169253548	Scaffold	2020-07-10	VWZZ01
+GCA_013400335.1	ASM1340033v1	Eurystomus gularis					B10K-DU-002-51	female	Annotation submitted by B10K Consortium	1130134188	Scaffold	2020-07-10	VZZY01
+GCA_013400495.1	ASM1340049v1	Nicator chloris					B10K-DU-002-40	female	Annotation submitted by B10K Consortium	1040737262	Scaffold	2020-07-10	WAAE01
+GCA_013398975.1	ASM1339897v1	Catharus fuscescens					B10K-DU-001-17	female	Annotation submitted by B10K Consortium	1041802491	Scaffold	2020-07-10	VWYD01
+GCA_013397465.1	ASM1339746v1	Furnarius figulus					B10K-DU-003-06	male	Annotation submitted by B10K Consortium	1020012445	Scaffold	2020-07-10	VYZD01
+GCA_013397025.1	ASM1339702v1	Oceanodroma tethys					B10K-DU-001-32	female	Annotation submitted by B10K Consortium	1189005779	Scaffold	2020-07-10	VWZR01
+GCA_013397555.1	ASM1339755v1	Urocynchramus pylzowi					B10K-DU-012-38	female	Annotation submitted by B10K Consortium	1030914293	Scaffold	2020-07-10	VZRH01
+GCA_013400435.1	ASM1340043v1	Pycnonotus jocosus					B10K-DU-002-42	female	Annotation submitted by B10K Consortium	1024591993	Scaffold	2020-07-10	VWYP01
+GCA_013399135.1	ASM1339913v1	Heliornis fulica					B10K-DU-001-55	female	Annotation submitted by B10K Consortium	1097085761	Scaffold	2020-07-10	VXBZ01
+GCA_013396375.1	ASM1339637v1	Ardeotis kori					B10K-CU-031-01	female	Annotation submitted by B10K Consortium	1150486959	Scaffold	2020-07-10	VWPR01
+GCA_013399115.1	ASM1339911v1	Anseranas semipalmata					B10K-DU-001-57	male	Annotation submitted by B10K Consortium	1131429283	Scaffold	2020-07-10	VXAA01
+GCA_013399495.1	ASM1339949v1	Corythaixoides concolor					B10K-DU-011-20	female	Annotation submitted by B10K Consortium	1187728577	Scaffold	2020-07-10	VXAM01
+GCA_013397715.1	ASM1339771v1	Calcarius ornatus					B10K-DU-015-28	male	Annotation submitted by B10K Consortium	1056295845	Scaffold	2020-07-10	WBNL01
+GCA_010365825.1	OtuSun1.0	Otus sunia					oso-nibr-517			1231433939	Scaffold	2020-02-04	PYXB01
+GCA_013399275.1	ASM1339927v1	Trogon melanurus					B10K-DU-007-40	male	Annotation submitted by B10K Consortium	1107860996	Scaffold	2020-07-10	VXAG01
+GCA_013397295.1	ASM1339729v1	Polioptila caerulea					B10K-DU-001-66	female	Annotation submitted by B10K Consortium	1038028908	Scaffold	2020-07-10	VYXF01
+GCA_013398075.1	ASM1339807v1	Notiomystis cincta					B10K-DU-029-75		Annotation submitted by B10K Consortium	1025225744	Scaffold	2020-07-10	VZRX01
+GCA_013399455.1	ASM1339945v1	Anthoscopus minutus					B10K-DU-011-42		Annotation submitted by B10K Consortium	978848727	Scaffold	2020-07-10	VWYI01
+GCA_013389885.1	ASM1338988v1	Geococcyx californianus					B10K-CU-031-07	female	Annotation submitted by B10K Consortium	1134037073	Scaffold	2020-07-06	VWPV01
+GCA_013397275.1	ASM1339727v1	Burhinus bistriatus					B10K-DU-001-64	female	Annotation submitted by B10K Consortium	1208588303	Scaffold	2020-07-10	VYXH01
+GCA_027576695.1	ASM2757669v1	Cossypha archeri					FMNH birds-355602			1133050683	Scaffold	2023-01-06	JAODLE01
+GCA_013400515.1	ASM1340051v1	Erpornis zantholeuca					B10K-DU-002-58	female	Annotation submitted by B10K Consortium	1013967273	Scaffold	2020-07-10	VZTN01
+GCA_013398315.1	ASM1339831v1	Nothoprocta pentlandii					B10K-MSB-04	female	Annotation submitted by B10K Consortium	984657498	Scaffold	2020-07-10	VZSG01
+GCA_026259535.1	ASM2625953v1	Buteo rufinus					KU 119971			1192236555	Scaffold	2022-11-21	JAOYNR01
+GCA_013399935.1	ASM1339993v1	Cinclus mexicanus					B10K-DU-001-77	female	Annotation submitted by B10K Consortium	996999814	Scaffold	2020-07-10	VWYM01
+GCA_013400835.1	ASM1340083v1	Zapornia atra					B10K-DU-011-47	female	Annotation submitted by B10K Consortium	1119122118	Scaffold	2020-07-10	VZTU01
+GCA_013389865.1	ASM1338986v1	Piaya cayana					B10K-DU-008-47	female	Annotation submitted by B10K Consortium	1151257265	Scaffold	2020-07-06	WAAB01
+GCA_013400935.1	ASM1340093v1	Turnix velox					B10K-DU-029-46	male	Annotation submitted by B10K Consortium	968890544	Scaffold	2020-07-10	VZTY01
+GCA_028571045.1	ASM2857104v1	Scolopax bukidnonensis					QIRVQZKBFH	female		1114678506	Scaffold	2023-02-09	JAOWAV01
+GCA_025769955.1	ASM2576995v1	Setophaga kirtlandii					IRGN Skeen-017AABWJ			1067421360	Scaffold	2022-10-20	JAOYNM01
+GCA_013397535.1	ASM1339753v1	Pterocles burchelli					B10K-DU-027-49		Annotation submitted by B10K Consortium	1101016587	Scaffold	2020-07-10	VYZE01
+GCA_013397415.1	ASM1339741v1	Neopipo cinnamomea					B10K-DU-004-15	female	Annotation submitted by B10K Consortium	1046027905	Scaffold	2020-07-10	VYZA01
+GCA_027122295.1	ASM2712229v1	Falco rufigularis					LSUMZ FrozenTissue 12347			1196327574	Scaffold	2022-12-20	JAOPJT01
+GCA_013390025.1	ASM1339002v1	Pitta sordida					B10K-DU-002-53	female	Annotation submitted by B10K Consortium	1088830872	Scaffold	2020-07-06	WEKX01
+GCA_025728005.1	ASM2572800v1	Accipiter virgatus					KU 122241			1185843447	Scaffold	2022-10-17	JAOSZC01
+GCA_013401335.1	ASM1340133v1	Brachypteracias leptosomus					B10K-DU-012-52	male	Annotation submitted by B10K Consortium	1125912351	Scaffold	2020-07-10	VYZX01
+GCA_025727835.1	ASM2572783v1	Megatriorchis doriae					KU 96989			1194536290	Scaffold	2022-10-17	JAOEIL01
+GCA_013399475.1	ASM1339947v1	Chauna torquata					B10K-DU-011-36	male	Annotation submitted by B10K Consortium	1162596281	Scaffold	2020-07-10	VXAL01
+GCA_027564205.1	ASM2756420v1	Falco columbarius					FMNH birds-364097			1188729421	Scaffold	2023-01-03	JAOPUE01
+GCA_013397655.1	ASM1339765v1	Chroicocephalus maculipennis					B10K-DU-021-33	female	Annotation submitted by B10K Consortium	1151142299	Scaffold	2020-07-10	VYZF01
+GCA_013390065.1	ASM1339006v1	Chloropsis hardwickii					B10K-IZ-033-78	female	Annotation submitted by B10K Consortium	1054347212	Scaffold	2020-07-06	WEIW01
+GCA_025727975.1	ASM2572797v1	Hieraaetus pennatus					KU 91934			1216756093	Scaffold	2022-10-17	JAOEIO01
+GCA_013398715.1	ASM1339871v1	Nesospiza acunhae					OUT-0053	female	Annotation submitted by B10K Consortium	1055288411	Scaffold	2020-07-10	VZSU01
+GCA_013398875.1	ASM1339887v1	Prunella himalayana					B10K-DU-013-18	male	Annotation submitted by B10K Consortium	1024611247	Scaffold	2020-07-10	VYZK01
+GCA_013398225.1	ASM1339822v1	Steatornis caripensis					OUT-0004	female	Annotation submitted by B10K Consortium	1222770580	Scaffold	2020-07-10	VZSC01
+GCA_027564455.1	ASM2756445v1	Falco novaeseelandiae					LSUMZ FrozenTissue 16740			1196707121	Scaffold	2023-01-03	JAOPUK01
+GCA_010303855.1	BubBub1.0	Bubo bubo					eeo-nibr-513			1258069325	Scaffold	2020-02-04	PYWY01
+GCA_026873725.1	ASM2687372v1	Busarellus nigricollis					KU 91625			1206635864	Scaffold	2022-12-13	JANVCM01
+GCA_025727635.1	ASM2572763v1	Buteo hemilasius					KU 120830			1212276843	Scaffold	2022-10-17	JAOEIE01
+GCA_009867235.2	ASM986723v2	Psittacus erithacus					MU2MI4XJKV	female		1126531736	Scaffold	2022-11-27	WYDI02
+GCA_013399415.1	ASM1339941v1	Sagittarius serpentarius					B10K-DU-011-38	male	Annotation submitted by B10K Consortium	1139033624	Scaffold	2020-07-10	VWYJ01
+GCA_027580075.1	ASM2758007v1	Geranoaetus polyosoma					MSB Bird 35942			1210032168	Scaffold	2023-01-06	JANZYD01
+GCA_013390045.1	ASM1339004v1	Picathartes gymnocephalus					B10K-DU-012-30		Annotation submitted by B10K Consortium	1046995276	Scaffold	2020-07-06	WEKY01
+GCA_013396835.1	ASM1339683v1	Psilopogon haemacephalus					B10K-DU-001-24	female	Annotation submitted by B10K Consortium	1204560348	Scaffold	2020-07-10	VWZI01
+GCA_026770005.1	ASM2677000v1	Butastur indicus					KU 98340			1183181658	Scaffold	2022-12-09	JANZMB01
+GCA_028565915.1	ASM2856591v1	Momotus momota					IRGN 15LBX3KN67			1123667048	Scaffold	2023-02-09	JAOXNV01
+GCA_013389945.1	ASM1338994v1	Fregata magnificens					B10K-DU-002-48	female	Annotation submitted by B10K Consortium	1177430334	Scaffold	2020-07-06	WAAD01
+GCA_002174335.1	ASM217433v1	Phalacrocorax brasilianus					IPA14M001			1346185690	Scaffold	2017-06-06	NFME01
+GCA_013400815.1	ASM1340081v1	Centropus bengalensis					B10K-DU-017-21	female	Annotation submitted by B10K Consortium	1015638883	Scaffold	2020-07-10	WBNK01
+GCA_013399075.1	ASM1339907v1	Chloroceryle aenea					B10K-DU-001-61	female	Annotation submitted by B10K Consortium	1062127307	Scaffold	2020-07-10	VWZY01
+GCA_013400735.1	ASM1340073v1	Pomatostomus ruficeps					B10K-DU-002-71		Annotation submitted by B10K Consortium	1020560999	Scaffold	2020-07-10	VYZT01
+GCA_013400775.1	ASM1340077v1	Chaetops frenatus					B10K-DU-012-41	female	Annotation submitted by B10K Consortium	1065444583	Scaffold	2020-07-10	VZTR01
+GCA_013401235.1	ASM1340123v1	Pteruthius melanotis					B10K-IZ-033-77	male	Annotation submitted by B10K Consortium	1043915671	Scaffold	2020-07-10	WEIY01
+GCA_027563805.1	ASM2756380v1	Buceros bicornis					IRGN RNM4NPQZYH			1104977868	Scaffold	2023-01-03	JAODLK01
+GCA_026930665.1	ASM2693066v1	Buteo albigula					KU 127901			1186885975	Scaffold	2022-12-16	JANVCN01
+GCA_026413545.1	ASM2641354v1	Cichladusa arquata					FMNH birds-452741			1062271883	Scaffold	2022-11-27	JAOTQP01
+GCA_028583065.1	ASM2858306v1	Threskiornis aethiopicus					IRGN GSIOZF7F8X			1200873515	Scaffold	2023-02-10	JAPEKK01
+GCA_025309795.1	ASM2530979v1	Butastur rufipennis					KU 110797			1208026759	Scaffold	2022-09-20	JANVAC01
+GCA_025727715.1	ASM2572771v1	Gyps fulvus					KU 91202			1223558386	Scaffold	2022-10-17	JAOEID01
+GCA_025448035.1	ASM2544803v1	Cacatua moluccensis					IRGN 39GUCMVTB3	female		1128551772	Scaffold	2022-09-27	JAOEHW01
+GCA_025740775.1	ASM2574077v1	Haliaeetus leucogaster					KU 110339			1211516626	Scaffold	2022-10-18	JAOEIM01
+GCA_025727815.1	ASM2572781v1	Buteo lagopus					BV3IJ70CH0			1209271270	Scaffold	2022-10-17	JAOEIH01
+GCA_013400555.1	ASM1340055v1	Jacana jacana					B10K-DU-002-59	female	Annotation submitted by B10K Consortium	1085086281	Scaffold	2020-07-10	VZTM01
+GCA_013398345.1	ASM1339834v1	Nothocercus nigrocapillus					B10K-MSB-02	female	Annotation submitted by B10K Consortium	1019611718	Scaffold	2020-07-10	WBNA01
+GCA_026212715.1	ASM2621271v1	Elanus axillaris					KU 98282			1180842911	Scaffold	2022-11-16	JANZLQ01
+GCA_025310515.1	ASM2531051v1	Buteo albonotatus					TCWC 15864			1223638346	Scaffold	2022-09-20	JANVAB01
+GCA_025629985.1	ASM2562998v1	Chamaetylas fuelleborni					FMNH birds-439321			1116532645	Scaffold	2022-10-08	JAOTBB01
+GCA_013396575.1	ASM1339657v1	Rhodinocichla rosea					B10K-CU-031-12	male	Annotation submitted by B10K Consortium	1031972585	Scaffold	2020-07-10	VWYZ01
+GCA_027575085.1	ASM2757508v1	Geranospiza caerulescens					KU 94799			1210742078	Scaffold	2023-01-06	JANZXY01
+GCA_013389985.1	ASM1338998v1	Dryoscopus gambensis					B10K-DU-002-56	female	Annotation submitted by B10K Consortium	992742094	Scaffold	2020-07-06	WEIT01
+GCA_013398935.1	ASM1339893v1	Ceuthmochares aereus					B10K-CU-031-02	male	Annotation submitted by B10K Consortium	1120248821	Scaffold	2020-07-10	VWPQ01
+GCA_013399555.1	ASM1339955v1	Circaetus pectoralis					B10K-DU-010-60	male	Annotation submitted by B10K Consortium	1183443218	Scaffold	2020-07-10	VZZV01
+GCA_013396955.1	ASM1339695v1	Regulus satrapa					B10K-DU-001-18	female	Annotation submitted by B10K Consortium	1011445235	Scaffold	2020-07-10	VWZN01
+GCA_027560335.1	ASM2756033v1	Halcyon badia					PYBLPGWE58			1169930034	Scaffold	2023-01-03	JANHOD01
+GCA_013396615.1	ASM1339661v1	Oceanites oceanicus					B10K-CU-031-11	female	Annotation submitted by B10K Consortium	1178378986	Scaffold	2020-07-10	VWZA01
+GCA_024499975.1	ASM2449997v1	Halcyon malimbica					47OO6CGMHP			1164777306	Scaffold	2022-08-01	JANHZY01
+GCA_013400715.1	ASM1340071v1	Prunella fulvescens					B10K-DU-012-46	female	Annotation submitted by B10K Consortium	1044257540	Scaffold	2020-07-10	VZTP01
+GCA_024336845.1	ASM2433684v1	Cyanopsitta spixii					Presley	male		1092480392	Scaffold	2022-07-20	JANBPP01
+GCA_027564225.1	ASM2756422v1	Gallinago stenura					UAM 29454			1202133214	Scaffold	2023-01-03	JAOQGM01
+GCA_027576295.1	ASM2757629v1	Cossypha polioptera					FMNH birds-385019			1087308697	Scaffold	2023-01-06	JAODHX01
+GCA_027560235.1	ASM2756023v1	Halcyon leucocephala					BZQVMZ9D4M			1261864246	Scaffold	2023-01-03	JANHOC01
+GCA_024611175.1	ASM2461117v1	Megaceryle torquata					PDCOFV8MGS			1183465244	Scaffold	2022-08-10	JANIJG01
+GCA_024734035.1	ASM2473403v1	Alethe castanea					FMNH birds-429532			1103488593	Scaffold	2022-08-22	JANRGV01
+GCA_029814625.1	ASM2981462v1	Psittacula derbiana					FMNH 68005			1094822489	Scaffold	2023-04-18	JAPWDL01
+GCA_027564735.1	ASM2756473v1	Rostrhamus sociabilis					KU 90149			1212673302	Scaffold	2023-01-03	JANXJF01
+GCA_013400585.1	ASM1340058v1	Chloropsis cyanopogon					B10K-DU-002-57	female	Annotation submitted by B10K Consortium	985401841	Scaffold	2020-07-10	WEZZ01
+GCA_025448115.1	ASM2544811v1	Micronisus gabar					KU 110795			1301807367	Scaffold	2022-09-27	JAOEHL01
+GCA_024605025.1	ASM2460502v1	Megaceryle maxima					7Q4JQACGN1			1177829103	Scaffold	2022-08-09	JANHGN01
+GCA_011763455.2	ASM1176345v2	Pyrrhura perlata					RZD33AEKBQ			1124813469	Scaffold	2022-07-21	JAAGVT02
+GCA_013400635.1	ASM1340063v1	Hypocryptadius cinnamomeus					B10K-DU-002-83	male	Annotation submitted by B10K Consortium	854293167	Scaffold	2020-07-10	VYZP01
+GCA_027576135.1	ASM2757613v1	Cossypha dichroa					FMNH birds-390118			1091249845	Scaffold	2023-01-06	JAODHZ01
+GCA_026284605.1	ASM2628460v1	Pyrrhura egregia					KU 93445			1144104950	Scaffold	2022-11-22	JANEXG01
+GCA_026770345.1	ASM2677034v1	Tyrannus tyrannus					MM37UDQ48A			1089970646	Scaffold	2022-12-09	JAOYSJ01
+GCA_010014865.2	ASM1001486v2	Pyrrhura frontalis					LSUMZ birdTissue 25884			1128083870	Scaffold	2022-11-27	JAAAKN02
+GCA_003264655.1	ASM326465v1	Spheniscus mendiculus					GP692			1209845584	Scaffold	2018-06-25	NDGW01
+GCA_025774025.1	ASM2577402v1	Xenus cinereus					UAM 41702			1173667304	Scaffold	2022-10-20	JAOXJK01
+GCA_027579995.1	ASM2757999v1	Ciconia episcopus					88UE47BQU4			1214246433	Scaffold	2023-01-06	JAODXS01
+GCA_027580115.1	ASM2758011v1	Sarcoramphus papa					MSB Bird 27868	female		1227506220	Scaffold	2023-01-06	JANZYG01
+GCA_024331605.1	ASM2433160v1	Primolius couloni					FMNH birds-395540			1134324094	Scaffold	2022-07-19	JANDJU01
+GCA_013397615.1	ASM1339761v1	Eolophus roseicapilla					B10K-DU-025-06	female	Annotation submitted by B10K Consortium	1065334762	Scaffold	2020-07-10	WBNI01
+GCA_025762695.1	ASM2576269v1	Merops pusillus					SEE57XE9B0			942069649	Scaffold	2022-10-19	JAOXJO01
+GCA_025584955.1	ASM2558495v1	Alethe diademata					FMNH birds-396622			1091984309	Scaffold	2022-10-05	JANRMJ01
+GCA_026284525.1	ASM2628452v1	Pyrrhura melanura					FMNH birds-456474			1191394086	Scaffold	2022-11-22	JANFOK01
+GCA_024337085.1	ASM2433708v1	Diopsittaca nobilis					EDP5N2HCYN			1155555443	Scaffold	2022-07-20	JANEXE01
+GCA_007252995.1	ZoBo_15179_v2.0	Zosterops borbonicus				Highland grey morph	HGM_15179	female	Annotation submitted by University of Montpellier	1213662640	Scaffold	2019-07-22	SWJQ01
+GCA_011763355.2	ASM1176335v2	Pyrrhura molinae					RFTQM1ZJYB			1140400741	Scaffold	2022-11-27	JAADKS02
+GCA_026284565.1	ASM2628456v1	Pyrrhura orcesi					LSUMZ FrozenTissue 7803			1160083864	Scaffold	2022-11-22	JANHHA01
+GCA_024496005.1	ASM2449600v1	Pyrrhura hoffmanni					LSUMZ FrozenTissue 28202			1141345635	Scaffold	2022-07-30	JANHGK01
+GCA_026284705.1	ASM2628470v1	Pyrrhura amazonum					FMNH birds-389694			1177329815	Scaffold	2022-11-22	JANFON01
+GCA_027574825.1	ASM2757482v1	Ciconia nigra					F7SMQ1QMFV			1210962879	Scaffold	2023-01-06	JAODXV01
+GCA_013398835.1	ASM1339883v1	Emberiza fucata					B10K-DU-015-11	female	Annotation submitted by B10K Consortium	1032579516	Scaffold	2020-07-10	VYZJ01
+GCA_027576195.1	ASM2757619v1	Cossypha heuglini					FMNH birds-429748			1111968159	Scaffold	2023-01-06	JAODKT01
+GCA_024499995.1	ASM2449999v1	Pyrrhura lucianii					MVZ Bird 165115			1247391346	Scaffold	2022-08-01	JANIAF01
+GCA_026770275.1	ASM2677027v1	Milvus milvus					KU 91933			1214435242	Scaffold	2022-12-09	JANZLG01
+GCA_026284585.2	ASM2628458v2	Pyrrhura albipectus					LSUMZ FrozenTissue 6030			1142301495	Scaffold	2023-06-01	JANFOL02
+GCA_026284825.2	ASM2628482v2	Pyrrhura hoematotis					UMMZ 589			1142301495	Scaffold	2023-06-01	JANFOO02
+GCA_027560355.1	ASM2756035v1	Halcyon chelicuti					AAZJJ3EYYE			1190389089	Scaffold	2023-01-03	JANHGA01
+GCA_011800095.2	ASM1180009v2	Guaruba guarouba					1TTDQCT4G4	female		1175317798	Scaffold	2022-07-21	JAABOC02
+GCA_024331625.1	ASM2433162v1	Psittacara leucophthalmus					FMNH birds-480649			1117906707	Scaffold	2022-07-19	JANDJW01
+GCA_013398035.1	ASM1339803v1	Panurus biarmicus					B10K-DU-030-18	female	Annotation submitted by B10K Consortium	919078602	Scaffold	2020-07-10	VZRT01
+GCA_016545565.2	ASM1654556v2	Pyrrhura cruentata					YUI5UZIPG5			1149272071	Scaffold	2022-12-29	WUAO02
+GCA_025311575.1	ASM2531157v1	Elanoides forficatus					TCWC 21022			1200198507	Scaffold	2022-09-20	JAOBAS01
+GCA_013399715.1	ASM1339971v1	Alectura lathami					B10K-DU-001-39	male	Annotation submitted by B10K Consortium	1043215352	Scaffold	2020-07-10	VXAV01
+GCA_026284765.1	ASM2628476v1	Thectocercus acuticaudatus					LSUMZ FrozenTissue 29884			1173634303	Scaffold	2022-11-22	JANHGZ01
+GCA_028565255.1	ASM2856525v1	Megaceryle alcyon					B813CVATOM			1143515891	Scaffold	2023-02-09	JAOWAQ01
+GCA_011763535.2	ASM1176353v2	Eclectus roratus					TSMLLNO8PM			1120776969	Scaffold	2022-07-21	JAAGVV02
+GCA_026283785.1	ASM2628378v1	Coracopsis vasa					IRGN JDTDTU6WDF			1229970282	Scaffold	2022-11-22	JANHGB01
+GCA_015163975.2	ASM1516397v2	Pyrrhura lepida					JXJJFZ24I5			1175322969	Scaffold	2022-11-27	JAABNU02
+GCA_026284545.1	ASM2628454v1	Pyrrhura picta					FMNH birds-395728			1158211774	Scaffold	2022-11-22	JANHHB01
+GCA_024361745.1	ASM2436174v1	Cacatua alba					IRGN DL64GI8PRG			1210837024	Scaffold	2022-07-21	JANEMJ01
+GCA_011317185.2	ASM1131718v2	Eupsittula pertinax					IRGN EF1EG5NQXF			1118851761	Scaffold	2022-11-14	WUQE02
+GCA_029286575.1	ASM2928657v1	Pitangus sulphuratus						female	Annotation submitted by LNCC	1037404267	Scaffold	2023-03-20	WHWA01
+GCA_026413425.1	ASM2641342v1	Tringa solitaria					UAM 29982			1150739019	Scaffold	2022-11-27	JAOXJM01
+GCA_027575645.1	ASM2757564v1	Cossypha caffra					FMNH birds-390125			1095826178	Scaffold	2023-01-06	JAODLH01
+GCA_013390105.1	ASM1339010v1	Tichodroma muraria					B10K-DU-012-47	female	Annotation submitted by B10K Consortium	910679850	Scaffold	2020-07-06	WAAG01
+GCA_025448095.1	ASM2544809v1	Poicephalus senegalus					IRGN 7Z7NC8NHDQ			1091127567	Scaffold	2022-09-27	JAOEIB01
+GCA_027559835.1	ASM2755983v1	Ispidina lecontei					FFQXHTPSU3			1040822607	Scaffold	2023-01-03	JANHOA01
+GCA_013400875.1	ASM1340087v1	Anhinga rufa					B10K-DU-029-28	male	Annotation submitted by B10K Consortium	1014091971	Scaffold	2020-07-10	VZTV01
+GCA_025448055.1	ASM2544805v1	Pionites leucogaster					IRGN 1JVFNH76EG			1111884935	Scaffold	2022-09-27	JAOEIA01
+GCA_027497815.1	ASM2749781v1	Aquila africana					LACM Birds 72636			1348391903	Scaffold	2022-12-30	JANCMH01
+GCA_027580015.1	ASM2758001v1	Buteo oreophilus					LACM Birds 75171			1252721404	Scaffold	2023-01-06	JANZYC01
+GCA_013400655.1	ASM1340065v1	Mystacornis crossleyi					B10K-DU-002-82	male	Annotation submitted by B10K Consortium	1116797458	Scaffold	2020-07-10	VYZQ01
+GCA_025310935.1	ASM2531093v1	Henicopernis longicauda					KU 96967			1228248026	Scaffold	2022-09-20	JAOBAQ01
+GCA_026937365.1	ASM2693736v1	Circus cinereus					KU 78213			1270982461	Scaffold	2022-12-16	JANZLN01
+GCA_027576815.1	ASM2757681v1	Cossypha niveicapilla					FMNH birds-396613			1192623756	Scaffold	2023-01-06	JAODLG01
+GCA_013401375.1	ASM1340137v1	Spizella passerina					B10K-DU-023-52	female	Annotation submitted by B10K Consortium	1018792982	Scaffold	2020-07-10	WBNQ01
+GCA_013389965.1	ASM1338996v1	Todus mexicanus					B10K-DU-002-69	female	Annotation submitted by B10K Consortium	853262227	Scaffold	2020-07-06	WEIS01
+GCA_026284845.1	ASM2628484v1	Orthopsittaca manilatus					FMNH birds-431777			1133062951	Scaffold	2022-11-22	JANEXM01
+GCA_026109245.1	ASM2610924v1	Nisaetus alboniger					WFVZ 42302			1259162845	Scaffold	2022-11-09	JAPCIF01
+GCA_013400995.1	ASM1340099v1	Oreotrochilus melanogaster					OUT-0002	male	Annotation submitted by B10K Consortium	1107792040	Scaffold	2020-07-10	VZUB01
+GCA_028566575.1	ASM2856657v1	Bartramia longicauda					FMNH 395887			1192396480	Scaffold	2023-02-09	JAOXNH01
+GCA_026283845.1	ASM2628384v1	Primolius maracana					FMNH birds-364612			1165565491	Scaffold	2022-11-22	JANEWZ01
+GCA_027123695.1	ASM2712369v1	Chamaetylas choloensis					FMNH birds-438592			1085348988	Scaffold	2022-12-20	JAOTIW01
+GCA_013400695.1	ASM1340069v1	Neodrepanis coruscans					B10K-DU-002-79	male	Annotation submitted by B10K Consortium	1024462016	Scaffold	2020-07-10	VYZS01
+GCA_026283905.1	ASM2628390v1	Psittacula cyanocephala					IRGN D7CSJVRIQB			1137937419	Scaffold	2022-11-22	JANEXR01
+GCA_026212835.1	ASM2621283v1	Geranoaetus albicaudatus								1237233187	Scaffold	2022-11-16	JANZLS01
+GCA_001655115.1	GWplu1.0	Phylloscopus plumbeitarsus					BK2	male		997399373	Scaffold	2016-06-02	LXOY01
+GCA_028566535.1	ASM2856653v1	Scolopax minor					FMNH 490390			1169656972	Scaffold	2023-02-09	JAOXNG01
+GCA_010014725.2	ASM1001472v2	Ara chloropterus					8YR9EQLDWU			1164831351	Scaffold	2022-11-27	WSYR02
+GCA_025447895.1	ASM2544789v1	Butastur liventer					6TRJ34J67C			1271439293	Scaffold	2022-09-27	JAOEHN01
+GCA_029890015.1	ASM2989001v1	Buteogallus lacernulatus					LACM Birds-27764			1308151139	Scaffold	2023-04-27	JAQIFQ01
+GCA_028566615.2	ASM2856661v2	Calidris melanotos					FMNH 446982			1260162641	Scaffold	2023-05-25	JAOWAO02
+GCA_013401035.1	ASM1340103v1	Horornis vulcanius					B10K-DU-029-69	male	Annotation submitted by B10K Consortium	1223573813	Scaffold	2020-07-10	VZUA01
+GCA_026770365.1	ASM2677036v1	Buteogallus coronatus					LACM Birds-114879			1226013973	Scaffold	2022-12-09	JANZLI01
+GCA_025727895.1	ASM2572789v1	Melierax metabates					KU 70660			1267186076	Scaffold	2022-10-17	JAOEIK01
+GCA_026261815.1	Monaracha_assembly_V1	Monarcha castaneiventris obscurior					RU430			1077791425	Scaffold	2022-11-21	JAMPIT01
+GCA_024500445.1	MCZ_Ecyan_1.0	Entomyzon cyanotis					MCZ_Cryo_149706	female		1076660361	Contig	2022-08-01	JAKEPQ01
+GCA_027497775.1	ASM2749777v1	Accipiter melanochlamys					KU 125095			1398011897	Scaffold	2022-12-30	JANBZU01
+GCA_014706295.1	ASM1470629v1	Lycocorax pyrrhopterus obiensis		lycPyr6				female		1107771238	Scaffold	2020-09-23	JACSVZ01
+GCA_017589585.1	ASM1758958v1	Phylloscopus whistleri					IOZ_xz18149	male		1112484139	Contig	2021-03-26	JADMLD01
+GCA_022316685.1	UM_PSub_1	Progne subis subis		2501-71856						1165951862	Scaffold	2022-02-17	JAKJHU01
+GCA_018881555.1	ASM1888155v1	Amblyornis subalaris								1108380980	Scaffold	2021-06-14	JACAXG01
+GCA_003713305.1	CicReg_1.0	Cicinnurus regius					F628	female		1059540104	Scaffold	2018-11-06	RAHN01
+GCA_003713295.1	ParLaw_1.0	Parotia lawesii					F631	female		1056922331	Scaffold	2018-11-06	RAHM01
+GCA_003713215.1	ParRub_1.0	Paradisaea rubra					F686	female		1071261504	Scaffold	2018-11-06	RAHL01
+GCA_013399015.1	ASM1339901v1	Galbula dea					B10K-DU-001-62	female	Annotation submitted by B10K Consortium	1006681283	Scaffold	2020-07-10	VWZX01
+GCA_003713285.1	DipMag_1.0	Diphyllodes magnificus					F569	female		1065979660	Scaffold	2018-11-06	RAHO01
+GCA_023644505.1	EAln_1.0	Empidonax alnorum					JTW1653	female		1072560169	Scaffold	2022-06-02	JAMKCP01
+GCA_010078495.1	BGI_Enov.V1	Eudyptula novaehollandiae					10/9/18-1		Annotation submitted by BGI-Shenzhen	1353666924	Scaffold	2020-01-31	VULB01
+GCA_013398295.1	ASM1339829v1	Chionis minor					B10K-UC-030-51		Annotation submitted by B10K Consortium	1174003224	Scaffold	2020-07-10	VZSF01
+GCA_013398275.1	ASM1339827v1	Promerops cafer					B10K-UC-030-53		Annotation submitted by B10K Consortium	1043743207	Scaffold	2020-07-10	VZSE01
+GCA_013399365.1	ASM1339936v1	Alopecoenas beccarii					B10K-DU-006-06	female	Annotation submitted by B10K Consortium	1115608669	Scaffold	2020-07-10	VWYH01
+GCA_013397565.1	ASM1339756v1	Ptilonorhynchus violaceus					B10K-DU-012-10	female	Annotation submitted by B10K Consortium	1057848093	Scaffold	2020-07-10	VZRJ01
+GCA_013398955.1	ASM1339895v1	Callaeas wilsoni					B10K-OTA-212792		Annotation submitted by B10K Consortium	1047533504	Scaffold	2020-07-10	VWPU01
+GCA_029620185.1	ASM2962018v1	Melanitta fusca				wild	HKYD19072658_A	male		1152187352	Scaffold	2023-04-07	JAQQTK01
+GCA_010080465.1	BGI_Emin_alb.V1	Eudyptula albosignata					Fred		Annotation submitted by BGI-Shenzhen	1370511393	Scaffold	2020-01-31	VULD01
+GCA_022441285.1	AcrFamKingi1.0	Acrocephalus familiaris kingi					USFWS1600-19333			1079221614	Scaffold	2022-03-02	JAKKIJ01
+GCA_002173475.1	Pharrisi_ref_V1	Phalacrocorax harrisi					CR59	male		1202994831	Scaffold	2017-06-06	NEVG01
+GCA_018904545.1	ASM1890454v1	Motacilla tschutschensis					NRM 20066115			1053394660	Scaffold	2021-06-16	JAEOXG01
+GCA_002592135.1	ASM259213v1	Anser brachyrhynchus		PFG001				male		1116992394	Scaffold	2017-10-19	NXHY01
+GCA_900205225.1	Saxicola_maurus.2	Saxicola maurus maurus								1020367763	Scaffold	2017-09-28	OAMK01
+GCA_008921705.1	REN_Boedic_1.0	Burhinus oedicnemus				Morocco	B10M00005	female		1228108199	Scaffold	2019-10-08	VFFE01
+GCA_003400225.2	REN_Cundu_1.1	Chlamydotis undulata undulata				North Africa		male		1167170754	Scaffold	2020-12-15	QKYM02
+GCA_010078485.1	BGI_Mant.V1	Megadyptes antipodes antipodes					OT 2 9/2/18		Annotation submitted by BGI-Shenzhen	1314943623	Scaffold	2020-01-31	VULA01
+GCA_010085365.1	BGI_Echrysoc_fil.V1	Eudyptes filholi					GS 12		Annotation submitted by BGI-Shenzhen	1223976468	Scaffold	2020-01-31	VULK01
+GCA_013398615.1	ASM1339861v1	Brachypodius atriceps					OUT-0037	female	Annotation submitted by B10K Consortium	906727256	Scaffold	2020-07-10	VZSR01
+GCA_010078445.1	BGI_Escl.V1	Eudyptes sclateri					Ant 5		Annotation submitted by BGI-Shenzhen	1211402317	Scaffold	2020-01-31	VULE01
+GCA_013400475.1	ASM1340047v1	Tricholaema leucomelas					B10K-DU-002-37	female	Annotation submitted by B10K Consortium	1236242119	Scaffold	2020-07-10	WAAF01
+GCA_013399295.1	ASM1339929v1	Piprites chloris					B10K-DU-007-02	male	Annotation submitted by B10K Consortium	1054003917	Scaffold	2020-07-10	VXAH01
+GCA_013400375.1	ASM1340037v1	Thinocorus orbignyianus					B10K-DU-002-47	female	Annotation submitted by B10K Consortium	1092410525	Scaffold	2020-07-10	VXBW01
+GCA_013399595.1	ASM1339959v1	Glaucidium brasilianum					B10K-DU-008-63	female	Annotation submitted by B10K Consortium	1170141437	Scaffold	2020-07-10	VXAP01
+GCA_013400215.1	ASM1340021v1	Cisticola juncidis					B10K-DU-002-30	male	Annotation submitted by B10K Consortium	1016620075	Scaffold	2020-07-10	VXBR01
+GCA_013400055.1	ASM1340005v1	Nycticryphes semicollaris					B10K-DU-002-14		Annotation submitted by B10K Consortium	1126083395	Scaffold	2020-07-10	VXBJ01
+GCA_013397495.1	ASM1339749v1	Mionectes macconnelli					B10K-DU-003-16	female	Annotation submitted by B10K Consortium	1042002978	Scaffold	2020-07-10	VYZC01
+GCA_013396505.1	ASM1339650v1	Chunga burmeisteri					B10K-CU-031-22	female	Annotation submitted by B10K Consortium	1168693490	Scaffold	2020-07-10	VZRC01
+GCA_013396935.1	ASM1339693v1	Baryphthengus martii					B10K-DU-001-21	female	Annotation submitted by B10K Consortium	1100876976	Scaffold	2020-07-10	VWZK01
+GCA_009690805.1	HemiWil1.0	Hemignathus wilsoni					USGS band number 1581-74856	male		1032496179	Scaffold	2019-11-22	SGIP01
+GCA_002173435.1	ASM217343v1	Phalacrocorax pelagicus					AR-AK-E1			1210663266	Scaffold	2017-06-06	NFMD01
+GCA_013396465.1	ASM1339646v1	Smithornis capensis					B10K-CU-031-20		Annotation submitted by B10K Consortium	1061320296	Scaffold	2020-07-10	VWYW01
+GCA_013397315.1	ASM1339731v1	Donacobius atricapilla					B10K-DU-001-63	female	Annotation submitted by B10K Consortium	1054188209	Scaffold	2020-07-10	WBMY01
+GCA_013398815.1	ASM1339881v1	Ibidorhyncha struthersii					B10K-DU-030-25	male	Annotation submitted by B10K Consortium	1198770542	Scaffold	2020-07-10	VZSZ01
+GCA_013400075.1	ASM1340007v1	Hippolais icterina					B10K-DU-002-18	female	Annotation submitted by B10K Consortium	1048398027	Scaffold	2020-07-10	VWYN01
+GCA_013401115.1	ASM1340111v1	Calonectris borealis					OUT-0025	female	Annotation submitted by B10K Consortium	1166068492	Scaffold	2020-07-10	VZUG01
+GCA_013401135.1	ASM1340113v1	Cettia cetti					OUT-0056	male	Annotation submitted by B10K Consortium	1051752767	Scaffold	2020-07-10	VZUI01
+GCA_013396365.1	ASM1339636v1	Cochlearius cochlearius					B10K-CU-031-03		Annotation submitted by B10K Consortium	1173743951	Scaffold	2020-07-10	VWPP01
+GCA_013400295.1	ASM1340029v1	Larus smithsonianus					B10K-DU-002-28	female	Annotation submitted by B10K Consortium	1174553315	Scaffold	2020-07-10	WAAC01
+GCA_013400155.1	ASM1340015v1	Locustella ochotensis					B10K-DU-002-09	male	Annotation submitted by B10K Consortium	1039556136	Scaffold	2020-07-10	VXBM01
+GCA_013396455.1	ASM1339645v1	Lophotis ruficrista					B10K-CU-031-23	male	Annotation submitted by B10K Consortium	1111150882	Scaffold	2020-07-10	VWYV01
+GCA_013398405.1	ASM1339840v1	Pheucticus melanocephalus					OUT-0018	male	Annotation submitted by B10K Consortium	1048530562	Scaffold	2020-07-10	VZSJ01
+GCA_013400035.1	ASM1340003v1	Rynchops niger					B10K-DU-002-16	female	Annotation submitted by B10K Consortium	1178085471	Scaffold	2020-07-10	VXBH01
+GCA_013401095.1	ASM1340109v1	Passerina amoena					OUT-0017	male	Annotation submitted by B10K Consortium	1068852817	Scaffold	2020-07-10	WBNP01
+GCA_013398855.1	ASM1339885v1	Mohoua ochrocephala					B10K-DU-030-22		Annotation submitted by B10K Consortium	1038537151	Scaffold	2020-07-10	VZTA01
+GCA_013400135.1	ASM1340013v1	Rhinoptilus africanus					B10K-DU-002-36	female	Annotation submitted by B10K Consortium	1154870122	Scaffold	2020-07-10	VXBO01
+GCA_013396715.1	ASM1339671v1	Ciccaba nigrolineata					B10K-DU-001-07	female	Annotation submitted by B10K Consortium	1188087058	Scaffold	2020-07-10	VWZC01
+GCA_013397095.1	ASM1339709v1	Sterrhoptilus dennistouni					B10K-DU-001-27	female	Annotation submitted by B10K Consortium	1050381639	Scaffold	2020-07-10	VWZU01
+GCA_013398575.1	ASM1339857v1	Certhia familiaris					OUT-0039	male	Annotation submitted by B10K Consortium	1066430070	Scaffold	2020-07-10	WBNC01
+GCA_011057875.1	REN_Porient_1.0	Pterocles orientalis					G09M00003	male		1201761903	Scaffold	2020-03-02	WKFP01
+GCA_013400795.1	ASM1340079v1	Pluvianellus socialis					B10K-DU-012-14		Annotation submitted by B10K Consortium	1185839265	Scaffold	2020-07-10	VZTS01
+GCA_025769975.1	ASM2576997v1	Gallinago jamesoni					LSU 3558			1130334844	Scaffold	2022-10-20	JAOQGH01
+GCA_013399795.1	ASM1339979v1	Zosterops hypoxanthus					B10K-DU-001-36	female	Annotation submitted by B10K Consortium	1051741454	Scaffold	2020-07-10	VWYL01
+GCA_029619115.1	ASM2961911v1	Clangula hyemalis				wild	HKYD19072657_A	male		1130355540	Scaffold	2023-04-07	JAQQTJ01
+GCA_026546715.1	ASM2654671v1	Gallinago undulata					INPA A24358			1129623370	Scaffold	2022-11-30	JAOTQQ01
+GCA_026212995.1	ASM2621299v1	Leucopternis kuhli					ANSP 31891			1187307059	Scaffold	2022-11-16	JANZLT01
+GCA_013399915.1	ASM1339991v1	Illadopsis cleaveri					B10K-DU-002-01	female	Annotation submitted by B10K Consortium	1054200279	Scaffold	2020-07-10	VXBB01
+GCA_009806455.1	REN_Tetrax_1.0	Tetrax tetrax					T08N04531	male		1259185357	Scaffold	2019-12-27	WHYT01
+GCA_013398795.1	ASM1339879v1	Elachura formosa					B10K-IZCAS-20218		Annotation submitted by B10K Consortium	1013707244	Scaffold	2020-07-10	WBNG01
+GCA_010080425.1	BGI_Esch.V1	Eudyptes schlegeli					4458		Annotation submitted by BGI-Shenzhen	1308180354	Scaffold	2020-01-31	VULF01
+GCA_010082375.1	BGI_Emos.V1	Eudyptes moseleyi					NRP 118-1		Annotation submitted by BGI-Shenzhen	1301647863	Scaffold	2020-01-31	VULI01
+GCA_025435075.1	ASM2543507v1	Buteo lineatus								1239587557	Scaffold	2022-09-27	JANVCS01
+GCA_027122955.1	ASM2712295v1	Falco deiroleucus					KU 125726			1177880723	Scaffold	2022-12-20	JAOPJS01
+GCA_025310135.1	ASM2531013v1	Buteo platypterus					ANSP 28755			1209786575	Scaffold	2022-09-20	JAOBAO01
+GCA_013398915.1	ASM1339891v1	Dromas ardeola					B10K-DU-012-55		Annotation submitted by B10K Consortium	1192853411	Scaffold	2020-07-10	VYZM01
+GCA_013399635.1	ASM1339963v1	Chordeiles acutipennis					B10K-DU-008-62	female	Annotation submitted by B10K Consortium	1172521041	Scaffold	2020-07-10	VXAQ01
+GCA_013390005.1	ASM1339000v1	Calyptomena viridis					B10K-DU-002-55	female	Annotation submitted by B10K Consortium	1056832477	Scaffold	2020-07-06	WEIV01
+GCA_027475485.1	ASM2747548v1	Accipiter fasciatus					ANSP 27428			1269671760	Scaffold	2022-12-28	JANBPN01
+GCA_013401295.1	ASM1340129v1	Glareola pratincola					B10K-CU-031-08	female	Annotation submitted by B10K Consortium	1172993239	Scaffold	2020-07-10	VWPO01
+GCA_013401065.1	ASM1340106v1	Cepphus grylle					OUT-0020	female	Annotation submitted by B10K Consortium	1197650647	Scaffold	2020-07-10	VZUD01
+GCA_013400275.1	ASM1340027v1	Rhadina sibilatrix					B10K-DU-002-26	female	Annotation submitted by B10K Consortium	1045321485	Scaffold	2020-07-10	VWYO01
+GCA_013399055.1	ASM1339905v1	Ramphastos sulfuratus					B10K-DU-001-30	female	Annotation submitted by B10K Consortium	1176906612	Scaffold	2020-07-10	WBNM01
+GCA_021437185.1	HU_Cminimus_1.0	Catharus minimus					NYSM-17433	male		1050367032	Scaffold	2022-01-11	JAJGBI01
+GCA_009867315.2	ASM986731v2	Psittacus timneh					Z5AY2Y56IY	female		1115194763	Scaffold	2022-11-27	WYDJ02
+GCA_025310495.1	ASM2531049v1	Harpagus bidentatus					ANSP 31945			1208184053	Scaffold	2022-09-20	JAOBAP01
+GCA_027575045.1	ASM2757504v1	Spizaetus melanoleucus					ANSP 21608			1200166840	Scaffold	2023-01-06	JANZXW01
+GCA_013398155.1	ASM1339815v1	Pedionomus torquatus					B10K-DU-029-80	female	Annotation submitted by B10K Consortium	1134620722	Scaffold	2020-07-10	VZRU01
+GCA_026937345.1	ASM2693734v1	Buteo jamaicensis					ANSP 29542			1209393109	Scaffold	2022-12-16	JANVCO01
+GCA_010312235.1	ButJap1.0	Buteo japonicus					eb-nibr-220			1259715124	Scaffold	2020-02-04	PYWZ01
+GCA_027559655.1	ASM2755965v1	Accipiter superciliosus					IRGN 5UDVVMYWPV			1216271545	Scaffold	2023-01-03	JAOBUD01
+GCA_025448155.1	ASM2544815v1	Cacatua ducorpsii					IRGN EZV2UPD3BS			1171361419	Scaffold	2022-09-27	JAOEHO01
+GCA_027580095.1	ASM2758009v1	Circus hudsonius					ANSP 35205			1190894400	Scaffold	2023-01-06	JANZYE01
+GCA_013401215.1	ASM1340121v1	Atlantisia rogersi					OUT-0055	male	Annotation submitted by B10K Consortium	1168394043	Scaffold	2020-07-10	VZUJ01
+GCA_013399565.1	ASM1339956v1	Podilymbus podiceps					B10K-DU-009-04	female	Annotation submitted by B10K Consortium	1197106122	Scaffold	2020-07-10	VXAO01
+GCA_024606505.1	ASM2460650v1	Aquila spilogaster					LACM Birds-75152			1799223129	Scaffold	2022-08-09	JANHGO01
+GCA_028567095.1	ASM2856709v1	Accipiter rufitorques					KU 120222			1207981799	Scaffold	2023-02-09	JANHGY01
+GCA_027564655.1	ASM2756465v1	Leptodon cayanensis					ANSP 21775			1210132549	Scaffold	2023-01-03	JANXJC01
+GCA_025727955.1	ASM2572795v1	Falco cenchroides					KU 98805			1190133373	Scaffold	2022-10-17	JAOSZA01
+GCA_027564715.1	ASM2756471v1	Harpyhaliaetus solitarius					LSUMZ B-22903			1192366706	Scaffold	2023-01-03	JANXJE01
+GCA_027475465.1	ASM2747546v1	Hieraaetus morphnoides					IRGN ZYZTKKNN2O			1213141085	Scaffold	2022-12-28	JAOXJU01
+GCA_011801015.1	REN_Aarabs_1.0	Ardeotis arabs				Yemen	R09N00325	male		1297600582	Scaffold	2020-03-31	JAAGAY01
+GCA_013389925.1	ASM1338992v1	Aegithalos caudatus					B10K-DU-002-10	female	Annotation submitted by B10K Consortium	1013845238	Scaffold	2020-07-06	WEIU01
+GCA_025802315.1	ASM2580231v1	Hieraaetus ayresii					IRGN Q1B68H6AT3			1310946357	Scaffold	2022-10-23	JAOYMW01
+GCA_025630005.1	ASM2563000v1	Falco fasciinucha					KU 125719			1321966957	Scaffold	2022-10-08	JAOSLO01
+GCA_013399515.1	ASM1339951v1	Sylvietta virens					B10K-DU-009-59	male	Annotation submitted by B10K Consortium	1028027743	Scaffold	2020-07-10	VXAN01
+GCA_025504725.1	ASM2550472v1	Circaetus gallicus								1199816934	Scaffold	2022-09-30	JANZMD01
+GCA_030265285.1	ASM3026528v1	Cacatua sanguinea					KU 6186			1108262381	Scaffold	2023-06-13	JARBET01
+GCA_013396595.1	ASM1339659v1	Nyctibius bracteatus					B10K-CU-031-10	female	Annotation submitted by B10K Consortium	1169290544	Scaffold	2020-07-10	VWZB01
+GCA_025435035.1	ASM2543503v1	Cryptoleucopteryx plumbea								1238767795	Scaffold	2022-09-27	JANZME01
+GCA_013400615.1	ASM1340061v1	Syrrhaptes paradoxus					B10K-DU-003-42	male	Annotation submitted by B10K Consortium	1101528155	Scaffold	2020-07-10	VZTO01
+GCA_027123655.1	ASM2712365v1	Muscicapa comitata					FMNH birds-511303			1064964381	Scaffold	2022-12-20	JAOTIY01
+GCA_027122915.1	ASM2712291v1	Falco femoralis					ZW3NAPDIPV			1189356628	Scaffold	2022-12-20	JAOPJR01
+GCA_026770195.1	ASM2677019v1	Circus approximans					KU 114996			1207709646	Scaffold	2022-12-09	JANZMF01
+GCA_013397665.1	ASM1339766v1	Probosciger aterrimus					B10K-DU-017-47	male	Annotation submitted by B10K Consortium	1061537285	Scaffold	2020-07-10	VYZH01
+GCA_027564695.1	ASM2756469v1	Ictinia mississippiensis					ANSP 33850			1211467641	Scaffold	2023-01-03	JANXJD01
+GCA_025727755.1	ASM2572775v1	Accipiter soloensis					KU 113115			1202459754	Scaffold	2022-10-17	JAOEIG01
+GCA_025308975.1	ASM2530897v1	Accipiter rufiventris					LACM 75162			1218545930	Scaffold	2022-09-20	JANUFW01
+GCA_025331215.1	ASM2533121v1	Actenoides lindsayi					9SJTFMH8LE			1173025913	Scaffold	2022-09-20	WTSP01
+GCA_013399395.1	ASM1339939v1	Nyctiprogne leucopyga					B10K-DU-005-01	female	Annotation submitted by B10K Consortium	1115538861	Scaffold	2020-07-10	VZZU01
+GCA_026546895.1	ASM2654689v1	Pogonocichla stellata					FMNH birds-355537			1066379272	Scaffold	2022-11-30	JAOTQZ01
+GCA_028571125.1	ASM2857112v1	Larus argentatus					QCHUZ9TVWE			1184346518	Scaffold	2023-02-09	JAOWBQ01
+GCA_028564985.1	ASM2856498v1	Crax fasciolata					P46686QJBK			1059346584	Scaffold	2023-02-09	JAOWBO01
+GCA_021437205.1	HU_Cbicknelli_1.0	Catharus bicknelli					NYSM-10982	male		1054510266	Scaffold	2022-01-11	JAJGBH01
+GCA_027575165.1	ASM2757516v1	Buteogallus aequinoctialis					ANSP 21452			1212785345	Scaffold	2023-01-06	JANZYB01
+GCA_027497695.1	ASM2749769v1	Accipiter castanilius					ANSP 23649			1191473876	Scaffold	2022-12-30	JANBPM01
+GCA_025727795.1	ASM2572779v1	Buteogallus meridionalis					W2SMVJUYKM			1208541050	Scaffold	2022-10-17	JAOEII01
+GCA_026546585.1	ASM2654658v1	Muscicapa adusta					FMNH birds-355967			1066295304	Scaffold	2022-11-30	JAOTOO01
+GCA_026213075.1	ASM2621307v1	Spizaetus ornatus					ANSP 21931			1221391872	Scaffold	2022-11-16	JANZLU01
+GCA_028567075.1	ASM2856707v1	Toxostoma rufum					V5OR1K1X41			1219848389	Scaffold	2023-02-09	JAOXYN01
+GCA_024336885.1	ASM2433688v1	Actenoides hombroni					3441YUFN42			1152258273	Scaffold	2022-07-20	WUAM01
+GCA_013396675.1	ASM1339667v1	Eubucco bourcierii					B10K-DU-001-04	female	Annotation submitted by B10K Consortium	1237629233	Scaffold	2020-07-10	VWZE01
+GCA_007556475.1	ZoPa_MNHNZO2015-572_v1.0	Zosterops pallidus						female		1149599252	Scaffold	2019-07-26	STGZ01
+GCA_026283885.1	ASM2628388v1	Poicephalus gulielmi					7RV1QVVBPW			1197152094	Scaffold	2022-11-22	JANEXQ01
+GCA_013396435.1	ASM1339643v1	Anhinga anhinga					B10K-CU-031-38	male	Annotation submitted by B10K Consortium	1183194070	Scaffold	2020-07-10	WBMU01
+GCA_027564165.1	ASM2756416v1	Gallinago nigripennis					UWBM 71313			1147616369	Scaffold	2023-01-03	JAOQGL01
+GCA_026122665.1	ASM2612266v1	Gallinago hardwickii		IRGN IP6AC41H5K						1142750823	Scaffold	2022-11-10	JAOQGE01
+GCA_013397635.1	ASM1339763v1	Columbina picui					B10K-DU-021-26	male	Annotation submitted by B10K Consortium	1097919941	Scaffold	2020-07-10	VYZG01
+GCA_024733675.1	ASM2473367v1	Psilopsiagon aymara					IRGN K6SHJZ2KDV			1122982684	Scaffold	2022-08-22	JANRGW01
+GCA_024363065.2	ASM2436306v2	Pyrrhura roseifrons					MSB Bird 16101			1171003035	Scaffold	2023-06-01	JANFHV02
+GCA_013401315.1	ASM1340131v1	Balaeniceps rex					B10K-DU-012-56	female	Annotation submitted by B10K Consortium	1181932130	Scaffold	2020-07-10	VYZW01
+GCA_029814565.1	ASM2981456v1	Pionites melanocephalus					IRGN 6IWZNKOSS6			1109617375	Scaffold	2023-04-18	JAPVEF01
+GCA_027479145.1	ASM2747914v1	Accipiter cirrocephalus					ANSP 24439			1204902086	Scaffold	2022-12-28	JANEXN01
+GCA_024363045.1	ASM2436304v1	Aratinga maculata					YPM ORN 137433			1126680219	Scaffold	2022-07-21	JANCNV01
+GCA_026937515.1	ASM2693751v1	Polyboroides typus					ANSP 23822			1219957792	Scaffold	2022-12-16	JANZLO01
+GCA_028565335.1	ASM2856533v1	Limnodromus scolopaceus					IRGN PV7CA81XJ4			1178633981	Scaffold	2023-02-09	JAOXNO01
+GCA_025447955.1	ASM2544795v1	Psilopsiagon aurifrons					IRGN 7RYJ3MW5PN			1093668012	Scaffold	2022-09-27	JAOEHY01
+GCA_030323915.1	ASM3032391v1	Brotogeris chrysoptera					IRGN ZNAPR4TRJM			1097577309	Scaffold	2023-06-22	JARCZZ01
+GCA_013400895.1	ASM1340089v1	Thalassarche chlororhynchos					B10K-DU-029-24	male	Annotation submitted by B10K Consortium	1087776125	Scaffold	2020-07-10	VZTW01
+GCA_026284785.1	ASM2628478v1	Eupsittula nana					KU 95184			1171347932	Scaffold	2022-11-22	JANEXK01
+GCA_030265185.1	ASM3026518v1	Pyrrhura eisenmanni					ANSP 189116			1103536342	Scaffold	2023-06-13	JASBQF01
+GCA_025447915.1	ASM2544791v1	Trichoglossus euteles					IRGN G6RBWJNU72			1085078357	Scaffold	2022-09-27	JAOEHP01
+GCA_027580135.1	ASM2758013v1	Nisaetus floris					MCZ Orn 261829			1238090346	Scaffold	2023-01-06	JANZYF01
+GCA_028565055.1	ASM2856505v1	Phoeniculus purpureus					IRGN UEMQJDX4L5			1048516430	Scaffold	2023-02-09	JAOXOE01
+GCA_027479285.1	ASM2747928v1	Accipiter novaehollandiae					ANSP 25765			1234816084	Scaffold	2022-12-28	JANEXO01
+GCA_026413205.1	ASM2641320v1	Pyrrhura chapmani					IRGN Hains-t3			1108667104	Scaffold	2022-11-27	JANZXS01
+GCA_026284485.1	ASM2628448v1	Aratinga jandaya					4UB3A4QQSB			1152356529	Scaffold	2022-11-22	JANCMD01
+GCA_026284505.1	ASM2628450v1	Deroptyus accipitrinus		ANSP 188419						1185871534	Scaffold	2022-11-22	JANHGX01
+GCA_027475505.1	ASM2747550v1	Melierax poliopterus								1216086257	Scaffold	2022-12-28	JANZMC01
+GCA_009867205.2	ASM986720v2	Aratinga weddellii					MP37L3HKH9			1133248645	Scaffold	2022-11-27	WYDH02
+GCA_026284625.1	ASM2628462v1	Ara ambiguus					8MMB8YFEBS	female		1122134778	Scaffold	2022-11-22	JANCME01
+GCA_026284685.1	ASM2628468v1	Aratinga auricapillus					UWBM 73857			1149823348	Scaffold	2022-11-22	JANEXI01
+GCA_024361765.2	ASM2436176v2	Psittacara wagleri					LSUMZ FrozenTissue 5261			1248009158	Scaffold	2023-06-01	JANEMI02
+GCA_025727695.1	ASM2572769v1	Ciconia stormi					NRDTRF1KBM			1223238472	Scaffold	2022-10-17	JAOEIC01
+GCA_026283805.1	ASM2628380v1	Psittacara mitratus					CUMV Bird 52922			1152527767	Scaffold	2022-11-22	JANEXA01
+GCA_025629965.1	ASM2562996v1	Cyanoramphus novaezelandiae					IRGN JQBBWUPC1M			1099007520	Scaffold	2022-10-08	JAOSLK01
+GCA_026283615.1	ASM2628361v1	Amazona vinacea								1101684052	Scaffold	2022-11-22	JANZMG01
+GCA_026283765.1	ASM2628376v1	Psephotus haematonotus					IRGN NXWXB9NBMU			1111798302	Scaffold	2022-11-22	JANEWY01
+GCA_026284805.1	ASM2628480v1	Rhynchopsitta pachyrhyncha					3VX6L643NX	female		1146651953	Scaffold	2022-11-22	JANEXL01
+GCA_024733695.1	ASM2473369v1	Ara severus					FMNH 34499			1119346424	Scaffold	2022-08-22	JANRGX01
+GCA_026284745.2	ASM2628474v2	Primolius auricollis					YPM ORN 84843			1315748477	Scaffold	2023-06-01	JANFOM02
+GCA_013399535.1	ASM1339953v1	Phaetusa simplex					B10K-DU-009-16	female	Annotation submitted by B10K Consortium	1151692184	Scaffold	2020-07-10	VZZW01
+GCA_026283705.1	ASM2628370v1	Psittacara chloropterus					FMNH birds-350812			1152608832	Scaffold	2022-11-22	JANEXP01
+GCA_024320895.1	ASM2432089v1	Psittacara holochlorus					YPM ORN 142546			1115336859	Scaffold	2022-07-18	JANDAY01
+GCA_025629885.1	ASM2562988v1	Lorius chlorocercus					IRGN MI9WGLHNDS			1080505962	Scaffold	2022-10-08	JAOSLP01
+GCA_013400535.1	ASM1340053v1	Scopus umbretta					B10K-DU-002-70		Annotation submitted by B10K Consortium	1091975655	Scaffold	2020-07-10	VZTL01
+GCA_025629925.1	ASM2562992v1	Platycercus adscitus					IRGN H84CDEQLPX			1091548482	Scaffold	2022-10-08	JAOSLL01
+GCA_013399335.1	ASM1339933v1	Fregetta grallaria					B10K-DU-006-09	female	Annotation submitted by B10K Consortium	1173305012	Scaffold	2020-07-10	VZZT01
+GCA_025728075.1	ASM2572807v1	Gallinago paraguaiae					LSU 38079			1153592092	Scaffold	2022-10-17	JAOSZB01
+GCA_027564495.1	ASM2756449v1	Gallinago solitaria					UAM 27000			1147164240	Scaffold	2023-01-03	JAOQGI01
+GCA_013401355.1	ASM1340135v1	Ceyx cyanopectus					B10K-DU-013-51	female	Annotation submitted by B10K Consortium	1119293467	Scaffold	2020-07-10	VYZU01
+GCA_026770055.1	ASM2677005v1	Myrmophylax atrothorax					IRGN 4C559DKME4			1118013076	Scaffold	2022-12-09	JAOXXN01
+GCA_025727915.1	ASM2572791v1	Macheiramphus alcinus					WFVZ 37194			1241501536	Scaffold	2022-10-17	JAOEIN01
+GCA_027579975.1	ASM2757997v1	Ciconia abdimii					YPAK3HBVR2			1220174253	Scaffold	2023-01-06	JAODXT01
+GCA_025448015.1	ASM2544801v1	Bolborhynchus lineola					IRGN KD72KNXJUQ			1112797561	Scaffold	2022-09-27	JAOEHX01
+GCA_025629905.1	ASM2562990v1	Lorius lory					IRGN EL7VPO5C03			1144405601	Scaffold	2022-10-08	JAOSLQ01
+GCA_010014875.2	ASM1001487v2	Psitteuteles goldiei					Piper_X7F3MAPY5K	male		1131212449	Scaffold	2022-07-29	JAAAKH02
+GCA_013400855.1	ASM1340085v1	Buphagus erythrorhynchus					B10K-DU-012-02	male	Annotation submitted by B10K Consortium	1040192226	Scaffold	2020-07-10	VZTT01
+GCA_024363085.1	ASM2436308v1	Eos semilarvata					ZHQG8TVA46	female		1091480539	Scaffold	2022-07-21	JANDED01
+GCA_027497835.1	ASM2749783v1	Accipiter erythropus					KU 110957			1211904210	Scaffold	2022-12-30	JANBPL01
+GCA_026284725.1	ASM2628472v1	Eupsittula canicularis					7NDEHVATND			1179437546	Scaffold	2022-11-22	JANEXJ01
+GCA_009936445.2	ASM993644v2	Anodorhynchus hyacinthinus					LEKZKR9XQ3			1105970761	Scaffold	2022-07-21	WOUG02
+GCA_010014925.2	ASM1001492v2	Lorius garrulus					Tuckie_XQVJVZF3ZU	female		1108045951	Scaffold	2022-11-30	JAAAKI02
+GCA_026153235.1	ASM2615323v1	Morphnarchus princeps					IRGN C5323HG16F			1207877070	Scaffold	2022-11-12	JAPFFO01
+GCA_025629865.1	ASM2562986v1	Cyanoliseus patagonus					IRGN NJKN8KX361			1116363512	Scaffold	2022-10-08	JAOTBC01
+GCA_024363185.1	ASM2436318v1	Accipiter hiogaster					KU 97031			1223023164	Scaffold	2022-07-21	JANCIS01
+GCA_026122685.1	ASM2612268v1	Gallinago megala		IRGN OYQMCTRVVT						1176315638	Scaffold	2022-11-10	JAOQGF01
+GCA_027564435.1	ASM2756443v1	Falco berigora					KU 134054			1212117839	Scaffold	2023-01-03	JAOPUJ01
+GCA_027479025.1	ASM2747902v1	Accipiter melanoleucus					LACM 78235			1264461157	Scaffold	2022-12-28	JANEXH01
+GCA_024320935.1	ASM2432093v1	Eupsittula cactorum					FMNH birds-392794			1191716169	Scaffold	2022-07-18	JANDAZ01
+GCA_026283665.1	ASM2628366v1	Amazona leucocephala					IRGN HW1F5JZ8V1			1181338393	Scaffold	2022-11-22	JANDEE01
+GCA_026283825.1	ASM2628382v1	Poicephalus rufiventris					FMNH birds-363140			1149547907	Scaffold	2022-11-22	JANEXB01
+GCA_024363025.1	ASM2436302v1	Callocephalon fimbriatum					23YATIRNP8	female		1101422322	Scaffold	2022-07-21	JANDEC01
+GCA_013399775.1	ASM1339977v1	Semnornis frantzii					B10K-DU-001-42	male	Annotation submitted by B10K Consortium	1068132104	Scaffold	2020-07-10	VWYK01
+GCA_010015045.2	ASM1001504v2	Lophochroa leadbeateri					NFDCT17Z3U			1102642260	Scaffold	2022-07-29	JAAAKP02
+GCA_026770115.1	ASM2677011v1	Aviceda subcristata					KU 98819			1206282165	Scaffold	2022-12-09	JANVCT01
+GCA_025309315.1	ASM2530931v1	Melierax canorus					LACM 79106			1262092846	Scaffold	2022-09-20	JAOBAN01
+GCA_013396815.1	ASM1339681v1	Corythaeola cristata					B10K-CU-031-40	male	Annotation submitted by B10K Consortium	1091055752	Scaffold	2020-07-10	WBMX01
+GCA_027497855.1	ASM2749785v1	Accipiter striatus					LSUMZ B-38859			1320931327	Scaffold	2022-12-30	JANCMG01
+GCA_026283745.1	ASM2628374v1	Eupsittula aurea					FMNH birds-392679			1179334003	Scaffold	2022-11-22	JANEWX01
+GCA_027564675.1	ASM2756467v1	Nisaetus cirrhatus					LACM Birds 32809			1286095172	Scaffold	2023-01-03	JANXJJ01
+GCA_026930705.1	ASM2693070v1	Buteo nitidus					ANSP 21044			1234405566	Scaffold	2022-12-16	JANVCP01
+GCA_027564035.1	ASM2756403v1	Gallinago delicata					FMNH 482559			1201500499	Scaffold	2023-01-03	JAOQGJ01
+GCA_025308995.1	ASM2530899v1	Buteo ventralis					LACM 56760			1245602180	Scaffold	2022-09-20	JANUXP01
+GCA_024331645.1	ASM2433164v1	Poicephalus robustus					FMNH birds-350829			1154348305	Scaffold	2022-07-19	JANDJS01
+GCA_026770385.1	ASM2677038v1	Circaetus cinerascens					LACM 64143			1312431406	Scaffold	2022-12-09	JANZLZ01
+GCA_030556125.1	ASM3055612v1	Pyrrhura berlepschi					ANSP 176701			1176808966	Scaffold	2023-07-31	JAUHVJ01
+GCA_026283865.1	ASM2628386v1	Poicephalus meyeri					Q8NA833WJ7			1161071501	Scaffold	2022-11-22	JANHGE01
+GCA_025447935.1	ASM2544793v1	Barnardius zonarius					IRGN E2RLKO3T3F			1104505147	Scaffold	2022-09-27	JAOEHM01
+GCA_029814485.1	ASM2981448v1	Erythrotriorchis buergersi					IRGN BBM-NG-54096			1314410012	Scaffold	2023-04-18	JAPTGX01
+GCA_024331665.1	ASM2433166v1	Amazona autumnalis					IRGN HJ6MFZFI5Z			1299624158	Scaffold	2022-07-20	JANDJX01
+GCA_027564555.1	ASM2756455v1	Buteo swainsoni					ANSP 26162			1208458055	Scaffold	2023-01-03	JANXJI01
+GCA_013400675.1	ASM1340067v1	Oxylabes madagascariensis					B10K-DU-002-81	female	Annotation submitted by B10K Consortium	1199250113	Scaffold	2020-07-10	VYZR01
+GCA_026930925.1	ASM2693092v1	Chelictinia riocourii					LACM Birds 54504			1308151140	Scaffold	2022-12-16	JANZLP01
+GCA_030264335.1	ASM3026433v1	Enicognathus leptorhynchus					FMNH 316644			1093646566	Scaffold	2023-06-13	JASCRF01
+GCA_024361725.1	ASM2436172v1	Pionus maximiliani					IRGN 7GL61TBBSW			1182257092	Scaffold	2022-07-20	JANEMH01
+GCA_026213055.1	ASM2621305v1	Leucopternis melanops					ANSP 20959			1323363402	Scaffold	2022-11-16	JANZMA01
+GCA_027576755.1	ASM2757675v1	Alethe poliocephala					FMNH 396361			1163580681	Scaffold	2023-01-06	JANZXQ01
+GCA_027575105.1	ASM2757510v1	Haliastur sphenurus					ANSP 22972			1253870908	Scaffold	2023-01-06	JANZXZ01
+GCA_025727875.1	ASM2572787v1	Circus maillardi					H7TNOLYJAL			1268509935	Scaffold	2022-10-17	JAOEIJ01
+GCA_025448135.1	ASM2544813v1	Haliaeetus ichthyaetus					CGW5D3L824			1319805115	Scaffold	2022-09-27	JAOEHU01
+GCA_027575145.1	ASM2757514v1	Gyps rueppelli					LACM 61059			1254579656	Scaffold	2023-01-06	JANZYA01
+GCA_011762725.2	ASM1176272v2	Pionus senilis					7NLP3JS58T	female		1218450392	Scaffold	2022-12-29	WURU02
+GCA_030265165.1	ASM3026516v1	Pyrrhura pfrimeri					FMNH 75209			1076229255	Scaffold	2023-06-13	JARDUK01
+GCA_027564535.1	ASM2756453v1	Buteo regalis								1186467330	Scaffold	2023-01-03	JANXJG01
+GCA_026259555.1	ASM2625955v1	Protonotaria citrea					IRGN A0WOOL93Z8			1048280936	Scaffold	2022-11-21	JAOYNP01
+GCA_026284865.1	ASM2628486v1	Eos histrio					CNV3YZXO45	female		1341585938	Scaffold	2022-11-22	JANHHC01
+GCA_027564575.1	ASM2756457v1	Spilornis abbotti								1236168887	Scaffold	2023-01-03	JANXJH01
+GCA_025504875.1	ASM2550487v1	Circus macrourus					LACM 41658			1239382573	Scaffold	2022-09-30	JANZLW01
+GCA_026413525.1	ASM2641352v1	Poicephalus cryptoxanthus					FMNH birds-474716			1235691731	Scaffold	2022-11-27	JANHOB01
+GCA_025311615.1	ASM2531161v1	Parabuteo unicinctus					TCWC 14879			1097572847	Scaffold	2022-09-20	JAOBAR01
+GCA_030322885.1	ASM3032288v1	Pyrrhura emma					FMNH 97206			1012801990	Scaffold	2023-06-22	JARFYE01
+GCA_030322865.1	ASM3032286v1	Pyrrhura leucotis					FMNH 150095			726999208	Scaffold	2023-06-22	JARFYD01
+GCA_030418925.1	ASM3041892v1	Pyrrhura viridicata					FMNH 72327			1105210694	Scaffold	2023-07-11	JAUBWV01
+GCA_026930785.1	ASM2693078v1	Harpyopsis novaeguineae					LAF 2025			860319238	Scaffold	2022-12-16	JANZLL01
+GCA_030265375.1	ASM3026537v1	Cacatua tenuirostris					KU 10638			1155085012	Scaffold	2023-06-13	JARDVD01
+GCA_030068125.1	ASM3006812v1	Conuropsis carolinensis					FMNH 124024			591798083	Scaffold	2023-05-24	JAOBYI01
+GCA_025802475.2	ASM2580247v2	Pernis celebensis					MCZ Orn_270340			915749557	Scaffold	2023-06-07	JAOYMY02
+GCA_025802415.1	ASM2580241v1	Pseudastur occidentalis					IRGN 0PLHCOJWG6			1163574726	Scaffold	2022-10-23	JAOYNB01
+GCA_030515125.1	QAU1.0	Anser cygnoides domesticus	huoyan					female		1128398295	Complete Genome	2023-07-26	JAHLSM01
+GCA_900411745.1	duckbase.refseq.v4	Anas platyrhynchos								1087903987	Chromosome	2020-06-28	
+GCA_016700215.2	bGalGal1.pat.whiteleghornlayer.GRCg7w_WZ	Gallus gallus	Cross of Broiler mother + white leghorn layer father				bGalGal1	female		1050511239	Chromosome	2021-10-01	JAENSL01
+GCF_016700215.2	bGalGal1.pat.whiteleghornlayer.GRCg7w_WZ	Gallus gallus	Cross of Broiler mother + white leghorn layer father				bGalGal1	female	NCBI Annotation Release 106	1050511239	Chromosome	2021-10-01	JAENSL01
+GCA_027408225.1	bGalGal5.pri	Gallus gallus	Cobb				bGalGal5	female		1109044877	Chromosome	2022-12-28	JAPZKA01
+GCA_027557775.1	bGalGal4.pri	Gallus gallus	Ross				bGalGal4	female		1094281734	Chromosome	2023-01-03	JAPZJY01
+GCA_002798355.1	Ogye1.0	Gallus gallus	Yeonsan Ogye					female		1021005462	Chromosome	2017-12-05	PDMY01
+GCA_025370635.1	ASM2537063v1	Gallus gallus	Tibetan chicken				Tibetan_chicken_3_TB	female		1031193845	Chromosome	2022-09-23	JAJMOH01
+GCA_024653025.1	ASM2465302v1	Gallus gallus	Silkie				Silkies_3_SK	male		1024875044	Chromosome	2022-08-15	JAJMOI01
+GCA_024653035.1	ASM2465303v1	Gallus gallus	Cornish				Cornish_3_KN	male		1018159992	Chromosome	2022-08-15	JAJMOK01
+GCA_024652995.1	ASM2465299v1	Gallus gallus	White Leghorn				White_Leghorn_3_WL	female		1036653693	Chromosome	2022-08-15	JAJMOG01
+GCA_024653045.1	ASM2465304v1	Gallus gallus	Houdan				Houdan_3_HD	female		1036335579	Chromosome	2022-08-15	JAJMOL01
+GCA_024652985.1	ASM2465298v1	Gallus gallus	Rhode Island Red				Rhode_Island_Red_3_LI	male		1023494120	Chromosome	2022-08-15	JAJMOJ01
+GCA_008746955.2	CAU-Wild1.1	Anas platyrhynchos	mallard				CAU-Wild1.0	female		1211992756	Chromosome	2023-07-24	VSDN01
+GCA_900496995.4	bAquChr1.4	Aquila chrysaetos chrysaetos								1233704830	Chromosome	2021-03-26	UFQG04
+GCA_017639655.1	bFalNau1.pat	Falco naumanni					bFalNau1	female		1215702009	Chromosome	2021-03-30	JAGFVS01
+GCF_000002315.6	GRCg6a	Gallus gallus	Red Jungle Fowl				RJF #256	female	NCBI eukaryotic genome annotation pipeline	1065348650	Chromosome	2018-03-27	AADN05
+GCF_003850225.1	IASCAAS_PekingDuck_PBH1.5	Anas platyrhynchos					PK-2015		NCBI Annotation Release 103	1126159488	Chromosome	2018-11-29	RHJV01
+GCF_008822105.2	bTaeGut2.pat.W.v2	Taeniopygia guttata					Blue55	female	NCBI Annotation Release 105	1068971253	Chromosome	2020-02-12	VOHI02
+GCF_000151805.1	Taeniopygia_guttata-3.2.4	Taeniopygia guttata					Black17	male	NCBI eukaryotic genome annotation pipeline	1232118738	Chromosome	2013-02-08	ABQF01
+GCF_000355885.1	BGI_duck_1.0	Anas platyrhynchos	Pekin duck					female	NCBI eukaryotic genome annotation pipeline	1105035747	Scaffold	2013-04-26	ADON01
+GCF_000971095.1	AnsCyg_PRJNA183603_v1.0	Anser cygnoides domesticus	Zhedong					male	NCBI Annotation Release 100	1119134887	Scaffold	2015-04-08	AOGC01
+GCF_007115625.1	cibio_Scana_2019	Serinus canaria				domestic yellow	sc_yellow_7_cibi	male	NCBI Annotation Release 102	1071638426	Scaffold	2019-07-18	VKJK01
+GCF_000534875.1	SCA1	Serinus canaria							NCBI eukaryotic genome annotation pipeline	1152083301	Scaffold	2014-01-15	CAVT01
+GCF_000766835.1	Aquila_chrysaetos-1.0.2	Aquila chrysaetos canadensis					GSEH35GE	male	NCBI Annotation Release 100	1192725744	Scaffold	2014-10-14	JRUM01
+GCF_000337955.1	F_peregrinus_v1.0	Falco peregrinus						male	NCBI Annotation Release 102	1171955363	Scaffold	2013-02-05	AKMT01
+GCF_000238935.1	Melopsittacus_undulatus_6.3	Melopsittacus undulatus						male	NCBI Annotation Release 103	1117355426	Scaffold	2012-01-02	AGAI01
+GCF_000337975.1	F_cherrug_v1.0	Falco cherrug						male	NCBI Annotation Release 102	1174811715	Scaffold	2013-02-05	AKMU01
+GCF_000699085.1	ASM69908v1	Calypte anna					BGI_N300	female	NCBI eukaryotic genome annotation pipeline	1105676412	Scaffold	2014-06-06	JJRV01
+GCF_000687205.1	ASM68720v1	Tyto alba					BGI_N341	female	NCBI Annotation Release 100	1120143088	Scaffold	2014-05-08	JJRD01
+GCF_902150015.1	genome_assembly_l500	Tyto alba alba							NCBI Annotation Release 101	1219191878	Scaffold	2020-02-10	CABFVR01
+GCF_000692015.1	ASM69201v2	Manacus vitellinus					BGI_N305	female	NCBI eukaryotic genome annotation pipeline	1145854002	Scaffold	2014-08-01	JMFM02
+GCF_000709325.1	ASM70932v1	Cuculus canorus					BGI_N303	male	NCBI Annotation Release 100	1153894225	Scaffold	2014-06-17	JNOX01
+GCF_000699005.1	ASM69900v1	Dryobates pubescens					BGI_N307	female	NCBI Annotation Release 100	1167323935	Scaffold	2014-06-06	JJRU01
+GCF_002197715.1	LonStrDom1	Lonchura striata domestica					white83orange57		NCBI eukaryotic genome annotation pipeline	1060152893	Scaffold	2017-06-19	MUZQ01
+GCA_002743455.1	CAU_duck1.0	Anas platyrhynchos platyrhynchos	Pekin duck					male		1136415614	Chromosome	2017-11-03	PEDO01
+GCA_008822115.3	bTaeGut2.mat.v3	Taeniopygia guttata					Blue55	female		995935930	Chromosome	2020-02-21	VOHG03
+GCA_008822125.1	bTaeGut2pat	Taeniopygia guttata					Blue55	female		1047569904	Chromosome	2019-10-03	VOHH01
+GCA_009859065.2	bTaeGut2.pri.v2	Taeniopygia guttata					Blue55	female		1106280703	Chromosome	2020-04-01	STFU02
+GCA_026259575.1	AnsCyg_swan_goose_v2.0	Anser cygnoides					YZ_2022a	pooled male and female		1153444501	Chromosome	2022-11-23	JAOVSJ01
+GCA_025388735.1	ASM2538873v1	Anser cygnoides	Lion-head goose				ASM202101V1	male		1278045749	Chromosome	2022-09-25	JAHRXI01
+GCA_943294205.1	MGAL_WU_HG_1.0_parent2	Meleagris gallopavo								1085657715	Chromosome	2022-06-24	CALPDR01
+GCA_943295565.1	MGAL_WU_HG_1.0_parent1	Meleagris gallopavo								1051251094	Chromosome	2022-06-24	CALPDS01
+GCA_028654425.1	ASM2865442v1	Columba livia	White King Pigeon				Cliv_WK_1.0	male		1176706617	Chromosome	2023-02-16	WOFI01
+GCA_001887795.1	colLiv2	Columba livia	Danish Tumbler					male		1018016946	Chromosome	2016-12-02	MLQZ01
+GCA_009194515.1	CaiMos1.0	Cairina moschata domestica					CanardBarbarie3_02_2015_G			1109207201	Chromosome	2019-11-25	QZEJ01
+GCA_016128335.2	ZJU2.0	Dromaius novaehollandiae					ZJU1.0	female		1247435561	Chromosome	2023-01-13	JABVCD02
+GCA_001887755.1	falPer2	Falco peregrinus						male		1112064469	Chromosome	2016-12-02	MLQY01
+GCA_028858725.1	bColStr4.hap1	Colius striatus					bColStr4	female		1123441015	Chromosome	2023-02-24	JARBXP01
+GCA_028858625.1	bColStr4.hap2	Colius striatus					bColStr4	female		1242527572	Chromosome	2023-02-24	JARBXQ01
+GCA_929443795.2	bAccGen1.2	Accipiter gentilis								1398011397	Chromosome	2022-10-27	CAKNBG02
+GCA_009769525.1	bPteGut1.pri	Pterocles gutturalis					bPteGut1	male		1127398289	Chromosome	2019-12-23	WNNE01
+GCA_009769465.1	bTauEry1.pri	Tauraco erythrolophus					bTauEry1	female		1252271553	Chromosome	2019-12-19	WOXW01
+GCA_947461875.1	bHalAlb1.1	Haliaeetus albicilla								1320298205	Chromosome	2022-12-06	CANHOD01
+GCA_023376015.1	Svulgaris_vAU_1.1	Sturnus vulgaris					sv1000_unsw	female		1043825371	Chromosome	2022-05-19	JAGFZL01
+GCA_016904835.1	bAcaChl1.pri	Acanthisitta chloris					bAcaChl1	female		1077368553	Chromosome	2021-02-17	JAFCHQ01
+GCA_009819825.1	bCarCri1.pri	Cariama cristata					bCarCri1	female		1215224075	Chromosome	2019-12-31	WNMO01
+GCA_009819595.1	bMerNub1.pri	Merops nubicus					bMerNub1	female		1149337515	Chromosome	2019-12-31	WNMU01
+GCA_030463565.1	bPelCri1.pri	Pelecanus crispus					bPelCri1	female		1314568463	Chromosome	2023-07-18	JAUANY01
+GCA_030490855.1	bPoeAtr1.hap2	Poecile atricapillus					bPoeAtr1	female		987998379	Chromosome	2023-07-18	JAUKOJ01
+GCA_028858595.1	bGruAme1.pat	Grus americana					bGruAme1	male		1200805165	Chromosome	2023-02-24	JARBUR01
+GCA_011004875.1	bBalReg1.pri	Balearica regulorum gibbericeps					bBalReg1	female		1221032548	Chromosome	2020-03-05	JAAIYC01
+GCA_000738735.6	ASM73873v6	Corvus cornix cornix					S_Up_H32	male		1030864775	Chromosome	2022-04-01	JPSR04
+GCA_028858555.1	bAraAra1.hap2	Ara ararauna					bAraAra1	male		1302242811	Chromosome	2023-02-24	JAQZCK01
+GCA_028501385.1	bRisTri1.mat.cur.20221130	Rissa tridactyla					bRisTri1	female		1268441171	Chromosome	2023-02-10	JAPUFH01
+GCA_902806625.1	Camarhynchus_parvulus_V1.1	Camarhynchus parvulus								1064016364	Chromosome	2020-03-21	CADCXG01
+GCA_951411735.1	bSomMol1.h1.1	Somateria mollissima								1205423405	Chromosome	2023-06-27	CATOCB01
+GCA_030142145.1	ASM3014214v1	Somateria mollissima				Cape Dorset	K12-31919	male		1105825584	Chromosome	2023-06-05	JASAOJ01
+GCA_024686275.1	ASM2468627v1	Gallus gallus	Fayoumi				Fayoumi_3_FYI	female		1041987655	Contig	2022-08-15	JAJMOC01
+GCA_027408205.1	bGalGal5.alt	Gallus gallus	Cobb				bGalGal5	female		911865540	Scaffold	2022-12-27	JAPZKB01
+GCA_027408255.1	bGalGal4.alt	Gallus gallus	Ross				bGalGal4	female		885772923	Scaffold	2022-12-27	JAPZJZ01
+GCA_024686355.1	ASM2468635v1	Gallus gallus	Asil				Asil_3_101A	male		1017761958	Scaffold	2022-08-15	JAJMOF01
+GCA_024686465.1	ASM2468646v1	Gallus gallus	Naked Neck				Naked_Neck_3_201A	female		1029979720	Scaffold	2022-08-15	JAJMOE01
+GCA_024686285.1	ASM2468628v1	Gallus gallus	Thailand Gamefowl				Thailand_Gamefowl_3_FTCB	male		1022227161	Scaffold	2022-08-15	JAJMOD01
+GCA_024679765.1	ASM2467976v1	Gallus gallus	Rhode Island Red				Rhode_Island_Red_2_luodao	female		1060669010	Scaffold	2022-08-15	JAJMOR01
+GCA_024679325.1	ASM2467932v1	Gallus gallus	Silkie				Silkies_2_wuji	male		1082862924	Scaffold	2022-08-15	JAJMOM01
+GCA_024679905.1	ASM2467990v1	Gallus gallus	White Leghorn				White_Leghorn_2_laihang	female		1071602443	Scaffold	2022-08-15	JAJMOT01
+GCA_024687005.1	ASM2468700v1	Gallus gallus	Cornish				Cornish_2_am30	male		1058851921	Scaffold	2022-08-15	JAJMOV01
+GCA_024679415.1	ASM2467941v1	Gallus gallus	White Plymouth Rock				White_Plymouth_Rock_2_y24	male		1046247424	Scaffold	2022-08-15	JAJMOQ01
+GCA_024686295.1	ASM2468629v1	Gallus gallus	Chahua				Chahua_2_chahua	male		1098878991	Scaffold	2022-08-15	JAJMOU01
+GCA_024686315.1	ASM2468631v1	Gallus gallus	Langshan				Langshan_2_langshan	female		1087809772	Scaffold	2022-08-15	JAJMOS01
+GCA_024679355.1	ASM2467935v1	Gallus gallus	Daweishan				Daweishan_2_m5-6	female		1127220164	Scaffold	2022-08-15	JAJMOO01
+GCA_024679395.1	ASM2467939v1	Gallus gallus	Tibetan chicken				Tibetan_chicken_2_zangji	female		1114325143	Scaffold	2022-08-15	JAJMOP01
+GCA_024679375.1	ASM2467937v1	Gallus gallus	Liyang				Liyang_2_suyang	male		1089858833	Scaffold	2022-08-15	JAJMON01
+GCA_017639285.1	CAU_Pekin_2.0	Anas platyrhynchos	pekin duck				CAU_Pekin_2.0	female		1186367508	Scaffold	2021-03-30	JACEUM01
+GCA_017639305.1	CAU_Laying_1.0	Anas platyrhynchos	Laying duck				CAU_Laying_1.0	female		1217695176	Scaffold	2021-03-30	JACEUL01
+GCA_002224895.1	ASM222489v1	Anas platyrhynchos	mallard					female		1265073014	Scaffold	2017-07-25	NOIJ01
+GCA_002008985.2	Tgut_diploid_1.0	Taeniopygia guttata					Black17	male		1138770338	Contig	2017-02-28	MUGN01
+GCA_003957525.2	bTaeGut1.4.alt	Taeniopygia guttata					Black17	male		887567949	Scaffold	2021-04-28	RRCC02
+GCA_012069595.1	zebrafinch.phase1_scaffolds	Taeniopygia guttata					Blue55	female		1070314140	Scaffold	2020-04-06	JAAIVM01
+GCA_012069575.1	zebrafinch.phase1_contigs	Taeniopygia guttata					Blue55	female		1071332079	Contig	2020-04-06	JAAIVO01
+GCA_012069615.1	zebrafinch.phase0_contigs	Taeniopygia guttata					Blue55	female		1070299142	Contig	2020-04-06	JAAIVN01
+GCA_012069585.1	zebrafinch.Unzip_purge_primary	Taeniopygia guttata					Blue55	female		1053312834	Contig	2020-04-06	JAAIVP01
+GCA_012069605.1	zebrafinch.phase0_scaffolds	Taeniopygia guttata					Blue55	female		1071460248	Scaffold	2020-04-06	JAAIVL01
+GCA_009859025.1	bTaeGut2.p.v1.alt	Taeniopygia guttata					Blue55	female		947919714	Scaffold	2020-01-13	STFT01
+GCA_012069535.1	zebrafinch.Unzip_purge_haplotigs	Taeniopygia guttata					Blue55	female		922729557	Contig	2020-04-06	JAAIVQ01
+GCA_000511605.2	Coja_2.0a	Coturnix japonica		L						898141602	Scaffold	2016-06-29	BASJ02
+GCA_013030995.1	ASM1303099v1	Anser cygnoides					Tianfu	female		1113895350	Scaffold	2020-05-11	WTSS01
+GCA_000337935.2	Cliv_2.1	Columba livia	Danish Tumbler					male	Annotation submitted by BGI	1108534737	Scaffold	2017-12-13	AKCR02
+GCA_000696035.1	AquilaChrysaetos1	Aquila chrysaetos canadensis						male		1548476395	Scaffold	2014-05-30	JDSB01
+GCA_030162315.1	Ajapo_1	Aquila chrysaetos japonica					5227M			1188176676	Scaffold	2023-04-08	BSWC01
+GCA_012057345.1	Achrysaetos_1.0	Aquila chrysaetos japonica								1196037330	Scaffold	2020-04-03	BJEW01
+GCA_013396795.1	ASM1339679v1	Dromaius novaehollandiae					B10K-LSUMZ-23963	female	Annotation submitted by B10K Consortium	1200670988	Scaffold	2020-07-10	VWZH01
+GCA_020892055.1	emu_male_v1.2	Dromaius novaehollandiae						male		1199534105	Scaffold	2021-11-03	BLZG01
+GCA_002850735.1	WTSP-SWSv1	Zonotrichia albicollis					Super-white morph	female		1017281565	Scaffold	2018-01-03	PKOH01
+GCA_020892015.1	emu_female_v2.2_1	Dromaius novaehollandiae								1300616635	Scaffold	2021-11-03	BMAD01
+GCA_020892035.1	emu_female_v2.2_2	Dromaius novaehollandiae								1292560855	Scaffold	2021-11-03	BMAE01
+GCA_023634185.1	bFalPer1.alt	Falco peregrinus					bFalPer1	female		1175509191	Contig	2022-06-01	JAMOAS01
+GCA_015227815.3	bHirRus1.alt.v3	Hirundo rustica					bHirRus1	female		936032861	Scaffold	2021-11-24	JADDRQ03
+GCA_013398205.2	ASM1339820v2	Melospiza melodia					OUT-0008	male		1082752064	Scaffold	2022-01-14	VZSA02
+GCA_022749775.1	bMelMel1.0.a	Melospiza melodia				gouldii	PMB2087b	female		1938102026	Scaffold	2022-03-29	JALCYM01
+GCA_013399815.1	ASM1339981v1	Hirundo rustica					B10K-DU-001-67	female	Annotation submitted by B10K Consortium	1043753555	Scaffold	2020-07-10	VZZX01
+GCA_012488915.1	Fperegrinus_1.0	Falco peregrinus								1183345687	Scaffold	2020-04-08	BJEV01
+GCA_003692655.1	Chelidonia	Hirundo rustica rustica					Chelidonia	female	Annotation submitted by University of Milan	1213743879	Scaffold	2018-10-29	QRBI01
+GCA_024433225.1	Peregrine10X.pri	Falco peregrinus peregrinus					JW_2022c	female		1159648981	Scaffold	2022-07-25	JALPQU01
+GCA_024432065.1	Peregrine10X.alt	Falco peregrinus peregrinus					JW_2022c	female		1159702924	Scaffold	2022-07-25	JALPQV01
+GCA_024431005.1	BlackShaheen10X.pri	Falco peregrinus peregrinator					JW_2022g	female		1151088392	Scaffold	2022-07-25	JALPQM01
+GCA_024431015.1	BlackShaheen10X.alt	Falco peregrinus peregrinator					JW_2022g	female		1150961969	Scaffold	2022-07-25	JALPQN01
+GCA_011057915.1	Mmel_1.0	Melospiza melodia maxima						male	Annotation submitted by UNIVERSITY OF GEORGIA	978299478	Scaffold	2020-03-02	RZID01
+GCA_012275265.1	bMelUnd1.mat	Melopsittacus undulatus					bMelUnd1	female		1169393027	Scaffold	2020-04-13	JAAVWI01
+GCA_012275275.1	bMelUnd1.pat	Melopsittacus undulatus					bMelUnd1	female		1124753724	Scaffold	2020-04-13	JAAVWH01
+GCA_030015615.1	cyaCae_Pacbio_Achrs_GRC	Cyanistes caeruleus					BT16m	male		1201937744	Contig	2023-05-15	JAQOTK01
+GCA_002021895.1	Canna_diploid_1.0	Calypte anna					BGI_N300	female		1007374986	Contig	2017-02-28	MUGM01
+GCA_027406555.1	bHaeMex1.alt	Haemorhous mexicanus					bHaeMex1	female		1039351984	Scaffold	2022-12-27	JAPYKD01
+GCA_003957575.1	bCalAnn1_v1.h	Calypte anna					BGI_N300	female		952083371	Scaffold	2018-12-20	RRCE01
+GCA_023634115.1	bFalChe1.alt	Falco cherrug					bFalChe1	female		1210282093	Scaffold	2022-06-01	JAMOAM01
+GCA_024431555.1	Saker10X.alt	Falco cherrug					JW_2022d	female		1158094566	Scaffold	2022-07-25	JALPQT01
+GCA_024432035.1	Saker10X.pri	Falco cherrug					JW_2022d	female		1158154780	Scaffold	2022-07-25	JALPQS01
+GCA_900216065.1	cyaCae2	Cyanistes caeruleus								1187125220	Scaffold	2019-06-19	OBHQ01
+GCA_019345075.1	ASM1934507v1	Alectoris rufa					MAOLO_4	male		1027480606	Scaffold	2021-07-26	JADBKV01
+GCA_027122255.1	ASM2712225v1	Falco cherrug					KBG9ROHKW9			1192515567	Scaffold	2022-12-20	JAOPJX01
+GCA_007636935.1	CLO_TRES_1	Tachycineta bicolor				Ithaca	2401-50270			1135351544	Scaffold	2019-07-30	VKGD01
+GCA_025448075.1	ASM2544807v1	Melopsittacus undulatus					IRGN 88WSNYN1X7			1163810244	Scaffold	2022-09-27	JAOEHZ01
+GCA_028534605.1	ASM2853460v1	Falco rusticolus					AZ-2022	female		1193708382	Scaffold	2023-02-07	JAPSEQ01
+GCA_014595935.1	HGFv1	Numida meleagris	Indigenous			Domestic-HGF, assemble	YPT65100	male		1049873005	Scaffold	2020-09-21	JABXER01
+GCA_024372515.1	bSetPet1.0.a	Setophaga petechia					LACM:Birds122168	female		1249765916	Scaffold	2022-07-21	JANCRB01
+GCA_014839765.1	bSylBor1.alt	Sylvia borin					bSylBor1	male		1032649170	Contig	2020-09-30	JACEWF01
+GCA_028389885.1	bPtePen1.alt	Rhea pennata					bPtePen1	male		983620806	Contig	2023-02-01	JAQOLW01
+GCA_017976305.1	bCucCan1.alt	Cuculus canorus					bCucCan1	female		1063845602	Scaffold	2021-04-15	JAGIYU01
+GCA_014839825.1	bDryPub1.alt	Dryobates pubescens					bDryPub1	female		1082594729	Scaffold	2020-09-30	JACNMW01
+GCA_009819505.2	bCatUst1.alt.v2	Catharus ustulatus					bCatUst1	female		1128658440	Scaffold	2020-11-05	WNMR02
+GCA_009764505.1	bTauEry1.alt	Tauraco erythrolophus					bTauEry1	female		1084112861	Contig	2019-12-18	WOXX01
+GCA_009769505.1	bPteGut1.alt	Pterocles gutturalis					bPteGut1	male		1037717354	Contig	2019-12-19	WNNF01
+GCA_929447715.1	bAccGen1.1 alternate haplotype	Accipiter gentilis								1112029929	Scaffold	2022-02-13	CAKNBJ01
+GCA_024431075.1	Gyr-110X.alt	Falco rusticolus					JW_2022e	female		1163347938	Scaffold	2022-07-25	JALPQR01
+GCA_024431545.1	Gyr-110X.pri	Falco rusticolus					JW_2022e	female		1163422689	Scaffold	2022-07-25	JALPQQ01
+GCA_024431065.1	Gyr-210X.pri	Falco rusticolus					JW_2022f	female		1160605968	Scaffold	2022-07-25	JALPQO01
+GCA_024431035.1	Gyr-210X.alt	Falco rusticolus					JW_2022f	female		1160559515	Scaffold	2022-07-25	JALPQP01
+GCA_013398555.1	ASM1339855v1	Haliaeetus albicilla					OUT-0040	male	Annotation submitted by B10K Consortium	1222690830	Scaffold	2020-07-10	VZSQ01
+GCA_021966175.1	bArtBel1.0.a	Artemisiospiza belli				canescens	MVZ Bird 192114	female		2257281749	Scaffold	2022-02-04	JAKDEX01
+GCA_005519975.1	AIIM_Pcri_1.0	Pavo cristatus					SKPea2016_SI	male		1027510962	Scaffold	2019-05-20	QZWQ01
+GCA_010090195.1	BGI_Ppap.V1	Pygoscelis papua					DNA -4		Annotation submitted by BGI-Shenzhen	1306937499	Scaffold	2020-01-31	VUKY01
+GCA_003342835.1	rhePen1	Rhea pennata					206185	male		1168291008	Scaffold	2018-07-26	PTJI01
+GCA_012487025.1	Agentilis_1.0	Accipiter gentilis								1179252740	Scaffold	2020-04-08	BJER01
+GCA_013400015.1	ASM1340001v1	Sylvia borin					B10K-DU-002-19	female	Annotation submitted by B10K Consortium	1036635967	Scaffold	2020-07-10	VXBG01
+GCA_004320185.1	Haliaeetus albicilla_ver1.0	Haliaeetus albicilla								1196539455	Scaffold	2019-02-16	BJBZ01
+GCA_025727775.1	ASM2572777v1	Accipiter gentilis					W521CGT8ZW			1218930559	Scaffold	2022-10-17	JAOEIF01
+GCA_003264685.1	ASM326468v1	Pygoscelis papua					GGV29			1209810801	Scaffold	2018-06-25	NDHE01
+GCA_003264615.1	ASM326461v1	Pygoscelis papua					ELE206			1209909388	Scaffold	2018-06-25	NDHF01
+GCA_023344045.1	bLagMut1 alternate	Lagopus muta					bLagMut1	female		923340374	Scaffold	2022-05-12	JAMCCU01
+GCA_009819805.1	bPhoRub2.alt	Phoenicopterus ruber ruber					bPhoRub2	female		1167509893	Contig	2019-12-23	WNML01
+GCA_000687265.1	ASM68726v1	Phoenicopterus ruber ruber					BGI_N337	male	Annotation submitted by BGI	1132184511	Scaffold	2014-05-08	JJRE01
+GCA_017309825.1	UBC_NOGO_v1	Accipiter gentilis atricapillus				Alaska		female		1245809754	Scaffold	2021-03-09	JAESIU01
+GCA_004320205.1	Lagopus muta japonica_ver1.0	Lagopus muta japonica								1002559668	Scaffold	2019-02-15	BJCA01
+GCA_028536645.1	bAphCal1.0.hap2	Aphelocoma californica				California	MVZ Bird 193978	female		1191279315	Scaffold	2023-02-07	JAQMYS01
+GCA_003402825.1	Coha_1.0	Corvus hawaiiensis					Ho'ike i ka pono	male		1064970991	Contig	2018-08-16	QORP01
+GCA_026168045.1	bCyaSte1.0.a	Cyanocitta stelleri				frontalis		female		1177494911	Scaffold	2022-11-14	JANXIQ01
+GCA_022818055.1	ASM2281805v1	Emberiza elegans					IOZ_CQ18213	male		1222647951	Scaffold	2022-04-05	JAJHUK01
+GCA_009651025.1	bCorMon1.alt	Corvus moneduloides					bCorMon1	female		905198257	Contig	2019-11-12	WHPP01
+GCA_022605895.1	bRalLim1.0.a	Rallus limicola					171378401			1425697905	Scaffold	2022-03-17	JAKCPA01
+GCA_009819585.1	bMerNub1.alt	Merops nubicus					bMerNub1	female		1122486764	Contig	2019-12-23	WNMV01
+GCA_009819485.1	bCarCri1.alt	Cariama cristata					bCarCri1	female		930239327	Scaffold	2019-12-23	WNMP01
+GCA_023634305.1	bFalBia1.alt	Falco biarmicus					bFalBia1	female		1202443328	Contig	2022-06-01	JAMOAU01
+GCA_016880875.1	bAcaChl1.alt	Acanthisitta chloris					bAcaChl1	female		827793803	Scaffold	2021-02-10	JAFCHR01
+GCA_026170555.1	bMelFor1.0.a	Melanerpes formicivorus				bairdi		female		1438781011	Scaffold	2022-11-14	JANXIO01
+GCA_027559525.1	bAcrTri1.alt	Acridotheres tristis					bArcTri1	female		969356965	Scaffold	2023-01-03	JAPZMP01
+GCA_015227605.1	ASM1522760v1	Phasianus colchicus	Chinese Ring-neck					female		988730982	Scaffold	2020-11-04	WUCP01
+GCA_026419925.1	bHarHar1	Harpia harpyja					bHarHar1	female		1185324778	Scaffold	2022-11-25	JAPMHX01
+GCA_903797565.2	bEriRub2.2 alternate haplotype	Erithacus rubecula								912720829	Scaffold	2021-03-21	CAIGJN02
+GCA_020740675.1	bCorHaw1.alt.cur	Corvus hawaiiensis					bCorHaw1	female		628844469	Contig	2021-11-03	JAJGSZ01
+GCA_027474345.1	bSphHub1.alt	Spheniscus humboldti					bSphHub1	female		1159977626	Scaffold	2022-12-27	JAPZLK01
+GCA_013398495.1	ASM1339849v1	Vidua chalybeata					OUT-0048	female	Annotation submitted by B10K Consortium	1073584019	Scaffold	2020-07-10	WBNB01
+GCA_030449815.1	bPelCri1.alt	Pelecanus crispus					bPelCri1	female		1207417857	Contig	2023-07-13	JAUANZ01
+GCA_009650515.1	UO_Cmon_1.0	Corvus moneduloides					NC3			1056558033	Scaffold	2019-11-12	VRTO01
+GCA_013398675.1	ASM1339867v1	Corvus moneduloides					OUT-0060	female	Annotation submitted by B10K Consortium	1056525328	Scaffold	2020-07-10	WBNF01
+GCA_017639225.1	C.kubaryi_AGA036_a1.0	Corvus kubaryi					FWS band 111438036	male		1068123824	Scaffold	2021-03-30	JAEMUT01
+GCA_024433255.1	Lanner10X.alt	Falco biarmicus					JW_2022a	female		1157862688	Scaffold	2022-07-25	JALPQZ01
+GCA_024433245.1	Lanner10X.pri	Falco biarmicus					JW_2022a	female		1157944115	Scaffold	2022-07-25	JALPQY01
+GCA_006229135.1	ASM622913v1	Anser indicus					heart tissue			1143091872	Scaffold	2019-06-11	VDDG01
+GCA_013398625.1	ASM1339862v1	Poecile atricapillus					OUT-0023	male	Annotation submitted by B10K Consortium	1047311074	Scaffold	2020-07-10	VZSS01
+GCA_011421415.2	BCCH_new_scaffold_names	Poecile atricapillus						male		1047807048	Scaffold	2023-06-20	JAAMOC02
+GCA_013398685.1	ASM1339868v1	Acrocephalus arundinaceus					OUT-0054	male	Annotation submitted by B10K Consortium	1184245996	Scaffold	2020-07-10	VZST01
+GCA_013397215.1	ASM1339721v1	Cardinalis cardinalis					B10K-DU-001-69	female	Annotation submitted by B10K Consortium	1037930431	Scaffold	2020-07-10	VYXE01
+GCA_013401155.1	ASM1340115v1	Molothrus ater					OUT-0049	female	Annotation submitted by B10K Consortium	1229058992	Scaffold	2020-07-10	VZUF01
+GCA_011800025.1	REN_Cmacq_2.0	Chlamydotis macqueenii				Wild	M01N03509	male		1206946485	Scaffold	2020-03-31	JAAGBA01
+GCA_013396415.1	ASM1339641v1	Casuarius casuarius					B10K-LSUMZ-50683	female	Annotation submitted by B10K Consortium	1204586945	Scaffold	2020-07-10	VWPT01
+GCA_026979555.1	bVidCha1 purged dups haplotype	Vidua chalybeata					OUT-0048	female		154870056	Contig	2022-12-16	JAPVRA01
+GCA_013397355.1	ASM1339735v1	Motacilla alba					B10K-DU-001-75	female	Annotation submitted by B10K Consortium	1043123529	Scaffold	2020-07-10	VXBE01
+GCA_013398535.1	ASM1339853v1	Agelaius phoeniceus					OUT-0050	female	Annotation submitted by B10K Consortium	1086309140	Scaffold	2020-07-10	VZSP01
+GCA_013398395.1	ASM1339839v1	Erithacus rubecula					OUT-0015	male	Annotation submitted by B10K Consortium	979843765	Scaffold	2020-07-10	VZSK01
+GCA_018127105.1	ASM1812710v1	Corvus kubaryi		Rota			21-23-1	male		1073474534	Contig	2021-04-22	JAERVN01
+GCA_001458055.1	ruff_EG1	Calidris pugnax								1173203933	Scaffold	2015-11-06	CZLE01
+GCA_011799995.1	REN_Cmacq_1.0	Chlamydotis macqueenii				Wild	M05N06140	male		1325814780	Scaffold	2020-03-31	JAAGAZ01
+GCA_013390085.1	ASM1339008v1	Grus americana					B10K-DU-012-65	female	Annotation submitted by B10K Consortium	1155476187	Scaffold	2020-07-06	WEIX01
+GCA_023170095.1	Spheniscus_humboldti_v01	Spheniscus humboldti					549	female		1221488984	Scaffold	2022-04-01	BLXI01
+GCA_004320145.1	Accipiter nisus_ver1.0	Accipiter nisus								1190649881	Scaffold	2019-02-16	BJBX01
+GCA_010076325.1	BGI_Shum.V1	Spheniscus humboldti					Z-67-15		Annotation submitted by BGI-Shenzhen	1239252862	Scaffold	2020-01-31	VUKW01
+GCA_027574805.1	ASM2757480v1	Ciconia ciconia					SL4TFNYKG7			1210875678	Scaffold	2023-01-06	JAODXU01
+GCA_003264635.1	ASM326463v1	Pygoscelis adeliae					AROSS103			1209911007	Scaffold	2018-06-25	NDHG01
+GCA_003264545.1	ASM326454v1	Spheniscus humboldti					CH48			1209857164	Scaffold	2018-06-25	NDHA01
+GCA_003264665.1	ASM326466v1	Pygoscelis adeliae					acrt75a			1209911879	Scaffold	2018-06-25	NDHH01
+GCA_003264735.1	ASM326473v1	Spheniscus humboldti					PE12			1209849151	Scaffold	2018-06-25	NDHB01
+GCA_002002965.1	Ciconia boyciana_ver1.0	Ciconia boyciana					2881A			1364945554	Scaffold	2017-02-09	BDFF01
+GCA_000400545.1	SMACv1.0	Ara macao						female		1035921044	Contig	2013-05-20	AMXX01
+GCA_002003005.1	Gallirallus_okinawae_ver1.0	Hypotaenidia okinawae								1114530436	Contig	2017-02-09	BDFH01
+GCA_000400695.1	SMACv1.1	Ara macao						female		1204683257	Scaffold	2013-06-26	AOUJ01
+GCA_023065965.1	Corvus_cornix__S_Up_H60__v1.0_flye.10kbFILTER	Corvus cornix					S-Up-H60	female		1117372175	Scaffold	2022-04-20	JAJVDG01
+GCA_011004865.1	bBalReg1.alt	Balearica regulorum gibbericeps					bBalReg1	female		1042364165	Scaffold	2020-02-24	JAAIYD01
+GCA_015220175.1	bPogPus1.alt	Pogoniulus pusillus					bPogPus1	female		1101771457	Scaffold	2020-11-02	JADCQL01
+GCA_021869855.1	ASM2186985v1	Lonchura striata domestica					L_RO	female		1094402190	Scaffold	2022-02-02	JAJJMY01
+GCA_029286905.1	ASM2928690v1	Willisornis vidua						female	Annotation submitted by LNCC	1085501054	Scaffold	2023-03-20	WHWB01
+GCA_001039765.2	AptMant0	Apteryx mantelli mantelli								1595278775	Contig	2015-06-23	
+GCA_002023255.2	ASM202325v2	Corvus cornix cornix					S_Up_H32	male		1050110261	Scaffold	2017-04-25	MVNZ02
+GCA_015832205.1	Motacilla_alba_V1.0_alt	Motacilla alba alba					MOTALB_02	male		797430388	Contig	2020-12-08	JACXWF01
+GCA_021869885.1	ASM2186988v1	Lonchura striata					L_UB	female		1085963747	Scaffold	2022-02-02	JAJJMZ01
+GCA_028564975.1	ASM2856497v1	Balearica regulorum					J5OZP42DD6			1196585134	Scaffold	2023-02-09	JAOWBM01
+GCA_023055725.1	bCalCai1.0.a	Callipepla californica brunnescens					MVZ:Bird:193975	male		1399796956	Scaffold	2022-04-19	JALIRI01
+GCA_022605925.1	bLatJam1.0.a	Laterallus jamaicensis coturniculus					168171201	female		1211372722	Scaffold	2022-03-17	JAKCOY01
+GCA_022578375.1	bPasSan1.0.a	Passerculus sandwichensis alaudinus					FMNH 499929	male		1785383892	Scaffold	2022-03-15	JAKOOM01
+GCA_001655135.1	GWtro1.0	Phylloscopus trochiloides trochiloides					LN10	male		975891682	Scaffold	2016-06-02	LXOZ01
+GCA_016859755.1	ASM1685975v1	Pogoniulus pusillus pusillus					AR93139	male		1198715191	Scaffold	2021-02-10	JAFENH01
+GCA_922020495.1	ORGONE_03	Ara glaucogularis								1144262409	Scaffold	2021-12-17	CAKLIM01
+GCA_023055385.1	bAgeTri1.0.a	Agelaius tricolor					1412-34295	female		1142379013	Scaffold	2022-04-19	JALJCT01
+GCA_023637925.1	DD_ASM_B1a	Phaethornis superciliosus					PSU5	male		1014956223	Contig	2022-06-01	JAJQWK01
+GCA_017639645.1	bFalNau1.mat	Falco naumanni					bFalNau1	female		1156765323	Scaffold	2021-03-30	JAGFVT01
+GCA_020801775.1	bPorHoc1.pat.decon	Porphyrio hochstetteri					bPorHoc1	female		1245128614	Scaffold	2021-11-08	JAJHSZ01
+GCA_009819645.1	bSteHir1.alt	Sterna hirundo					bSteHir1	female		1175438911	Contig	2019-12-23	WNMX01
+GCA_020745805.1	bTheCae1.alt.cur	Theristicus caerulescens					bTheCae1	female		1041135290	Scaffold	2021-11-05	JAJGSS01
+GCA_029207785.1	bChaFas1.0.hap2	Chamaea fasciata				frontalis	MVZ Bird 193981	female		1194527585	Scaffold	2023-03-14	JARCOR01
+GCA_009819845.1	bAytFul2.alt	Aythya fuligula					bAytFul2	female		1013629683	Scaffold	2019-12-23	WNMN01
+GCA_028020675.1	bPodStr1.alt	Podargus strigoides					bPodStr1	female		977391185	Scaffold	2023-01-26	JAQJZI01
+GCA_028019105.1	bMelGeo1.alt	Melospiza georgiana					bMelGeo1	female		1075048352	Contig	2023-01-26	JAQMCR01
+GCA_013368595.1	bNycGra1.alt	Nyctibius grandis					bNycGra1	female		1041284291	Scaffold	2020-06-23	JABXNW01
+GCA_020740585.1	bApuApu2.alt.cur	Apus apus					bApuApu2	female		1019504970	Scaffold	2021-11-03	JAJGQZ01
+GCA_017639475.1	bPluApr1.alt	Pluvialis apricaria					bPluApr1	female		1085787090	Scaffold	2021-03-30	JAGGDW01
+GCA_008658355.1	bAlcTor1 alternate	Alca torda					2006_11_07_Graehlm_vinge_78	male		1220378950	Contig	2019-09-23	VMEC01
+GCA_020745695.1	bHemCom1.alt.cur	Hemiprocne comata					bHemCom1	female		1052608110	Scaffold	2021-11-05	JAJGQX01
+GCA_009819715.1	bSylAtr1.alt	Sylvia atricapilla					bSylAtr1	female		991486332	Scaffold	2019-12-23	WNMZ01
+GCA_020746095.1	bTroSur1.alt.cur	Trogon surrucura					bTroSur1	female		997329498	Scaffold	2021-11-05	JAJGSU01
+GCA_009829205.1	bChiLan1.alt	Chiroxiphia lanceolata					bChiLan1	female		1054616617	Contig	2020-01-03	WNMD01
+GCA_009764545.1	bGeoTri1.alt	Geothlypis trichas					bGeoTri1	female		976433058	Scaffold	2019-12-18	WSPK01
+GCA_009769595.1	bBucAby1.alt	Bucorvus abyssinicus					bBucAby1	female		1024138499	Contig	2019-12-19	WNMH01
+GCA_028017155.1	bGypBar2.alt	Gypaetus barbatus					bGypBar2	female		979058826	Contig	2023-01-26	JAQMCN01
+GCA_027595965.1	bRhyJub1.alt	Rhynochetos jubatus					bRhyJub1	female		791426973	Scaffold	2023-01-06	JAQBHZ01
+GCA_027887135.1	bAmmCau1.alt	Ammospiza caudacuta					bAmmCau1	female		1166743317	Contig	2023-01-17	JAQIHC01
+GCA_027579665.1	bAmmNel1.alt	Ammospiza nelsoni					bAmmNel1	female		1033298713	Contig	2023-01-06	JAQCNU01
+GCA_901699165.2	bStrTur1.2 alternate haplotype	Streptopelia turtur								1035330184	Contig	2021-04-15	CABFKB02
+GCA_907165095.1	bCapEur3.1 alternate haplotype	Caprimulgus europaeus								1051868380	Scaffold	2021-05-15	CAJRAW01
+GCA_017639665.1	bCicMag1.alt	Ciconia maguari					bCicMag1	female		967599765	Scaffold	2021-03-30	JAGFVO01
+GCA_951394355.1	bTetUro1.1 alternate haplotype	Tetrao urogallus								853786400	Contig	2023-05-13	CATOBQ01
+GCA_009769485.2	bCygOlo1.alt.v2	Cygnus olor					bCygOlo1	male		814594871	Scaffold	2021-03-30	WNMJ02
+GCA_949628205.1	bGulAri2.1 alternate haplotype	Phalacrocorax aristotelis								1080507657	Scaffold	2023-04-09	CATIVF01
+GCA_013398885.1	ASM1339888v1	Bucorvus abyssinicus					B10K-DU-012-80		Annotation submitted by B10K Consortium	1102577438	Scaffold	2020-07-10	VYZL01
+GCA_024432275.1	Barbary10X.alt	Falco pelegrinoides					JW_2022b	female		1153541819	Scaffold	2022-07-25	JALPQX01
+GCA_024431025.1	CommonKestrel10X.alt	Falco tinnunculus					JW_2022h	female		1134440588	Scaffold	2022-07-25	JALPQL01
+GCA_905066775.2	FratArc_v2	Fratercula arctica								1279358051	Scaffold	2021-07-28	CAJHIB02
+GCA_013397325.1	ASM1339732v1	Leucopsar rothschildi					B10K-DU-002-02	female	Annotation submitted by B10K Consortium	1019064604	Scaffold	2020-07-10	VZTC01
+GCA_013398095.1	ASM1339809v1	Rhynochetos jubatus					B10K-DU-029-58	female	Annotation submitted by B10K Consortium	1116409996	Scaffold	2020-07-10	VZRY01
+GCA_017165875.1	TRBL-genome	Agelaius tricolor					individual TRBL			1075086955	Scaffold	2021-03-04	JADODQ01
+GCA_013399755.1	ASM1339975v1	Podargus strigoides					B10K-DU-001-40	female	Annotation submitted by B10K Consortium	1138406061	Scaffold	2020-07-10	VZTK01
+GCA_013398775.1	ASM1339877v1	Eudromia elegans					B10K-LSUMZ-16893	female	Annotation submitted by B10K Consortium	958920152	Scaffold	2020-07-10	VZSX01
+GCA_013399255.1	ASM1339925v1	Ciconia maguari					B10K-DU-001-47	female	Annotation submitted by B10K Consortium	1200886088	Scaffold	2020-07-10	VXAE01
+GCA_013399155.1	ASM1339915v1	Nyctibius grandis					B10K-DU-001-56	female	Annotation submitted by B10K Consortium	1154230834	Scaffold	2020-07-10	VWYG01
+GCA_013396855.1	ASM1339685v1	Hemiprocne comata					B10K-DU-001-23	female	Annotation submitted by B10K Consortium	1141196188	Scaffold	2020-07-10	VWZJ01
+GCA_951851355.1	FratArc_v3_unplaced	Fratercula arctica								6432610	Scaffold	2023-07-14	CATOUT01
+GCA_013398435.1	ASM1339843v1	Sylvia atricapilla					OUT-0013	male	Annotation submitted by B10K Consortium	1017094937	Scaffold	2020-07-10	VZSL01
+GCA_013401015.1	ASM1340101v1	Rissa tridactyla					OUT-0021	female	Annotation submitted by B10K Consortium	1192865200	Scaffold	2020-07-10	VZUC01
+GCA_013398245.1	ASM1339824v1	Alca torda					OUT-0003		Annotation submitted by B10K Consortium	1162045472	Scaffold	2020-07-10	VZSD01
+GCA_013400395.1	ASM1340039v1	Vidua macroura					B10K-DU-002-50	female	Annotation submitted by B10K Consortium	1024457306	Scaffold	2020-07-10	WBNN01
+GCA_010332995.1	FalTin1.0	Falco tinnunculus					ck-nibr-243			1179901403	Scaffold	2020-02-04	PYXA01
+GCA_001420675.1	ASM142067v1	Amazona aestiva					FVVF132		Annotation submitted by LNCC	1129535839	Scaffold	2015-10-30	LMAW01
+GCA_003264595.1	ASM326459v1	Pygoscelis antarcticus					B303A			1209830009	Scaffold	2018-06-25	NDHD01
+GCA_003264555.1	ASM326455v1	Pygoscelis antarcticus					B190A			1209850003	Scaffold	2018-06-25	NDHC01
+GCA_010014805.2	ASM1001480v2	Ara ararauna					IRGN MTNHZMC1CF			1126530298	Scaffold	2023-07-20	JAAAKF02
+GCA_010015425.2	ASM1001542v2	Ara glaucogularis					Bonita_KZU2RREV2U			1157392775	Scaffold	2022-11-30	JAAAKJ02
+GCA_026284445.1	ASM2628444v1	Ara ararauna								1172829865	Scaffold	2022-11-22	JANCMI01
+GCA_026283685.1	ASM2628368v1	Amazona aestiva					IRGN AXOLLUKPUX			1277482725	Scaffold	2022-11-22	JANEXC01
+GCA_027475425.1	ASM2747542v1	Nisaetus nipalensis					LACM Birds-114857			1277776919	Scaffold	2022-12-28	JANZLV01
+GCA_026930845.1	ASM2693084v1	Pandion haliaetus					ANSP 33952			1240120574	Scaffold	2022-12-16	JANZLM01
+GCA_024337125.1	ASM2433712v1	Agapornis roseicollis								1178186454	Scaffold	2022-07-20	JANEXD01
+GCA_006938045.1	anoDid_nucDNA_mapDamage	Anomalopteryx didiformis					TW95			1189933016	Scaffold	2019-07-12	SZQD01
+GCA_013400095.1	ASM1340009v1	Himantopus himantopus					B10K-DU-002-13	female	Annotation submitted by B10K Consortium	1196502159	Scaffold	2020-07-10	VXBK01
+GCA_025389015.1	LUNI_Pthr_2	Phylloscopus trochilus acredula					CP59620	male		1159315265	Scaffold	2022-09-25	VHQE01
+GCA_002305835.1	ASM230583v1	Phylloscopus trochilus acredula					01L/19	male		1066518484	Scaffold	2016-06-08	LXGM01
+GCA_014363425.1	U_aalge_scaffold_01	Uria aalge inornata								1040726051	Scaffold	2020-08-22	BMBJ01
+GCA_010077915.1	BGI_Smen.V1	Spheniscus mendiculus					GAPE 212		Annotation submitted by BGI-Shenzhen	1298742035	Scaffold	2020-01-31	VUKU01
+GCA_013399655.1	ASM1339965v1	Setophaga kirtlandii					B10K-DU-001-45	female	Annotation submitted by B10K Consortium	1045879602	Scaffold	2020-07-10	VXAS01
+GCA_013036005.2	ASM1303600v2	Myiopsitta monachus					Lily_M87LX5JFBJ	female		1162512274	Scaffold	2022-11-30	WUAQ02
+GCA_003264715.1	ASM326471v1	Spheniscus magellanicus					CH487B			1209860780	Scaffold	2018-06-25	NDGX01
+GCA_003264755.1	ASM326475v1	Spheniscus magellanicus					CH27B			1209860343	Scaffold	2018-06-25	NDGZ01
+GCA_003264535.1	ASM326453v1	Spheniscus magellanicus					CH406B			1209851208	Scaffold	2018-06-25	NDGY01
+GCA_009867195.2	ASM986719v2	Aratinga solstitialis					ACLMW497L6			1150546593	Scaffold	2022-11-27	WYDG02
+GCA_026283725.1	ASM2628372v1	Ara rubrogenys					FMNH birds-350850			1204348606	Scaffold	2022-11-22	JANCMJ01
+GCA_014706015.1	ASM1470601v1	Lycocorax pyrrhopterus obiensis		lycPyr5				female		1107721516	Scaffold	2020-09-23	JACSVR01
+GCA_014706025.1	ASM1470602v1	Lycocorax pyrrhopterus obiensis		lycPyr4				female		1106102272	Scaffold	2020-09-23	JACSVS01
+GCA_014706035.1	ASM1470603v1	Lycocorax pyrrhopterus obiensis		lycPyr3				female		1099062272	Scaffold	2020-09-23	JACSVT01
+GCA_014706055.1	ASM1470605v1	Lycocorax pyrrhopterus obiensis		lycPyr2				female		1099185865	Scaffold	2020-09-23	JACSVU01
+GCA_014706265.1	ASM1470626v1	Lycocorax pyrrhopterus obiensis		lycPyrHiC				female		1097065298	Scaffold	2020-09-23	JACSVW01
+GCA_014706285.1	ASM1470628v1	Lycocorax pyrrhopterus obiensis		lycPyrPB				female		1097015798	Contig	2020-09-23	JACSVY01
+GCA_014706275.1	ASM1470627v1	Lycocorax pyrrhopterus obiensis		lycPyrILPB				female		1075558048	Scaffold	2020-09-23	JACSVX01
+GCA_020137895.1	ASM2013789v1	Entomyzon cyanotis					MCZ_336010			1031697788	Scaffold	2021-09-24	NHZT01
+GCA_014706395.1	ASM1470639v1	Lycocorax pyrrhopterus obiensis		lycPyrSN1				female		1076351741	Scaffold	2020-09-23	JACSVV01
+GCA_015343275.1	lycPyrSN2	Lycocorax pyrrhopterus obiensis		lycPyrSN2				female		1094041302	Scaffold	2020-11-10	JACTOI01
+GCA_024678265.1	ASM2467826v1	Probosciger aterrimus					WKBU2VKR4D			1175844306	Scaffold	2022-08-15	JANIIB01
+GCA_000002315.5	GRCg6a	Gallus gallus	Red Jungle Fowl				RJF #256	female		1065348650	Chromosome	2018-03-27	AADN05
+GCA_003850225.1	IASCAAS_PekingDuck_PBH1.5	Anas platyrhynchos					PK-2015			1126159488	Chromosome	2018-11-29	RHJV01
+GCA_008822105.2	bTaeGut2.pat.W.v2	Taeniopygia guttata					Blue55	female		1068971253	Chromosome	2020-02-21	VOHI02
+GCA_000151805.2	Taeniopygia_guttata-3.2.4	Taeniopygia guttata					Black17	male		1232118738	Chromosome	2013-02-08	ABQF01
+GCA_000355885.1	BGI_duck_1.0	Anas platyrhynchos	Pekin duck					female	Annotation submitted by State Key Laboratory for Agrobiotechnology, China Agricultural University, Beijing	1105035747	Scaffold	2013-04-26	ADON01
+GCA_000971095.1	AnsCyg_PRJNA183603_v1.0	Anser cygnoides domesticus	Zhedong					male		1119134887	Scaffold	2015-04-08	AOGC01
+GCA_007115625.1	cibio_Scana_2019	Serinus canaria				domestic yellow	sc_yellow_7_cibi	male		1071638426	Scaffold	2019-07-29	VKJK01
+GCA_000534875.1	SCA1	Serinus canaria								1152083301	Scaffold	2014-01-15	CAVT01
+GCA_000766835.1	Aquila_chrysaetos-1.0.2	Aquila chrysaetos canadensis					GSEH35GE	male		1192725744	Scaffold	2014-10-14	JRUM01
+GCA_902153765.2	bAquChr1.4 alternate haplotype	Aquila chrysaetos chrysaetos								792810001	Scaffold	2021-03-26	CABFWM02
+GCA_000599465.2	ASM59946v2	Colinus virginianus		Texas				female	Annotation submitted by Texas A&M University	1254146751	Scaffold	2017-07-13	AWGT02
+GCA_000599485.1	NB1.0	Colinus virginianus		Texas				female		1042054936	Scaffold	2014-03-20	AWGU01
+GCA_000337955.1	F_peregrinus_v1.0	Falco peregrinus						male		1171955363	Scaffold	2013-02-05	AKMT01
+GCA_000238935.1	Melopsittacus_undulatus_6.3	Melopsittacus undulatus						male		1117355426	Scaffold	2012-01-02	AGAI01
+GCA_000337975.1	F_cherrug_v1.0	Falco cherrug						male		1174811715	Scaffold	2013-02-05	AKMU01
+GCA_000699085.1	ASM69908v1	Calypte anna					BGI_N300	female	Annotation submitted by BGI	1105676412	Scaffold	2014-06-06	JJRV01
+GCA_000687205.1	ASM68720v1	Tyto alba					BGI_N341	female	Annotation submitted by BGI	1120143088	Scaffold	2014-05-08	JJRD01
+GCA_902150015.1	genome_assembly_l500	Tyto alba alba								1219191878	Scaffold	2020-02-10	CABFVR01
+GCA_947461935.1	bHalAlb1.1 alternate haplotype	Haliaeetus albicilla								693161704	Contig	2022-12-02	CANHNM01
+GCA_015220155.1	bFalRus1.alt	Falco rusticolus					bFalRus1	female		516243243	Contig	2020-11-02	JADCQP01
+GCA_000692015.2	ASM69201v2	Manacus vitellinus					BGI_N305	female	Annotation submitted by BGI	1145854002	Scaffold	2014-08-01	JMFM02
+GCA_000709325.1	ASM70932v1	Cuculus canorus					BGI_N303	male	Annotation submitted by BGI	1153894225	Scaffold	2014-06-17	JNOX01
+GCA_000699005.1	ASM69900v1	Dryobates pubescens					BGI_N307	female	Annotation submitted by BGI	1167323935	Scaffold	2014-06-06	JJRU01
+GCA_002197715.1	LonStrDom1	Lonchura striata domestica					white83orange57		Annotation submitted by HHMI/UCSF	1060152893	Scaffold	2017-06-19	MUZQ01
+GCA_907166825.1	blackswan6.fasta.gz	Cygnus atratus								8797591913	Contig	2021-08-03	CAJRHN01
+GCA_910591715.1	blackswan9.fasta.gz	Cygnus atratus								11807563103	Contig	2021-08-03	CAJVDG01
+GCA_907166835.1	blackswan7.fasta.gz	Cygnus atratus								11622211570	Contig	2021-08-03	CAJRHO01
+GCA_910591735.1	blackswan8.fasta.gz	Cygnus atratus								12433251898	Contig	2021-08-03	CAJVDF01
+GCA_910591725.1	blackswan10.fasta.gz	Cygnus atratus								11287309722	Contig	2021-08-03	CAJVDE01
+GCA_907166935.1	blackswan5.fasta.gz	Cygnus atratus								10242733365	Contig	2021-08-03	CAJRHZ01
+GCA_910591745.1	blackswan1.fasta.gz	Cygnus atratus								12207311164	Contig	2021-08-03	CAJVDH01
+GCA_907166815.1	blackswan2.fasta.gz	Cygnus atratus								10535770468	Contig	2021-08-03	CAJRHV01
+GCA_907166845.1	blackswan3.fasta.gz	Cygnus atratus								10384758300	Contig	2021-08-03	CAJRHX01
+GCA_003342915.1	cryCin1	Crypturellus cinnamomeus					337707	male		1122047781	Scaffold	2018-07-26	PTEZ01
+GCA_026284665.1	ASM2628466v1	Aratinga nenday					KU 90199			1154811290	Scaffold	2022-11-22	JANCMF01
+GCA_010015965.2	ASM1001596v2	Ara militaris					6PT2692UNM			1163064974	Scaffold	2022-11-27	JAAAKA02
+GCA_010085315.1	BGI_Erob.V1	Eudyptes robustus					68M 28/09/13		Annotation submitted by BGI-Shenzhen	1241676055	Scaffold	2020-01-31	VULG01
+GCA_010085335.1	BGI_Epac.V1	Eudyptes pachyrhynchus					MS 9		Annotation submitted by BGI-Shenzhen	1295505775	Scaffold	2020-01-31	VULH01
+GCA_025448235.1	ASM2544823v1	Buteogallus gundlachii					1XXD2SGD2L			1379378937	Scaffold	2022-09-27	JAOEJP01
+GCA_024206055.2	ASM2420605v2	Gallus gallus	Huxu					female		1100911310	Chromosome	2023-02-09	
+GCA_900067835.1	fAlb_W1.2	Ficedula albicollis						male		6991858	Scaffold	2015-04-06	CVIS01
+GCA_004011185.1	bStrHab1_v1.h	Strigops habroptila					Jane	female		285706558	Scaffold	2019-01-10	RXXF01
