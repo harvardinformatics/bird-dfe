@@ -1,53 +1,60 @@
-# Sturnus vulgaris
+# Pygoscelis adeliae
 
-Common name: European starling
-IUCN Red List information: [Common starling](https://www.iucnredlist.org/species/22710886/137493608)
+Common name: Adelie penguin
+IUCN Red List information: [Adelie penguin](https://www.iucnredlist.org/species/22697758/157660553)
 
 ## Census size information
-Population size (IUCN): 150,000,000
-Trend (IUCN): Decreasing; least concern
-
-Population size (BotW): 200,000,000 in North America, based on 10-20 pairs/km2; may represent 1/3 of global population, implying ~600,000,000 total
+Population size (IUCN): 10,000,000
+Trend (IUCN): Increasing; least concern
 
 IUCN text:
-"The global population is estimated to number 150,000,000 mature individuals (A. Panjabi in litt. 2017). The population in Europe, which forms approximately 55% of the global range, is estimated at 28,800,000-52,400,000 pairs, equating to 57,700,000-105,000,000 mature individuals (BirdLife International 2015)."
-
-"Trend Justification: In Europe, the population has been undergoing a moderate decline between 1980 and 2015 (EBCC 2018). Likewise, the introduced population in North America has declined between 1970 and 2014 (51% decline between 1966 and 2015 based on the North American Breeding Bird Survey [Sauer et al. 2017]). Therefore, the global population is tentatively assessed as being in decline."
+"The total global population was previously estimated at c.2.37 million breeding pairs (range 1.83-2.88 million pairs), equating to 4.74 million breeding individuals, based on survey data collated up to the mid-1990s (Woehler 1993, Woehler and Croxall 1997). More recently, Lynch and La Rue (2014) estimated the global breeding population to be 3.79 million pairs (range 3.52-4.10 million pairs) spread amongst 190-250 colonies (depending on the definition of a colony), equating to 7.58 million breeding individuals, based largely on satellite imagery of breeding colonies obtained between 2006 and 2011. These estimates do not include mature individuals that have skipped breeding in a season, which have been estimated to comprise up to 20% of the total breeding-age population (Southwell et al. 2017), nor pre-breeding individuals (the species not beginning to breed until an average of 4-5 years; Ainley 2002). The global population of breeding-aged individuals is thus likely to be around 10 million mature individuals; the total population including both mature and pre-breeding birds is around 14-16 million individuals (Southwell et al. 2017)."
 
 ## Range information
 From Birds of the World:
-"The native breeding range of the European Starling covers much of Eurasia, from the British Isles and Scandinavia south to France, central Italy, the Middle East, and east to Lake Baikal, with the wintering range extending into n. Africa (Feare 1984c). Some areas (e.g. Iceland, n. and w. Europe) have been recently (twentieth century) colonized by population expansion.
+"Circumpolar in S; largely restricted to Antarctica."
 
-In addition, starlings have been introduced in a number of areas, allowing for rapid population expansion and colonization. These areas include North America, South Africa, Australia, New Zealand and adjacent islands, Jamaica, and some of the West Indies (Lever 1987)."
-
-Estimated extent of occurrence (IUCN): 33200000 km2
+Estimated extent of occurrence (IUCN): 21000000 km2
 
 ## Other Factors
 
-Generation length: 4.6 years
-Movement patterns: Full migrant (IUCN); variable, primarily in N part of range (BoTW)
-Mass (birds of the world): 83.8 g (males), 79.4 g (females); depending on time of year mean mass ranges from 81-88g for males and 77-82g for females
+Generation length: 12.7 years
+Movement patterns: Full migrant (IUCN); Dispersive (BoTW)
+
+IUCN text:
+"Patterns of movement are well-known for adults during breeding, with foraging within 10-180 km of the coast depending upon colony size (Ballance et al. 2009). Foraging trips can be as far as 380 km during the incubation period (Clarke et al. 2006). During the non-breeding period, adults move into the pack-ice up to 1,000-2,500 km from the breeding colony, depending upon the distance to the sea ice edge (e.g. Clarke et al. 2003, Ballard et al. 2010, Dunn et al. 2011, Hinke et al. 2015, Takahashi et al. 2018, Thiebot et al. 2019, Warwick-Evans et al. 2019). In most cases, this involves moving to the north, although individuals in the northern Antarctic Peninsula shift east or west, and those of the central western Antarctic Peninsula shift south; previously, when winter sea ice was more persistent, there was little movement, with many individuals remaining in the vicinity of their colony sites year round (Parmelee et al. 1977)."
+
+BoTW:
+"after breeding birds move N towards rich feeding grounds..movements during winter months were closely related to movement patterns of sea ice, which were, in turn, influenced by oceanic currents and wind, and the researchers suggested that large gyral oceanic systems provide a means for penguins to reduce costs of transport as they move into regions of high productivity in winter and return to colonies in spring"
+
+Mass (birds of the world): 3.8-8.2 kg
 
 ## Genome
 
-Genome (RefSeq as of 9/18/2023): [GCF_001447265.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_001447265.1/)
+Genome (RefSeq as of 9/18/2023): [GCF_000699105.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000699105.1/)
 Sequencing type: Illumina
-Scaffold N50: 3.4 Mb
-Contig N50: 151.9 kb
-Annotation: Yes, [NCBI Annotation Release 100](https://www.ncbi.nlm.nih.gov/genome/annotation_euk/Sturnus_vulgaris/100/)
-Annotation BUSCO: C:99.1%(S:98.8%,D:0.3%),F:0.4%,M:0.5%,n:10844; passeriformes_odb10 (10844)
+Scaffold N50: 5.1 Mb
+Contig N50: 22.2 kb
+Annotation: Yes, [NCBI Annotation Release 100](https://www.ncbi.nlm.nih.gov/genome/annotation_euk/Pygoscelis_adeliae/100/)
+Annotation BUSCO: C:98.7%[S:98.6%,D:0.1%],F:0.6%,M:0.7%,n:8338; aves_odb10 (8338)
 
-Genome is [published](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9796300/)
-RefSeq genome (Illumina) is from a North American bird; a second genome (10x linked reads, low coverage Nanopore) from an Australian bird is also published in same paper. 
+Genome is [published](https://pubmed.ncbi.nlm.nih.gov/25504712/), part of first wave of B10K genomes in 2014
 
 ## Population Genetics
 
-Resequencing samples are in [PRJNA935977](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA935977/), [publication](https://academic.oup.com/mbe/article/40/3/msad046/7052962)
+Genome individual is in [PRJNA235983](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA235983/)
 
-Resequencing includes three main locations: Australia (eight sampling sites), North America (New York), United Kingdom (Newcastle upon Tyne). Only a subset of the Australian individuals (labeled au09-au33 in paper) are releasted in PRJNA935977. The remainder are supposed to be in PRJNA938765, associated with [this publication](https://www.biorxiv.org/content/10.1101/2021.05.19.442026v1.full), but PRJNA938765 does not exist. 
+A second individual was sequenced as part of another [comparative genomics study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7486704/), in [PRJNA530615](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA530615)
 
-Corresponding author of Stuart et al 2023 MBE emailed on 9/18/2023
+A captive trio from SeaWorld was sequenced as part of [another study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9995274/), in [PRJNA767781](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA767781)
 
-Genome individual is in [PRJNA293892](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA293892)
+A population on Inexpressible Island, Antartica, [published](10.17520/biods.2019255) and in [PRJNA544154](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA544154)
+
+Another set of samples sequenced from arounnd Antartica, [published](https://www.biorxiv.org/content/10.1101/2020.03.09.972364v1.full) and in [PRJNA210803](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA544154)
+
+## Sample Sheet Construction
+
+For this project, we'll exclude the captive trio from SeaWorld, but use all other individuals.
+
 
 
