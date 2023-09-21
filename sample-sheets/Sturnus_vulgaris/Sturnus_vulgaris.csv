@@ -1,0 +1,59 @@
+BioProject,BioSample,Run,LibraryName,refGenome,Instrument,Organism,Sample Name,Collection_Date,env_broad_scale,geo_loc_name_country,geo_loc_name_country_continent,Lat_Lon,sex
+PRJNA293892,SAMN04029017,SRR2240703,2895233872,GCF_001447265.1,Illumina HiSeq 2000,Sturnus vulgaris,530690,unknown,unknown,unknown,North America,unknown,male
+PRJNA293892,SAMN04029017,SRR2240704,2895233872,GCF_001447265.1,Illumina HiSeq 2000,Sturnus vulgaris,530690,unknown,unknown,unknown,North America,unknown,male
+PRJNA293892,SAMN04029017,SRR2240707,2895251136,GCF_001447265.1,Illumina HiSeq 2000,Sturnus vulgaris,530690,unknown,unknown,unknown,North America,unknown,male
+PRJNA293892,SAMN04029017,SRR2240708,2895251136,GCF_001447265.1,Illumina HiSeq 2000,Sturnus vulgaris,530690,unknown,unknown,unknown,North America,unknown,male
+PRJNA293892,SAMN04029017,SRR2240710,2895251138,GCF_001447265.1,Illumina HiSeq 2000,Sturnus vulgaris,530690,unknown,unknown,unknown,North America,unknown,male
+PRJNA293892,SAMN04029017,SRR2240712,2895251137,GCF_001447265.1,Illumina HiSeq 2000,Sturnus vulgaris,530690,unknown,unknown,unknown,North America,unknown,male
+PRJNA293892,SAMN04029017,SRR2240747,2895233871,GCF_001447265.1,Illumina HiSeq 2000,Sturnus vulgaris,530690,unknown,unknown,unknown,North America,unknown,male
+PRJNA293892,SAMN04029017,SRR2240705,2895233871,GCF_001447265.1,Illumina HiSeq 2000,Sturnus vulgaris,530690,unknown,unknown,unknown,North America,unknown,male
+PRJNA293892,SAMN04029017,SRR2240709,2895251137,GCF_001447265.1,Illumina HiSeq 2000,Sturnus vulgaris,530690,unknown,unknown,unknown,North America,unknown,male
+PRJNA938765,SAMN33443915,SRR23619989,us02_nyc,GCF_001447265.1,Illumina HiSeq X,Sturnus vulgaris,us02_nyc,2016,Scrubland,USA,North America,40.730610 N 73.935242 W,unknown
+PRJNA938765,SAMN33443914,SRR23619990,us01_nyc,GCF_001447265.1,Illumina HiSeq X,Sturnus vulgaris,us01_nyc,2016,Scrubland,USA,North America,40.730609 N 73.935242 W,unknown
+PRJNA938765,SAMN33443913,SRR23619991,au08_won,GCF_001447265.1,Illumina HiSeq X,Sturnus vulgaris,au08_won,2016,Scrubland,Australia,Oceania,38.6047 S 145.6367 E,unknown
+PRJNA938765,SAMN33443912,SRR23619992,au07_won,GCF_001447265.1,Illumina HiSeq X,Sturnus vulgaris,au07_won,2016,Scrubland,Australia,Oceania,38.6048 S 145.6367 E,unknown
+PRJNA938765,SAMN33443911,SRR23619993,au06_men,GCF_001447265.1,Illumina HiSeq X,Sturnus vulgaris,au06_men,2016,Scrubland,Australia,Oceania,35.69 S 139.337 E,unknown
+PRJNA938765,SAMN33443910,SRR23619994,au05_men,GCF_001447265.1,Illumina HiSeq X,Sturnus vulgaris,au05_men,2016,Scrubland,Australia,Oceania,35.68 S 139.337 E,unknown
+PRJNA938765,SAMN33443909,SRR23619995,au04_mai,GCF_001447265.1,Illumina HiSeq X,Sturnus vulgaris,au04_mai,2016,Scrubland,Australia,Oceania,32.7475 S 151.7233 E,unknown
+PRJNA938765,SAMN33443929,SRR23619996,uk08_nwc,GCF_001447265.1,Illumina HiSeq X,Sturnus vulgaris,uk08_nwc,2016,Scrubland,United Kingdom,Europe,55.208256 N 2.078412 W,unknown
+PRJNA938765,SAMN33443928,SRR23619997,uk07_nwc,GCF_001447265.1,Illumina HiSeq X,Sturnus vulgaris,uk07_nwc,2016,Scrubland,United Kingdom,Europe,55.208255 N 2.078412 W,unknown
+PRJNA938765,SAMN33443927,SRR23619998,uk06_nwc,GCF_001447265.1,Illumina HiSeq X,Sturnus vulgaris,uk06_nwc,2016,Scrubland,United Kingdom,Europe,55.208254 N 2.078413 W,unknown
+PRJNA938765,SAMN33443926,SRR23619999,uk05_nwc,GCF_001447265.1,Illumina HiSeq X,Sturnus vulgaris,uk05_nwc,2016,Scrubland,United Kingdom,Europe,55.208253 N 2.078412 W,unknown
+PRJNA938765,SAMN33443908,SRR23620000,au03_mai,GCF_001447265.1,Illumina HiSeq X,Sturnus vulgaris,au03_mai,2016,Scrubland,Australia,Oceania,32.7474 S 151.7233 E,unknown
+PRJNA938765,SAMN33443925,SRR23620001,uk04_nwc,GCF_001447265.1,Illumina HiSeq X,Sturnus vulgaris,uk04_nwc,2016,Scrubland,United Kingdom,Europe,55.208256 N 2.078414 W,unknown
+PRJNA938765,SAMN33443924,SRR23620002,uk03_nwc,GCF_001447265.1,Illumina HiSeq X,Sturnus vulgaris,uk03_nwc,2016,Scrubland,United Kingdom,Europe,55.208255 N 2.078414 W,unknown
+PRJNA938765,SAMN33443923,SRR23620003,uk02_nwc,GCF_001447265.1,Illumina HiSeq X,Sturnus vulgaris,uk02_nwc,2016,Scrubland,United Kingdom,Europe,55.208254 N 2.078414 W,unknown
+PRJNA938765,SAMN33443922,SRR23620004,uk01_nwc,GCF_001447265.1,Illumina HiSeq X,Sturnus vulgaris,uk01_nwc,2016,Scrubland,United Kingdom,Europe,55.208253 N 2.078414 W,unknown
+PRJNA938765,SAMN33443921,SRR23620005,us08_nyc,GCF_001447265.1,Illumina HiSeq X,Sturnus vulgaris,us08_nyc,2016,Scrubland,USA,North America,40.730612 N 73.935243 W,unknown
+PRJNA938765,SAMN33443920,SRR23620006,us07_nyc,GCF_001447265.1,Illumina HiSeq X,Sturnus vulgaris,us07_nyc,2016,Scrubland,USA,North America,40.730609 N 73.935241 W,unknown
+PRJNA938765,SAMN33443919,SRR23620007,us06_nyc,GCF_001447265.1,Illumina HiSeq X,Sturnus vulgaris,us06_nyc,2016,Scrubland,USA,North America,40.730609 N 73.935244 W,unknown
+PRJNA938765,SAMN33443918,SRR23620008,us05_nyc,GCF_001447265.1,Illumina HiSeq X,Sturnus vulgaris,us05_nyc,2016,Scrubland,USA,North America,40.730609 N 73.935243 W,unknown
+PRJNA938765,SAMN33443917,SRR23620009,us04_nyc,GCF_001447265.1,Illumina HiSeq X,Sturnus vulgaris,us04_nyc,2016,Scrubland,USA,North America,40.730612 N 73.935242 W,unknown
+PRJNA938765,SAMN33443916,SRR23620010,us03_nyc,GCF_001447265.1,Illumina HiSeq X,Sturnus vulgaris,us03_nyc,2016,Scrubland,USA,North America,40.730611 N 73.935242 W,unknown
+PRJNA938765,SAMN33443907,SRR23620011,au02_lem,GCF_001447265.1,Illumina HiSeq X,Sturnus vulgaris,au02_lem,2016,Scrubland,Australia,Oceania,27.7895 S 151.2815 E,unknown
+PRJNA938765,SAMN33443906,SRR23620012,au01_lem,GCF_001447265.1,Illumina HiSeq X,Sturnus vulgaris,au01_lem,2016,Scrubland,Australia,Oceania,27.7894 S 151.2815 E,unknown
+PRJNA935977,SAMN33331026,SRR23502954,au18_con,GCF_001447265.1,Illumina NovaSeq 6000,Sturnus vulgaris,au18_con,2005,Scrubland,Australia,Oceania,33.7479 S 122.5269 E,unknown
+PRJNA935977,SAMN33331025,SRR23502955,au17_mun,GCF_001447265.1,Illumina NovaSeq 6000,Sturnus vulgaris,au17_mun,2005,Scrubland,Australia,Oceania,33.7020 S 120.8585 E,unknown
+PRJNA935977,SAMN33331024,SRR23502956,au16_mun,GCF_001447265.1,Illumina NovaSeq 6000,Sturnus vulgaris,au16_mun,2005,Scrubland,Australia,Oceania,33.7021 S 120.8585 E,unknown
+PRJNA935977,SAMN33331023,SRR23502957,au15_men,GCF_001447265.1,Illumina NovaSeq 6000,Sturnus vulgaris,au15_men,2005,Scrubland,Australia,Oceania,35.69 S 139.337 E,unknown
+PRJNA935977,SAMN33331022,SRR23502958,au14_dub,GCF_001447265.1,Illumina HiSeq X,Sturnus vulgaris,au14_dub,2011,Scrubland,Australia,Oceania,32.2449 S 148.6017 E,unknown
+PRJNA935977,SAMN33331021,SRR23502959,au13_hay,GCF_001447265.1,Illumina HiSeq X,Sturnus vulgaris,au13_hay,2011,Scrubland,Australia,Oceania,34.4844 S 144.8174 E,unknown
+PRJNA935977,SAMN33331020,SRR23502960,au12_con,GCF_001447265.1,Illumina HiSeq X,Sturnus vulgaris,au12_con,2005,Scrubland,Australia,Oceania,33.7478 S 122.5269 E,unknown
+PRJNA935977,SAMN33331041,SRR23502961,au33_mun,GCF_001447265.1,Illumina NovaSeq 6000,Sturnus vulgaris,au33_mun,2005,Scrubland,Australia,Oceania,33.7026 S 120.8585 E,unknown
+PRJNA935977,SAMN33331040,SRR23502962,au32_mun,GCF_001447265.1,Illumina NovaSeq 6000,Sturnus vulgaris,au32_mun,2005,Scrubland,Australia,Oceania,33.7025 S 120.8585 E,unknown
+PRJNA935977,SAMN33331039,SRR23502963,au31_mun,GCF_001447265.1,Illumina NovaSeq 6000,Sturnus vulgaris,au31_mun,2005,Scrubland,Australia,Oceania,33.383871 S 115.743682 E,unknown
+PRJNA935977,SAMN33331038,SRR23502964,au30_won,GCF_001447265.1,Illumina NovaSeq 6000,Sturnus vulgaris,au30_won,2011,Temperate Forest,Australia,Oceania,38.6048 S 145.6367 E,unknown
+PRJNA935977,SAMN33331037,SRR23502965,au29_mun,GCF_001447265.1,Illumina NovaSeq 6000,Sturnus vulgaris,au29_mun,2005,Scrubland,Australia,Oceania,33.76099 S 120.942153 E,unknown
+PRJNA935977,SAMN33331019,SRR23502966,au11_mun,GCF_001447265.1,Illumina HiSeq X,Sturnus vulgaris,au11_mun,2005,Scrubland,Australia,Oceania,33.7022 S 120.8585 E,unknown
+PRJNA935977,SAMN33331036,SRR23502967,au28_mun,GCF_001447265.1,Illumina NovaSeq 6000,Sturnus vulgaris,au28_mun,2005,Scrubland,Australia,Oceania,33.7024 S 120.8585 E,unknown
+PRJNA935977,SAMN33331035,SRR23502968,au27_mai,GCF_001447265.1,Illumina NovaSeq 6000,Sturnus vulgaris,au27_mai,2011,Temperate Forest,Australia,Oceania,32.7475 S 151.7233 E,unknown
+PRJNA935977,SAMN33331034,SRR23502969,au26_lem,GCF_001447265.1,Illumina NovaSeq 6000,Sturnus vulgaris,au26_lem,2011,Temperate Forest,Australia,Oceania,27.7895 S 151.2815 E,unknown
+PRJNA935977,SAMN33331033,SRR23502970,au25_hay,GCF_001447265.1,Illumina NovaSeq 6000,Sturnus vulgaris,au25_hay,2011,Scrubland,Australia,Oceania,34.4845 S 144.8174 E,unknown
+PRJNA935977,SAMN33331032,SRR23502971,au24_dub,GCF_001447265.1,Illumina NovaSeq 6000,Sturnus vulgaris,au24_dub,2011,Scrubland,Australia,Oceania,32.2447 S 148.6017 E,unknown
+PRJNA935977,SAMN33331031,SRR23502972,au23_dub,GCF_001447265.1,Illumina NovaSeq 6000,Sturnus vulgaris,au23_dub,2011,Scrubland,Australia,Oceania,32.2446 S 148.6017 E,unknown
+PRJNA935977,SAMN33331030,SRR23502973,au22_hob,GCF_001447265.1,Illumina NovaSeq 6000,Sturnus vulgaris,au22_hob,2005,Temperate Forest,Australia,Oceania,42.8827 S 147.3257 E,unknown
+PRJNA935977,SAMN33331029,SRR23502974,au21_hob,GCF_001447265.1,Illumina NovaSeq 6000,Sturnus vulgaris,au21_hob,2005,Temperate Forest,Australia,Oceania,42.8826 S 147.3257 E,unknown
+PRJNA935977,SAMN33331028,SRR23502975,au20_hob,GCF_001447265.1,Illumina NovaSeq 6000,Sturnus vulgaris,au20_hob,2005,Temperate Forest,Australia,Oceania,42.8825 S 147.3257 E,unknown
+PRJNA935977,SAMN33331027,SRR23502976,au19_con,GCF_001447265.1,Illumina NovaSeq 6000,Sturnus vulgaris,au19_con,2005,Scrubland,Australia,Oceania,33.7477 S 122.5269 E,unknown
+PRJNA935977,SAMN33331018,SRR23502977,au10_hay,GCF_001447265.1,Illumina HiSeq X,Sturnus vulgaris,au10_hay,2011,Scrubland,Australia,Oceania,34.4843 S 144.8174 E,unknown
+PRJNA935977,SAMN33331017,SRR23502978,au09_mun,GCF_001447265.1,Illumina HiSeq X,Sturnus vulgaris,au09_mun,2005,Scrubland,Australia,Oceania,33.7019 S 120.8585 E,unknown
