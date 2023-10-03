@@ -44,10 +44,10 @@ RefSeq genome (Illumina) is from a North American bird; a second genome (10x lin
 
 Resequencing samples are in [PRJNA935977](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA935977/), [publication](https://academic.oup.com/mbe/article/40/3/msad046/7052962)
 
-Resequencing includes three main locations: Australia (eight sampling sites), North America (New York), United Kingdom (Newcastle upon Tyne). Only a subset of the Australian individuals (labeled au09-au33 in paper) are releasted in PRJNA935977. The remainder are supposed to be in PRJNA938765, associated with [this publication](https://www.biorxiv.org/content/10.1101/2021.05.19.442026v1.full), but PRJNA938765 does not exist. 
-
-Corresponding author of Stuart et al 2023 MBE emailed on 9/18/2023
+Resequencing includes three main locations: Australia (eight sampling sites), North America (New York), United Kingdom (Newcastle upon Tyne). Only a subset of the Australian individuals (labeled au09-au33 in paper) are releasted in PRJNA935977. The remainder are in PRJNA938765, associated with [this publication](https://www.biorxiv.org/content/10.1101/2021.05.19.442026v1.full).
 
 Genome individual is in [PRJNA293892](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA293892)
 
+## Sample Sheet Construction
 
+All individuals used for sample sheet. 
